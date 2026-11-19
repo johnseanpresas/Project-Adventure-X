@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: 8962cd1fb205ce942858e2735da59a31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7662375206153492303
+    second: Hurt Mage Idle Animation Sprite Sheet_0
+  - first:
+      213: -9068793017974016879
+    second: Hurt Mage Idle Animation Sprite Sheet_1
+  - first:
+      213: 6290193508901753264
+    second: Hurt Mage Idle Animation Sprite Sheet_2
+  - first:
+      213: 7744413493894134886
+    second: Hurt Mage Idle Animation Sprite Sheet_3
+  - first:
+      213: 3813143362823819132
+    second: Hurt Mage Idle Animation Sprite Sheet_4
+  - first:
+      213: 4311055408507577737
+    second: Hurt Mage Idle Animation Sprite Sheet_5
+  - first:
+      213: -6321012151553608412
+    second: Hurt Mage Idle Animation Sprite Sheet_6
+  - first:
+      213: 5666331498627441764
+    second: Hurt Mage Idle Animation Sprite Sheet_7
+  - first:
+      213: 2671937296260571705
+    second: Hurt Mage Idle Animation Sprite Sheet_8
+  - first:
+      213: 7429409823498316190
+    second: Hurt Mage Idle Animation Sprite Sheet_9
+  - first:
+      213: -874332981543689505
+    second: Hurt Mage Idle Animation Sprite Sheet_10
+  - first:
+      213: -8266204382835062479
+    second: Hurt Mage Idle Animation Sprite Sheet_11
+  - first:
+      213: 547149584099863379
+    second: Hurt Mage Idle Animation Sprite Sheet_12
+  - first:
+      213: 8238103284363681336
+    second: Hurt Mage Idle Animation Sprite Sheet_13
+  - first:
+      213: -605123912553241470
+    second: Hurt Mage Idle Animation Sprite Sheet_14
+  - first:
+      213: -3302011294882872606
+    second: Hurt Mage Idle Animation Sprite Sheet_15
+  - first:
+      213: -1142874952092812481
+    second: Hurt Mage Idle Animation Sprite Sheet_16
+  - first:
+      213: -1101272163254275382
+    second: Hurt Mage Idle Animation Sprite Sheet_17
+  - first:
+      213: 741313598130295603
+    second: Hurt Mage Idle Animation Sprite Sheet_18
+  - first:
+      213: -6833111309989041661
+    second: Hurt Mage Idle Animation Sprite Sheet_19
+  - first:
+      213: -1018655606582015797
+    second: Hurt Mage Idle Animation Sprite Sheet_20
+  - first:
+      213: 1661740161631284079
+    second: Hurt Mage Idle Animation Sprite Sheet_21
+  - first:
+      213: -5022457017038886450
+    second: Hurt Mage Idle Animation Sprite Sheet_22
+  - first:
+      213: 3443525345984623389
+    second: Hurt Mage Idle Animation Sprite Sheet_23
+  - first:
+      213: -1929150936648630180
+    second: Hurt Mage Idle Animation Sprite Sheet_24
+  - first:
+      213: -3287042067176993111
+    second: Hurt Mage Idle Animation Sprite Sheet_25
+  - first:
+      213: -5907983056502326277
+    second: Hurt Mage Idle Animation Sprite Sheet_26
+  - first:
+      213: -215266616194933340
+    second: Hurt Mage Idle Animation Sprite Sheet_27
+  - first:
+      213: 8812448673337378551
+    second: Hurt Mage Idle Animation Sprite Sheet_28
+  - first:
+      213: -447367487802488117
+    second: Hurt Mage Idle Animation Sprite Sheet_29
+  - first:
+      213: -1136446888940021066
+    second: Hurt Mage Idle Animation Sprite Sheet_30
+  - first:
+      213: -3631854085288945926
+    second: Hurt Mage Idle Animation Sprite Sheet_31
+  - first:
+      213: -6058620789047840750
+    second: Hurt Mage Idle Animation Sprite Sheet_32
+  - first:
+      213: -8096725043565779468
+    second: Hurt Mage Idle Animation Sprite Sheet_33
+  - first:
+      213: 7819251137008156180
+    second: Hurt Mage Idle Animation Sprite Sheet_34
+  - first:
+      213: -338052323055444011
+    second: Hurt Mage Idle Animation Sprite Sheet_35
+  - first:
+      213: 1171787382325369023
+    second: Hurt Mage Idle Animation Sprite Sheet_36
+  - first:
+      213: -8573674756571789312
+    second: Hurt Mage Idle Animation Sprite Sheet_37
+  - first:
+      213: 187738323904011633
+    second: Hurt Mage Idle Animation Sprite Sheet_38
+  - first:
+      213: 5684350042886253081
+    second: Hurt Mage Idle Animation Sprite Sheet_39
+  - first:
+      213: 4786761318892221761
+    second: Hurt Mage Idle Animation Sprite Sheet_40
+  - first:
+      213: -4753413103147501449
+    second: Hurt Mage Idle Animation Sprite Sheet_41
+  - first:
+      213: -9147255614420799684
+    second: Hurt Mage Idle Animation Sprite Sheet_42
+  - first:
+      213: -2912178613705319934
+    second: Hurt Mage Idle Animation Sprite Sheet_43
+  - first:
+      213: 19718776033384667
+    second: Hurt Mage Idle Animation Sprite Sheet_44
+  - first:
+      213: 439048831263127485
+    second: Hurt Mage Idle Animation Sprite Sheet_45
+  - first:
+      213: -154711469402018135
+    second: Hurt Mage Idle Animation Sprite Sheet_46
+  - first:
+      213: 1049160879185629344
+    second: Hurt Mage Idle Animation Sprite Sheet_47
+  - first:
+      213: -2738825413044665135
+    second: Hurt Mage Idle Animation Sprite Sheet_48
+  - first:
+      213: 4244060702685294581
+    second: Hurt Mage Idle Animation Sprite Sheet_49
+  - first:
+      213: -366885944033840997
+    second: Hurt Mage Idle Animation Sprite Sheet_50
+  - first:
+      213: -3921120961540303665
+    second: Hurt Mage Idle Animation Sprite Sheet_51
+  - first:
+      213: 2469268198268187650
+    second: Hurt Mage Idle Animation Sprite Sheet_52
+  - first:
+      213: 1590364054718024123
+    second: Hurt Mage Idle Animation Sprite Sheet_53
+  - first:
+      213: 7709971121077055824
+    second: Hurt Mage Idle Animation Sprite Sheet_54
+  - first:
+      213: -1082576615411075680
+    second: Hurt Mage Idle Animation Sprite Sheet_55
+  - first:
+      213: 3013974098859768675
+    second: Hurt Mage Idle Animation Sprite Sheet_56
+  - first:
+      213: -2748838098580706395
+    second: Hurt Mage Idle Animation Sprite Sheet_57
+  - first:
+      213: 5876024840761477876
+    second: Hurt Mage Idle Animation Sprite Sheet_58
+  - first:
+      213: 8244675679533449652
+    second: Hurt Mage Idle Animation Sprite Sheet_59
+  - first:
+      213: -4339075566735462183
+    second: Hurt Mage Idle Animation Sprite Sheet_60
+  - first:
+      213: 2565087380655088343
+    second: Hurt Mage Idle Animation Sprite Sheet_61
+  - first:
+      213: 752290636885870594
+    second: Hurt Mage Idle Animation Sprite Sheet_62
+  - first:
+      213: 171774161916667164
+    second: Hurt Mage Idle Animation Sprite Sheet_63
+  - first:
+      213: -8183231684744557426
+    second: Hurt Mage Idle Animation Sprite Sheet_64
+  - first:
+      213: -5085345863239392676
+    second: Hurt Mage Idle Animation Sprite Sheet_65
+  - first:
+      213: -7623521444490088787
+    second: Hurt Mage Idle Animation Sprite Sheet_66
+  - first:
+      213: -687324397718396981
+    second: Hurt Mage Idle Animation Sprite Sheet_67
+  - first:
+      213: 555216658012019004
+    second: Hurt Mage Idle Animation Sprite Sheet_68
+  - first:
+      213: -2031883169247414010
+    second: Hurt Mage Idle Animation Sprite Sheet_69
+  - first:
+      213: 5510445942011122322
+    second: Hurt Mage Idle Animation Sprite Sheet_70
+  - first:
+      213: 2947739736213417091
+    second: Hurt Mage Idle Animation Sprite Sheet_71
+  - first:
+      213: -3183653356906684991
+    second: Hurt Mage Idle Animation Sprite Sheet_72
+  - first:
+      213: 1854487137179675777
+    second: Hurt Mage Idle Animation Sprite Sheet_73
+  - first:
+      213: -3349301443982309667
+    second: Hurt Mage Idle Animation Sprite Sheet_74
+  - first:
+      213: -5571842077974584149
+    second: Hurt Mage Idle Animation Sprite Sheet_75
+  - first:
+      213: 7989545081807915797
+    second: Hurt Mage Idle Animation Sprite Sheet_76
+  - first:
+      213: 8923154464874514383
+    second: Hurt Mage Idle Animation Sprite Sheet_77
+  - first:
+      213: 2251774375248764832
+    second: Hurt Mage Idle Animation Sprite Sheet_78
+  - first:
+      213: 1762328520443830150
+    second: Hurt Mage Idle Animation Sprite Sheet_79
+  - first:
+      213: 5651501510212165896
+    second: Hurt Mage Idle Animation Sprite Sheet_80
+  - first:
+      213: 6990500117922774764
+    second: Hurt Mage Idle Animation Sprite Sheet_81
+  - first:
+      213: -6725813631179401957
+    second: Hurt Mage Idle Animation Sprite Sheet_82
+  - first:
+      213: 5816236055512605431
+    second: Hurt Mage Idle Animation Sprite Sheet_83
+  - first:
+      213: 3427440232913433625
+    second: Hurt Mage Idle Animation Sprite Sheet_84
+  - first:
+      213: -4484553504181813646
+    second: Hurt Mage Idle Animation Sprite Sheet_85
+  - first:
+      213: 3869179792661459439
+    second: Hurt Mage Idle Animation Sprite Sheet_86
+  - first:
+      213: 7472262251061134698
+    second: Hurt Mage Idle Animation Sprite Sheet_87
+  - first:
+      213: -3558808751797191245
+    second: Hurt Mage Idle Animation Sprite Sheet_88
+  - first:
+      213: -5985719759209264925
+    second: Hurt Mage Idle Animation Sprite Sheet_89
+  - first:
+      213: -79709757450750484
+    second: Hurt Mage Idle Animation Sprite Sheet_90
+  - first:
+      213: 328018163322024027
+    second: Hurt Mage Idle Animation Sprite Sheet_91
+  - first:
+      213: 6816062849894667819
+    second: Hurt Mage Idle Animation Sprite Sheet_92
+  - first:
+      213: -1331382968188580178
+    second: Hurt Mage Idle Animation Sprite Sheet_93
+  - first:
+      213: 7311106425936799862
+    second: Hurt Mage Idle Animation Sprite Sheet_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e575d856c9a590800000000000000
+      internalID: -7662375206153492303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194bd167ccc252280800000000000000
+      internalID: -9068793017974016879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19e826ba14b4750800000000000000
+      internalID: 6290193508901753264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c3d418a0fa97b60800000000000000
+      internalID: 7744413493894134886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f80c28fa10be430800000000000000
+      internalID: 3813143362823819132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ee179d02f3db30800000000000000
+      internalID: 4311055408507577737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42538b530f04748a0800000000000000
+      internalID: -6321012151553608412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hurt Mage Idle Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464ab4bf97ad2ae40800000000000000
+      internalID: 5666331498627441764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e14619bdaca1d834c8490fd6a6d539eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hurt Mage Idle Animation Sprite Sheet_0: -7662375206153492303
+      Hurt Mage Idle Animation Sprite Sheet_1: -9068793017974016879
+      Hurt Mage Idle Animation Sprite Sheet_2: 6290193508901753264
+      Hurt Mage Idle Animation Sprite Sheet_3: 7744413493894134886
+      Hurt Mage Idle Animation Sprite Sheet_4: 3813143362823819132
+      Hurt Mage Idle Animation Sprite Sheet_5: 4311055408507577737
+      Hurt Mage Idle Animation Sprite Sheet_6: -6321012151553608412
+      Hurt Mage Idle Animation Sprite Sheet_7: 5666331498627441764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

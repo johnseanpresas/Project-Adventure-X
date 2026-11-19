@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 23172c9e3a850e54d9505d8f24f0a82f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3960159041603673358
+    second: Ranger Idle Breath Sprite Sheet_0
+  - first:
+      213: -1539875150631280247
+    second: Ranger Idle Breath Sprite Sheet_1
+  - first:
+      213: -2026183130390471572
+    second: Ranger Idle Breath Sprite Sheet_2
+  - first:
+      213: -2043147913073029317
+    second: Ranger Idle Breath Sprite Sheet_3
+  - first:
+      213: 209037099465431926
+    second: Ranger Idle Breath Sprite Sheet_4
+  - first:
+      213: 2880076759772897006
+    second: Ranger Idle Breath Sprite Sheet_5
+  - first:
+      213: 5010506367978033396
+    second: Ranger Idle Breath Sprite Sheet_6
+  - first:
+      213: 5569674938829551233
+    second: Ranger Idle Breath Sprite Sheet_7
+  - first:
+      213: 2682867880383059659
+    second: Ranger Idle Breath Sprite Sheet_8
+  - first:
+      213: -4421041075898370439
+    second: Ranger Idle Breath Sprite Sheet_9
+  - first:
+      213: -8367858682093515380
+    second: Ranger Idle Breath Sprite Sheet_10
+  - first:
+      213: -1173989198712043594
+    second: Ranger Idle Breath Sprite Sheet_11
+  - first:
+      213: -2096251703133511250
+    second: Ranger Idle Breath Sprite Sheet_12
+  - first:
+      213: -5251222649281092092
+    second: Ranger Idle Breath Sprite Sheet_13
+  - first:
+      213: 2913138982532656937
+    second: Ranger Idle Breath Sprite Sheet_14
+  - first:
+      213: -5411774390415481966
+    second: Ranger Idle Breath Sprite Sheet_15
+  - first:
+      213: -6841619710121019512
+    second: Ranger Idle Breath Sprite Sheet_16
+  - first:
+      213: -93370036267139547
+    second: Ranger Idle Breath Sprite Sheet_17
+  - first:
+      213: -2097359417748734927
+    second: Ranger Idle Breath Sprite Sheet_18
+  - first:
+      213: -2437090597747149808
+    second: Ranger Idle Breath Sprite Sheet_19
+  - first:
+      213: 574685543772385584
+    second: Ranger Idle Breath Sprite Sheet_20
+  - first:
+      213: -2924208723748074505
+    second: Ranger Idle Breath Sprite Sheet_21
+  - first:
+      213: 736657627522127450
+    second: Ranger Idle Breath Sprite Sheet_22
+  - first:
+      213: 6970433355953735362
+    second: Ranger Idle Breath Sprite Sheet_23
+  - first:
+      213: -8948606108010621956
+    second: Ranger Idle Breath Sprite Sheet_24
+  - first:
+      213: 8613942677940311552
+    second: Ranger Idle Breath Sprite Sheet_25
+  - first:
+      213: -7687973504947598442
+    second: Ranger Idle Breath Sprite Sheet_26
+  - first:
+      213: -113820983749233026
+    second: Ranger Idle Breath Sprite Sheet_27
+  - first:
+      213: 7561574142081334887
+    second: Ranger Idle Breath Sprite Sheet_28
+  - first:
+      213: -110318906004778377
+    second: Ranger Idle Breath Sprite Sheet_29
+  - first:
+      213: -1751618777351224194
+    second: Ranger Idle Breath Sprite Sheet_30
+  - first:
+      213: 5166305234112535967
+    second: Ranger Idle Breath Sprite Sheet_31
+  - first:
+      213: 5353189941557078238
+    second: Ranger Idle Breath Sprite Sheet_32
+  - first:
+      213: 8508650465228000674
+    second: Ranger Idle Breath Sprite Sheet_33
+  - first:
+      213: -3856254878147131574
+    second: Ranger Idle Breath Sprite Sheet_34
+  - first:
+      213: 6304931868952929910
+    second: Ranger Idle Breath Sprite Sheet_35
+  - first:
+      213: 5646463072756686079
+    second: Ranger Idle Breath Sprite Sheet_36
+  - first:
+      213: 2159209851799639061
+    second: Ranger Idle Breath Sprite Sheet_37
+  - first:
+      213: 491996317381787767
+    second: Ranger Idle Breath Sprite Sheet_38
+  - first:
+      213: -1908153029314433754
+    second: Ranger Idle Breath Sprite Sheet_39
+  - first:
+      213: -3060660565604586200
+    second: Ranger Idle Breath Sprite Sheet_40
+  - first:
+      213: 4576031462371157122
+    second: Ranger Idle Breath Sprite Sheet_41
+  - first:
+      213: -1895333842671074744
+    second: Ranger Idle Breath Sprite Sheet_42
+  - first:
+      213: -4785199570189377113
+    second: Ranger Idle Breath Sprite Sheet_43
+  - first:
+      213: -1641942491178201969
+    second: Ranger Idle Breath Sprite Sheet_44
+  - first:
+      213: -1973757223853358160
+    second: Ranger Idle Breath Sprite Sheet_45
+  - first:
+      213: 4333423550602074213
+    second: Ranger Idle Breath Sprite Sheet_46
+  - first:
+      213: 6922495761814559012
+    second: Ranger Idle Breath Sprite Sheet_47
+  - first:
+      213: 3959261543155197958
+    second: Ranger Idle Breath Sprite Sheet_48
+  - first:
+      213: -1633507827171294750
+    second: Ranger Idle Breath Sprite Sheet_49
+  - first:
+      213: 8426662985686796796
+    second: Ranger Idle Breath Sprite Sheet_50
+  - first:
+      213: 235287955259860197
+    second: Ranger Idle Breath Sprite Sheet_51
+  - first:
+      213: 493087623921517686
+    second: Ranger Idle Breath Sprite Sheet_52
+  - first:
+      213: -4626409492783232322
+    second: Ranger Idle Breath Sprite Sheet_53
+  - first:
+      213: -5768540109330093400
+    second: Ranger Idle Breath Sprite Sheet_54
+  - first:
+      213: 7328248724666804575
+    second: Ranger Idle Breath Sprite Sheet_55
+  - first:
+      213: 30092965256837617
+    second: Ranger Idle Breath Sprite Sheet_56
+  - first:
+      213: 4442347230463784344
+    second: Ranger Idle Breath Sprite Sheet_57
+  - first:
+      213: -3938245961397053922
+    second: Ranger Idle Breath Sprite Sheet_58
+  - first:
+      213: 1277126521461741122
+    second: Ranger Idle Breath Sprite Sheet_59
+  - first:
+      213: -2802810820669225900
+    second: Ranger Idle Breath Sprite Sheet_60
+  - first:
+      213: 1908193553429339181
+    second: Ranger Idle Breath Sprite Sheet_61
+  - first:
+      213: 2577076241139038606
+    second: Ranger Idle Breath Sprite Sheet_62
+  - first:
+      213: -8913060214092030987
+    second: Ranger Idle Breath Sprite Sheet_63
+  - first:
+      213: 7665311414793596328
+    second: Ranger Idle Breath Sprite Sheet_64
+  - first:
+      213: 5976955949416614637
+    second: Ranger Idle Breath Sprite Sheet_65
+  - first:
+      213: -2727394492842531830
+    second: Ranger Idle Breath Sprite Sheet_66
+  - first:
+      213: 2362118832931973147
+    second: Ranger Idle Breath Sprite Sheet_67
+  - first:
+      213: 7419813924853113982
+    second: Ranger Idle Breath Sprite Sheet_68
+  - first:
+      213: -161500198177433310
+    second: Ranger Idle Breath Sprite Sheet_69
+  - first:
+      213: 8783974987303301373
+    second: Ranger Idle Breath Sprite Sheet_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d96d0aaaf45f630800000000000000
+      internalID: 3960159041603673358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981eb2885b341aae0800000000000000
+      internalID: -1539875150631280247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cdf279d2d81e3e0800000000000000
+      internalID: -2026183130390471572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f83b15cc745a3e0800000000000000
+      internalID: -2043147913073029317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bd38a6226a6e200800000000000000
+      internalID: 209037099465431926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee1f10cd8618f720800000000000000
+      internalID: 2880076759772897006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0d920bef4e88540800000000000000
+      internalID: 5010506367978033396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Idle Breath Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186b453f8d57b4d40800000000000000
+      internalID: 5569674938829551233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff4f254a1a5d7894cab7246774bb1461
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ranger Idle Breath Sprite Sheet_0: 3960159041603673358
+      Ranger Idle Breath Sprite Sheet_1: -1539875150631280247
+      Ranger Idle Breath Sprite Sheet_2: -2026183130390471572
+      Ranger Idle Breath Sprite Sheet_3: -2043147913073029317
+      Ranger Idle Breath Sprite Sheet_4: 209037099465431926
+      Ranger Idle Breath Sprite Sheet_5: 2880076759772897006
+      Ranger Idle Breath Sprite Sheet_6: 5010506367978033396
+      Ranger Idle Breath Sprite Sheet_7: 5569674938829551233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

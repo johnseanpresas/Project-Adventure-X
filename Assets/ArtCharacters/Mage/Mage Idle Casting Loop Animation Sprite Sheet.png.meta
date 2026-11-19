@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 77d6957fe4b8ec949aeee594813ecb0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6503768322435405116
+    second: Mage Idle Casting Loop Animation Sprite Sheet_0
+  - first:
+      213: 244837082885417102
+    second: Mage Idle Casting Loop Animation Sprite Sheet_1
+  - first:
+      213: -7137051321442628008
+    second: Mage Idle Casting Loop Animation Sprite Sheet_2
+  - first:
+      213: 6964867493108608078
+    second: Mage Idle Casting Loop Animation Sprite Sheet_3
+  - first:
+      213: 1173979189464612793
+    second: Mage Idle Casting Loop Animation Sprite Sheet_4
+  - first:
+      213: 6825314393049851720
+    second: Mage Idle Casting Loop Animation Sprite Sheet_5
+  - first:
+      213: 8828381641736242907
+    second: Mage Idle Casting Loop Animation Sprite Sheet_6
+  - first:
+      213: -6841264050657890137
+    second: Mage Idle Casting Loop Animation Sprite Sheet_7
+  - first:
+      213: -3790247209181800701
+    second: Mage Idle Casting Loop Animation Sprite Sheet_8
+  - first:
+      213: 8508697530754593495
+    second: Mage Idle Casting Loop Animation Sprite Sheet_9
+  - first:
+      213: -6529748162100860500
+    second: Mage Idle Casting Loop Animation Sprite Sheet_10
+  - first:
+      213: -2810273659069365837
+    second: Mage Idle Casting Loop Animation Sprite Sheet_11
+  - first:
+      213: 5291512830117854266
+    second: Mage Idle Casting Loop Animation Sprite Sheet_12
+  - first:
+      213: -1149865358553824060
+    second: Mage Idle Casting Loop Animation Sprite Sheet_13
+  - first:
+      213: -7827480499408295264
+    second: Mage Idle Casting Loop Animation Sprite Sheet_14
+  - first:
+      213: -6942543419509848761
+    second: Mage Idle Casting Loop Animation Sprite Sheet_15
+  - first:
+      213: -125972434899407237
+    second: Mage Idle Casting Loop Animation Sprite Sheet_16
+  - first:
+      213: 1713271147565143649
+    second: Mage Idle Casting Loop Animation Sprite Sheet_17
+  - first:
+      213: 3606403775632335746
+    second: Mage Idle Casting Loop Animation Sprite Sheet_18
+  - first:
+      213: 1083082492665326302
+    second: Mage Idle Casting Loop Animation Sprite Sheet_19
+  - first:
+      213: 7416425709974377838
+    second: Mage Idle Casting Loop Animation Sprite Sheet_20
+  - first:
+      213: 7476673309923869542
+    second: Mage Idle Casting Loop Animation Sprite Sheet_21
+  - first:
+      213: -6854699782108405469
+    second: Mage Idle Casting Loop Animation Sprite Sheet_22
+  - first:
+      213: -5748825968455518682
+    second: Mage Idle Casting Loop Animation Sprite Sheet_23
+  - first:
+      213: 4935439278805089286
+    second: Mage Idle Casting Loop Animation Sprite Sheet_24
+  - first:
+      213: -3382120701438284193
+    second: Mage Idle Casting Loop Animation Sprite Sheet_25
+  - first:
+      213: 9201418578484682870
+    second: Mage Idle Casting Loop Animation Sprite Sheet_26
+  - first:
+      213: 9020578238138129645
+    second: Mage Idle Casting Loop Animation Sprite Sheet_27
+  - first:
+      213: 5368432449883109027
+    second: Mage Idle Casting Loop Animation Sprite Sheet_28
+  - first:
+      213: 2016594406462975270
+    second: Mage Idle Casting Loop Animation Sprite Sheet_29
+  - first:
+      213: -8132053934435211829
+    second: Mage Idle Casting Loop Animation Sprite Sheet_30
+  - first:
+      213: 3330459050188001876
+    second: Mage Idle Casting Loop Animation Sprite Sheet_31
+  - first:
+      213: -5406463236836222869
+    second: Mage Idle Casting Loop Animation Sprite Sheet_32
+  - first:
+      213: 6645700506293636225
+    second: Mage Idle Casting Loop Animation Sprite Sheet_33
+  - first:
+      213: -2971178731128602790
+    second: Mage Idle Casting Loop Animation Sprite Sheet_34
+  - first:
+      213: -2184314571138711124
+    second: Mage Idle Casting Loop Animation Sprite Sheet_35
+  - first:
+      213: 4835142544645739336
+    second: Mage Idle Casting Loop Animation Sprite Sheet_36
+  - first:
+      213: -61734814594956223
+    second: Mage Idle Casting Loop Animation Sprite Sheet_37
+  - first:
+      213: 6832107089825677496
+    second: Mage Idle Casting Loop Animation Sprite Sheet_38
+  - first:
+      213: 233952133728629847
+    second: Mage Idle Casting Loop Animation Sprite Sheet_39
+  - first:
+      213: -3399247732761276013
+    second: Mage Idle Casting Loop Animation Sprite Sheet_40
+  - first:
+      213: -2045794352506824907
+    second: Mage Idle Casting Loop Animation Sprite Sheet_41
+  - first:
+      213: -1328867189817233388
+    second: Mage Idle Casting Loop Animation Sprite Sheet_42
+  - first:
+      213: -3467720098301633429
+    second: Mage Idle Casting Loop Animation Sprite Sheet_43
+  - first:
+      213: 438139859025236128
+    second: Mage Idle Casting Loop Animation Sprite Sheet_44
+  - first:
+      213: -8353196451698719059
+    second: Mage Idle Casting Loop Animation Sprite Sheet_45
+  - first:
+      213: -7941329099338088186
+    second: Mage Idle Casting Loop Animation Sprite Sheet_46
+  - first:
+      213: -1768383988300550419
+    second: Mage Idle Casting Loop Animation Sprite Sheet_47
+  - first:
+      213: -3588869542769724958
+    second: Mage Idle Casting Loop Animation Sprite Sheet_48
+  - first:
+      213: -3598485952773588437
+    second: Mage Idle Casting Loop Animation Sprite Sheet_49
+  - first:
+      213: 4956755433898375927
+    second: Mage Idle Casting Loop Animation Sprite Sheet_50
+  - first:
+      213: -5918271549156012314
+    second: Mage Idle Casting Loop Animation Sprite Sheet_51
+  - first:
+      213: -886992742104624466
+    second: Mage Idle Casting Loop Animation Sprite Sheet_52
+  - first:
+      213: 1146174720005880915
+    second: Mage Idle Casting Loop Animation Sprite Sheet_53
+  - first:
+      213: -2263751196155531653
+    second: Mage Idle Casting Loop Animation Sprite Sheet_54
+  - first:
+      213: 2161286583062780394
+    second: Mage Idle Casting Loop Animation Sprite Sheet_55
+  - first:
+      213: 402078493301401812
+    second: Mage Idle Casting Loop Animation Sprite Sheet_56
+  - first:
+      213: -4861783162858913762
+    second: Mage Idle Casting Loop Animation Sprite Sheet_57
+  - first:
+      213: -8150551337974298370
+    second: Mage Idle Casting Loop Animation Sprite Sheet_58
+  - first:
+      213: -8492499540657094678
+    second: Mage Idle Casting Loop Animation Sprite Sheet_59
+  - first:
+      213: 4389847151497157889
+    second: Mage Idle Casting Loop Animation Sprite Sheet_60
+  - first:
+      213: -7176717424317753885
+    second: Mage Idle Casting Loop Animation Sprite Sheet_61
+  - first:
+      213: -6703112019200686056
+    second: Mage Idle Casting Loop Animation Sprite Sheet_62
+  - first:
+      213: -5515008922011061642
+    second: Mage Idle Casting Loop Animation Sprite Sheet_63
+  - first:
+      213: 8125546436480994655
+    second: Mage Idle Casting Loop Animation Sprite Sheet_64
+  - first:
+      213: 1120733124750902192
+    second: Mage Idle Casting Loop Animation Sprite Sheet_65
+  - first:
+      213: 1143661973555175638
+    second: Mage Idle Casting Loop Animation Sprite Sheet_66
+  - first:
+      213: -3854410138565413303
+    second: Mage Idle Casting Loop Animation Sprite Sheet_67
+  - first:
+      213: -1185844748090377394
+    second: Mage Idle Casting Loop Animation Sprite Sheet_68
+  - first:
+      213: -7522806298120469042
+    second: Mage Idle Casting Loop Animation Sprite Sheet_69
+  - first:
+      213: 3035033379915791271
+    second: Mage Idle Casting Loop Animation Sprite Sheet_70
+  - first:
+      213: -992530531773685402
+    second: Mage Idle Casting Loop Animation Sprite Sheet_71
+  - first:
+      213: -1215891110832023478
+    second: Mage Idle Casting Loop Animation Sprite Sheet_72
+  - first:
+      213: 6596439147330512831
+    second: Mage Idle Casting Loop Animation Sprite Sheet_73
+  - first:
+      213: 6507536162175062464
+    second: Mage Idle Casting Loop Animation Sprite Sheet_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c355330b4d6024a50800000000000000
+      internalID: 6503768322435405116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886a399706d56300800000000000000
+      internalID: 244837082885417102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e0ea903a914fc90800000000000000
+      internalID: -7137051321442628008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c6762651e28a060800000000000000
+      internalID: 6964867493108608078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf3db15adfca4010800000000000000
+      internalID: 1173979189464612793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e816474368be50800000000000000
+      internalID: 6825314393049851720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c4411456b48a70800000000000000
+      internalID: 8828381641736242907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Idle Casting Loop Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0f2eda792fe01a0800000000000000
+      internalID: -6841264050657890137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5deed1729ed7f1d4c9820a91f63dcf95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage Idle Casting Loop Animation Sprite Sheet_0: 6503768322435405116
+      Mage Idle Casting Loop Animation Sprite Sheet_1: 244837082885417102
+      Mage Idle Casting Loop Animation Sprite Sheet_2: -7137051321442628008
+      Mage Idle Casting Loop Animation Sprite Sheet_3: 6964867493108608078
+      Mage Idle Casting Loop Animation Sprite Sheet_4: 1173979189464612793
+      Mage Idle Casting Loop Animation Sprite Sheet_5: 6825314393049851720
+      Mage Idle Casting Loop Animation Sprite Sheet_6: 8828381641736242907
+      Mage Idle Casting Loop Animation Sprite Sheet_7: -6841264050657890137
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

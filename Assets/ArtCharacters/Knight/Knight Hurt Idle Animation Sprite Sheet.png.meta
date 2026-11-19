@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 976597f829595734ea37fc601bac657d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1810246081376393390
+    second: Hurt Knight Idle Animation Sprite Sheet_0
+  - first:
+      213: 5457546066485950067
+    second: Hurt Knight Idle Animation Sprite Sheet_1
+  - first:
+      213: 5045584409618299653
+    second: Hurt Knight Idle Animation Sprite Sheet_2
+  - first:
+      213: -7256048421823734838
+    second: Hurt Knight Idle Animation Sprite Sheet_3
+  - first:
+      213: 8613534037732800980
+    second: Hurt Knight Idle Animation Sprite Sheet_4
+  - first:
+      213: -2191447799508881114
+    second: Hurt Knight Idle Animation Sprite Sheet_5
+  - first:
+      213: -1465852526891316949
+    second: Hurt Knight Idle Animation Sprite Sheet_6
+  - first:
+      213: -1119814568958792157
+    second: Hurt Knight Idle Animation Sprite Sheet_7
+  - first:
+      213: -2658171528096972118
+    second: Hurt Knight Idle Animation Sprite Sheet_8
+  - first:
+      213: -8129227187598159614
+    second: Hurt Knight Idle Animation Sprite Sheet_9
+  - first:
+      213: 3001027094031887358
+    second: Hurt Knight Idle Animation Sprite Sheet_10
+  - first:
+      213: 9063921631217845384
+    second: Hurt Knight Idle Animation Sprite Sheet_11
+  - first:
+      213: -4935989426061981746
+    second: Hurt Knight Idle Animation Sprite Sheet_12
+  - first:
+      213: -309034087912733708
+    second: Hurt Knight Idle Animation Sprite Sheet_13
+  - first:
+      213: -5079709026068622892
+    second: Hurt Knight Idle Animation Sprite Sheet_14
+  - first:
+      213: 8924827099303029663
+    second: Hurt Knight Idle Animation Sprite Sheet_15
+  - first:
+      213: 8915521113651623974
+    second: Hurt Knight Idle Animation Sprite Sheet_16
+  - first:
+      213: -3376434307547392526
+    second: Hurt Knight Idle Animation Sprite Sheet_17
+  - first:
+      213: 5074602947133413608
+    second: Hurt Knight Idle Animation Sprite Sheet_18
+  - first:
+      213: -8332838042450177605
+    second: Hurt Knight Idle Animation Sprite Sheet_19
+  - first:
+      213: -1089635211430875445
+    second: Hurt Knight Idle Animation Sprite Sheet_20
+  - first:
+      213: 438860668514350664
+    second: Hurt Knight Idle Animation Sprite Sheet_21
+  - first:
+      213: 6224158244225743718
+    second: Hurt Knight Idle Animation Sprite Sheet_22
+  - first:
+      213: -8261995645127807441
+    second: Hurt Knight Idle Animation Sprite Sheet_23
+  - first:
+      213: -3882712253765591416
+    second: Hurt Knight Idle Animation Sprite Sheet_24
+  - first:
+      213: -5116090106142607303
+    second: Hurt Knight Idle Animation Sprite Sheet_25
+  - first:
+      213: -1396611684060704728
+    second: Hurt Knight Idle Animation Sprite Sheet_26
+  - first:
+      213: 8747529821595511990
+    second: Hurt Knight Idle Animation Sprite Sheet_27
+  - first:
+      213: 8110283999955341245
+    second: Hurt Knight Idle Animation Sprite Sheet_28
+  - first:
+      213: -6633763216045649785
+    second: Hurt Knight Idle Animation Sprite Sheet_29
+  - first:
+      213: 2813110282736372517
+    second: Hurt Knight Idle Animation Sprite Sheet_30
+  - first:
+      213: 6035783926449627392
+    second: Hurt Knight Idle Animation Sprite Sheet_31
+  - first:
+      213: 7923601196257200701
+    second: Hurt Knight Idle Animation Sprite Sheet_32
+  - first:
+      213: -7969882863858257726
+    second: Hurt Knight Idle Animation Sprite Sheet_33
+  - first:
+      213: -702007575752340250
+    second: Hurt Knight Idle Animation Sprite Sheet_34
+  - first:
+      213: -2585920087837454575
+    second: Hurt Knight Idle Animation Sprite Sheet_35
+  - first:
+      213: 8617063018558271547
+    second: Hurt Knight Idle Animation Sprite Sheet_36
+  - first:
+      213: 9143725945148430193
+    second: Hurt Knight Idle Animation Sprite Sheet_37
+  - first:
+      213: -7252124067442325111
+    second: Hurt Knight Idle Animation Sprite Sheet_38
+  - first:
+      213: -6172742044872592587
+    second: Hurt Knight Idle Animation Sprite Sheet_39
+  - first:
+      213: 3899156577639033546
+    second: Hurt Knight Idle Animation Sprite Sheet_40
+  - first:
+      213: -5115052967236320637
+    second: Hurt Knight Idle Animation Sprite Sheet_41
+  - first:
+      213: -6022081017994954976
+    second: Hurt Knight Idle Animation Sprite Sheet_42
+  - first:
+      213: -7606147158134539682
+    second: Hurt Knight Idle Animation Sprite Sheet_43
+  - first:
+      213: 1865538698547864746
+    second: Hurt Knight Idle Animation Sprite Sheet_44
+  - first:
+      213: -922338271975532732
+    second: Hurt Knight Idle Animation Sprite Sheet_45
+  - first:
+      213: -9209521732962616015
+    second: Hurt Knight Idle Animation Sprite Sheet_46
+  - first:
+      213: -4416075189919862154
+    second: Hurt Knight Idle Animation Sprite Sheet_47
+  - first:
+      213: 5417656991277420296
+    second: Hurt Knight Idle Animation Sprite Sheet_48
+  - first:
+      213: 8948130481683961424
+    second: Hurt Knight Idle Animation Sprite Sheet_49
+  - first:
+      213: 3972958250146351956
+    second: Hurt Knight Idle Animation Sprite Sheet_50
+  - first:
+      213: -2398757879626098900
+    second: Hurt Knight Idle Animation Sprite Sheet_51
+  - first:
+      213: 1994102063514841031
+    second: Hurt Knight Idle Animation Sprite Sheet_52
+  - first:
+      213: -2449758555294642836
+    second: Hurt Knight Idle Animation Sprite Sheet_53
+  - first:
+      213: 5448939114796308521
+    second: Hurt Knight Idle Animation Sprite Sheet_54
+  - first:
+      213: 1404538273800530534
+    second: Hurt Knight Idle Animation Sprite Sheet_55
+  - first:
+      213: -8118730725521190593
+    second: Hurt Knight Idle Animation Sprite Sheet_56
+  - first:
+      213: 2268226830321920291
+    second: Hurt Knight Idle Animation Sprite Sheet_57
+  - first:
+      213: 8785748191406928155
+    second: Hurt Knight Idle Animation Sprite Sheet_58
+  - first:
+      213: -3960748616717003667
+    second: Hurt Knight Idle Animation Sprite Sheet_59
+  - first:
+      213: -477681673826245988
+    second: Hurt Knight Idle Animation Sprite Sheet_60
+  - first:
+      213: 3951227201400488430
+    second: Hurt Knight Idle Animation Sprite Sheet_61
+  - first:
+      213: 1222756247613150068
+    second: Hurt Knight Idle Animation Sprite Sheet_62
+  - first:
+      213: 8588808415922895109
+    second: Hurt Knight Idle Animation Sprite Sheet_63
+  - first:
+      213: -5229117395622985246
+    second: Hurt Knight Idle Animation Sprite Sheet_64
+  - first:
+      213: 2422538456476018178
+    second: Hurt Knight Idle Animation Sprite Sheet_65
+  - first:
+      213: 8588738707547285275
+    second: Hurt Knight Idle Animation Sprite Sheet_66
+  - first:
+      213: -539280799122427642
+    second: Hurt Knight Idle Animation Sprite Sheet_67
+  - first:
+      213: 5167839029334643520
+    second: Hurt Knight Idle Animation Sprite Sheet_68
+  - first:
+      213: -8440594486896586823
+    second: Hurt Knight Idle Animation Sprite Sheet_69
+  - first:
+      213: -9117318774505836902
+    second: Hurt Knight Idle Animation Sprite Sheet_70
+  - first:
+      213: -1127284662213036628
+    second: Hurt Knight Idle Animation Sprite Sheet_71
+  - first:
+      213: -7212484568838340268
+    second: Hurt Knight Idle Animation Sprite Sheet_72
+  - first:
+      213: 5583990132048504363
+    second: Hurt Knight Idle Animation Sprite Sheet_73
+  - first:
+      213: 2442842012358872404
+    second: Hurt Knight Idle Animation Sprite Sheet_74
+  - first:
+      213: -8338756583133948722
+    second: Hurt Knight Idle Animation Sprite Sheet_75
+  - first:
+      213: 1771474162763349983
+    second: Hurt Knight Idle Animation Sprite Sheet_76
+  - first:
+      213: 5304556864228131272
+    second: Hurt Knight Idle Animation Sprite Sheet_77
+  - first:
+      213: 1246797378169191756
+    second: Hurt Knight Idle Animation Sprite Sheet_78
+  - first:
+      213: -1667215753780054511
+    second: Hurt Knight Idle Animation Sprite Sheet_79
+  - first:
+      213: 6387489538101349729
+    second: Hurt Knight Idle Animation Sprite Sheet_80
+  - first:
+      213: -3264966753942467593
+    second: Hurt Knight Idle Animation Sprite Sheet_81
+  - first:
+      213: -959978248284688803
+    second: Hurt Knight Idle Animation Sprite Sheet_82
+  - first:
+      213: 2770648071195112872
+    second: Hurt Knight Idle Animation Sprite Sheet_83
+  - first:
+      213: 4740205384410448768
+    second: Hurt Knight Idle Animation Sprite Sheet_84
+  - first:
+      213: -4795404252411302132
+    second: Hurt Knight Idle Animation Sprite Sheet_85
+  - first:
+      213: -2481461034270961
+    second: Hurt Knight Idle Animation Sprite Sheet_86
+  - first:
+      213: 5605495230447948959
+    second: Hurt Knight Idle Animation Sprite Sheet_87
+  - first:
+      213: -8558303270434362530
+    second: Hurt Knight Idle Animation Sprite Sheet_88
+  - first:
+      213: 6114227501629160139
+    second: Hurt Knight Idle Animation Sprite Sheet_89
+  - first:
+      213: -3261825564205473548
+    second: Hurt Knight Idle Animation Sprite Sheet_90
+  - first:
+      213: -1208888438558584477
+    second: Hurt Knight Idle Animation Sprite Sheet_91
+  - first:
+      213: 981670205391709138
+    second: Hurt Knight Idle Animation Sprite Sheet_92
+  - first:
+      213: 5876009537716788506
+    second: Hurt Knight Idle Animation Sprite Sheet_93
+  - first:
+      213: 7287662937644308957
+    second: Hurt Knight Idle Animation Sprite Sheet_94
+  - first:
+      213: 1325690002997535499
+    second: Hurt Knight Idle Animation Sprite Sheet_95
+  - first:
+      213: -3293419688705851539
+    second: Hurt Knight Idle Animation Sprite Sheet_96
+  - first:
+      213: 83210756133635731
+    second: Hurt Knight Idle Animation Sprite Sheet_97
+  - first:
+      213: 3193918898684874170
+    second: Hurt Knight Idle Animation Sprite Sheet_98
+  - first:
+      213: 1592469638679172342
+    second: Hurt Knight Idle Animation Sprite Sheet_99
+  - first:
+      213: 3743765490624813812
+    second: Hurt Knight Idle Animation Sprite Sheet_100
+  - first:
+      213: -4864079201898135739
+    second: Hurt Knight Idle Animation Sprite Sheet_101
+  - first:
+      213: -8492249492158098874
+    second: Hurt Knight Idle Animation Sprite Sheet_102
+  - first:
+      213: -7451303864721098945
+    second: Hurt Knight Idle Animation Sprite Sheet_103
+  - first:
+      213: -2359811115125770466
+    second: Hurt Knight Idle Animation Sprite Sheet_104
+  - first:
+      213: -1756395776888182030
+    second: Hurt Knight Idle Animation Sprite Sheet_105
+  - first:
+      213: -3099034328104587754
+    second: Hurt Knight Idle Animation Sprite Sheet_106
+  - first:
+      213: -8891872765812929685
+    second: Hurt Knight Idle Animation Sprite Sheet_107
+  - first:
+      213: -4496174726614030293
+    second: Hurt Knight Idle Animation Sprite Sheet_108
+  - first:
+      213: -1787239633749403046
+    second: Hurt Knight Idle Animation Sprite Sheet_109
+  - first:
+      213: -3229537912827706272
+    second: Hurt Knight Idle Animation Sprite Sheet_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35092b89554dac244a30059f53ccfbab
+      internalID: -86509197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9d209e8a7d56245849702911b8f97e
+      internalID: -358085989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8411421121d54c946b6303de7241ed2a
+      internalID: -863180077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecee7ba431c7c54e81796141a6d3f71
+      internalID: -1394104819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb5dd6d88adcc143998ad50e405a98f
+      internalID: -1726767278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283230f68452ae4419b0f9139fe72996
+      internalID: 966281862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3d7c7352e9884798e7a6e6614f686
+      internalID: 2128768669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Hurt Idle Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11cef9dd4bd2214eafada32f11cf982
+      internalID: -1246405320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 823cf59db64466d45862384afd11f7e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Hurt Idle Animation Sprite Sheet_0: -86509197
+      Knight Hurt Idle Animation Sprite Sheet_1: -358085989
+      Knight Hurt Idle Animation Sprite Sheet_2: -863180077
+      Knight Hurt Idle Animation Sprite Sheet_3: -1394104819
+      Knight Hurt Idle Animation Sprite Sheet_4: -1726767278
+      Knight Hurt Idle Animation Sprite Sheet_5: 966281862
+      Knight Hurt Idle Animation Sprite Sheet_6: 2128768669
+      Knight Hurt Idle Animation Sprite Sheet_7: -1246405320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

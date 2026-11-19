@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 8784f46ff7b7d57418f69cc6c0ba968e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 284569487123031598
+    second: Armored Knight Jump Animation Sprite Sheet_0
+  - first:
+      213: -4862982098707227797
+    second: Armored Knight Jump Animation Sprite Sheet_1
+  - first:
+      213: 6435169160814484436
+    second: Armored Knight Jump Animation Sprite Sheet_2
+  - first:
+      213: -5416483273929758831
+    second: Armored Knight Jump Animation Sprite Sheet_3
+  - first:
+      213: -7712541373933479087
+    second: Armored Knight Jump Animation Sprite Sheet_4
+  - first:
+      213: 79286619054248070
+    second: Armored Knight Jump Animation Sprite Sheet_5
+  - first:
+      213: -3692391935936493660
+    second: Armored Knight Jump Animation Sprite Sheet_6
+  - first:
+      213: 5305379264417119672
+    second: Armored Knight Jump Animation Sprite Sheet_7
+  - first:
+      213: 8731666823540941415
+    second: Armored Knight Jump Animation Sprite Sheet_8
+  - first:
+      213: 6469841579935866016
+    second: Armored Knight Jump Animation Sprite Sheet_9
+  - first:
+      213: -7617296790708395702
+    second: Armored Knight Jump Animation Sprite Sheet_10
+  - first:
+      213: -1583085328958306530
+    second: Armored Knight Jump Animation Sprite Sheet_11
+  - first:
+      213: 3358354087972052692
+    second: Armored Knight Jump Animation Sprite Sheet_12
+  - first:
+      213: 1942186933984973933
+    second: Armored Knight Jump Animation Sprite Sheet_13
+  - first:
+      213: 611282826974680278
+    second: Armored Knight Jump Animation Sprite Sheet_14
+  - first:
+      213: 6146700639616751209
+    second: Armored Knight Jump Animation Sprite Sheet_15
+  - first:
+      213: 636239763542633222
+    second: Armored Knight Jump Animation Sprite Sheet_16
+  - first:
+      213: 3030919344746983997
+    second: Armored Knight Jump Animation Sprite Sheet_17
+  - first:
+      213: 6773364276027506573
+    second: Armored Knight Jump Animation Sprite Sheet_18
+  - first:
+      213: 1596340352810884113
+    second: Armored Knight Jump Animation Sprite Sheet_19
+  - first:
+      213: 1561939311308487265
+    second: Armored Knight Jump Animation Sprite Sheet_20
+  - first:
+      213: -8237177413868245219
+    second: Armored Knight Jump Animation Sprite Sheet_21
+  - first:
+      213: 5543096324078406459
+    second: Armored Knight Jump Animation Sprite Sheet_22
+  - first:
+      213: 4579835607775429732
+    second: Armored Knight Jump Animation Sprite Sheet_23
+  - first:
+      213: -4262762323121648887
+    second: Armored Knight Jump Animation Sprite Sheet_24
+  - first:
+      213: 6386719923927900108
+    second: Armored Knight Jump Animation Sprite Sheet_25
+  - first:
+      213: -8363768527342990002
+    second: Armored Knight Jump Animation Sprite Sheet_26
+  - first:
+      213: -6432377201362219315
+    second: Armored Knight Jump Animation Sprite Sheet_27
+  - first:
+      213: 4337081489251219227
+    second: Armored Knight Jump Animation Sprite Sheet_28
+  - first:
+      213: 6840662612255766611
+    second: Armored Knight Jump Animation Sprite Sheet_29
+  - first:
+      213: 3098709899337171227
+    second: Armored Knight Jump Animation Sprite Sheet_30
+  - first:
+      213: 6167773935854235969
+    second: Armored Knight Jump Animation Sprite Sheet_31
+  - first:
+      213: 4192762547320222746
+    second: Armored Knight Jump Animation Sprite Sheet_32
+  - first:
+      213: 2096025461780854556
+    second: Armored Knight Jump Animation Sprite Sheet_33
+  - first:
+      213: -4738684920089900929
+    second: Armored Knight Jump Animation Sprite Sheet_34
+  - first:
+      213: 6196593356434791058
+    second: Armored Knight Jump Animation Sprite Sheet_35
+  - first:
+      213: 3229121335594430791
+    second: Armored Knight Jump Animation Sprite Sheet_36
+  - first:
+      213: 4449498978076355326
+    second: Armored Knight Jump Animation Sprite Sheet_37
+  - first:
+      213: -713693256516723554
+    second: Armored Knight Jump Animation Sprite Sheet_38
+  - first:
+      213: -1288192694673206660
+    second: Armored Knight Jump Animation Sprite Sheet_39
+  - first:
+      213: -799322447767590030
+    second: Armored Knight Jump Animation Sprite Sheet_40
+  - first:
+      213: 6930014160252092226
+    second: Armored Knight Jump Animation Sprite Sheet_41
+  - first:
+      213: 5016125895932926008
+    second: Armored Knight Jump Animation Sprite Sheet_42
+  - first:
+      213: 2498376948174108604
+    second: Armored Knight Jump Animation Sprite Sheet_43
+  - first:
+      213: -8475987414228908827
+    second: Armored Knight Jump Animation Sprite Sheet_44
+  - first:
+      213: 3081538934738867277
+    second: Armored Knight Jump Animation Sprite Sheet_45
+  - first:
+      213: 1016320347506677598
+    second: Armored Knight Jump Animation Sprite Sheet_46
+  - first:
+      213: -8215611006183720579
+    second: Armored Knight Jump Animation Sprite Sheet_47
+  - first:
+      213: -8239888259860741911
+    second: Armored Knight Jump Animation Sprite Sheet_48
+  - first:
+      213: -6292772480322535199
+    second: Armored Knight Jump Animation Sprite Sheet_49
+  - first:
+      213: -8914175609760632965
+    second: Armored Knight Jump Animation Sprite Sheet_50
+  - first:
+      213: 9170570907869506477
+    second: Armored Knight Jump Animation Sprite Sheet_51
+  - first:
+      213: -5699374678925080340
+    second: Armored Knight Jump Animation Sprite Sheet_52
+  - first:
+      213: -1693648607512092136
+    second: Armored Knight Jump Animation Sprite Sheet_53
+  - first:
+      213: 4458110592318783478
+    second: Armored Knight Jump Animation Sprite Sheet_54
+  - first:
+      213: -1377215896990054139
+    second: Armored Knight Jump Animation Sprite Sheet_55
+  - first:
+      213: -9081679785990949863
+    second: Armored Knight Jump Animation Sprite Sheet_56
+  - first:
+      213: 8763252851787248502
+    second: Armored Knight Jump Animation Sprite Sheet_57
+  - first:
+      213: 9009597664376222717
+    second: Armored Knight Jump Animation Sprite Sheet_58
+  - first:
+      213: 880457861449650945
+    second: Armored Knight Jump Animation Sprite Sheet_59
+  - first:
+      213: 2788114582677244247
+    second: Armored Knight Jump Animation Sprite Sheet_60
+  - first:
+      213: 2764591865715161175
+    second: Armored Knight Jump Animation Sprite Sheet_61
+  - first:
+      213: -4504986350407122728
+    second: Armored Knight Jump Animation Sprite Sheet_62
+  - first:
+      213: 6791131733412873864
+    second: Armored Knight Jump Animation Sprite Sheet_63
+  - first:
+      213: -4748046369807639905
+    second: Armored Knight Jump Animation Sprite Sheet_64
+  - first:
+      213: 2948953895744346368
+    second: Armored Knight Jump Animation Sprite Sheet_65
+  - first:
+      213: 1761578794625628100
+    second: Armored Knight Jump Animation Sprite Sheet_66
+  - first:
+      213: 5817725061287104528
+    second: Armored Knight Jump Animation Sprite Sheet_67
+  - first:
+      213: -3104899948506791112
+    second: Armored Knight Jump Animation Sprite Sheet_68
+  - first:
+      213: -2299030331381501593
+    second: Armored Knight Jump Animation Sprite Sheet_69
+  - first:
+      213: -6799792433512784627
+    second: Armored Knight Jump Animation Sprite Sheet_70
+  - first:
+      213: -8738521873562229476
+    second: Armored Knight Jump Animation Sprite Sheet_71
+  - first:
+      213: 5380158450214034056
+    second: Armored Knight Jump Animation Sprite Sheet_72
+  - first:
+      213: -5961620418933084442
+    second: Armored Knight Jump Animation Sprite Sheet_73
+  - first:
+      213: 84635943503453303
+    second: Armored Knight Jump Animation Sprite Sheet_74
+  - first:
+      213: -3836687267931466570
+    second: Armored Knight Jump Animation Sprite Sheet_75
+  - first:
+      213: 8232158838457186147
+    second: Armored Knight Jump Animation Sprite Sheet_76
+  - first:
+      213: 3932801619750553563
+    second: Armored Knight Jump Animation Sprite Sheet_77
+  - first:
+      213: 3293098891623611270
+    second: Armored Knight Jump Animation Sprite Sheet_78
+  - first:
+      213: 5582579282222194417
+    second: Armored Knight Jump Animation Sprite Sheet_79
+  - first:
+      213: -8820229620890317681
+    second: Armored Knight Jump Animation Sprite Sheet_80
+  - first:
+      213: 5657812691081764677
+    second: Armored Knight Jump Animation Sprite Sheet_81
+  - first:
+      213: -2908863257218856356
+    second: Armored Knight Jump Animation Sprite Sheet_82
+  - first:
+      213: 6948036749245766534
+    second: Armored Knight Jump Animation Sprite Sheet_83
+  - first:
+      213: -2227644797144561182
+    second: Armored Knight Jump Animation Sprite Sheet_84
+  - first:
+      213: 444583245917793355
+    second: Armored Knight Jump Animation Sprite Sheet_85
+  - first:
+      213: -5697539581480926329
+    second: Armored Knight Jump Animation Sprite Sheet_86
+  - first:
+      213: -1250370470837588422
+    second: Armored Knight Jump Animation Sprite Sheet_87
+  - first:
+      213: -983928232272749116
+    second: Armored Knight Jump Animation Sprite Sheet_88
+  - first:
+      213: 4688092400929922542
+    second: Armored Knight Jump Animation Sprite Sheet_89
+  - first:
+      213: -7993633281553796612
+    second: Armored Knight Jump Animation Sprite Sheet_90
+  - first:
+      213: 5210667156267081864
+    second: Armored Knight Jump Animation Sprite Sheet_91
+  - first:
+      213: -6160969708255991318
+    second: Armored Knight Jump Animation Sprite Sheet_92
+  - first:
+      213: -4062343783167151827
+    second: Armored Knight Jump Animation Sprite Sheet_93
+  - first:
+      213: -2855941973882428977
+    second: Armored Knight Jump Animation Sprite Sheet_94
+  - first:
+      213: 8537662072079462704
+    second: Armored Knight Jump Animation Sprite Sheet_95
+  - first:
+      213: -7512859587748241150
+    second: Armored Knight Jump Animation Sprite Sheet_96
+  - first:
+      213: -2485272084116805296
+    second: Armored Knight Jump Animation Sprite Sheet_97
+  - first:
+      213: 3503702698906850744
+    second: Armored Knight Jump Animation Sprite Sheet_98
+  - first:
+      213: 6960145474520890816
+    second: Armored Knight Jump Animation Sprite Sheet_99
+  - first:
+      213: -2604718672548246595
+    second: Armored Knight Jump Animation Sprite Sheet_100
+  - first:
+      213: -8527926633114940476
+    second: Armored Knight Jump Animation Sprite Sheet_101
+  - first:
+      213: 4698281915209160570
+    second: Armored Knight Jump Animation Sprite Sheet_102
+  - first:
+      213: 6351770873991473302
+    second: Armored Knight Jump Animation Sprite Sheet_103
+  - first:
+      213: 6425781101008829328
+    second: Armored Knight Jump Animation Sprite Sheet_104
+  - first:
+      213: 4920455132971017112
+    second: Armored Knight Jump Animation Sprite Sheet_105
+  - first:
+      213: 6579794126664031448
+    second: Armored Knight Jump Animation Sprite Sheet_106
+  - first:
+      213: -4917583183748954640
+    second: Armored Knight Jump Animation Sprite Sheet_107
+  - first:
+      213: -194035309454881302
+    second: Armored Knight Jump Animation Sprite Sheet_108
+  - first:
+      213: 2778222139673326463
+    second: Armored Knight Jump Animation Sprite Sheet_109
+  - first:
+      213: 5716839882894327675
+    second: Armored Knight Jump Animation Sprite Sheet_110
+  - first:
+      213: -6960495850512325185
+    second: Armored Knight Jump Animation Sprite Sheet_111
+  - first:
+      213: -4313056821069205876
+    second: Armored Knight Jump Animation Sprite Sheet_112
+  - first:
+      213: -8284093539808213998
+    second: Armored Knight Jump Animation Sprite Sheet_113
+  - first:
+      213: -210554868544936442
+    second: Armored Knight Jump Animation Sprite Sheet_114
+  - first:
+      213: 1139070302905818343
+    second: Armored Knight Jump Animation Sprite Sheet_115
+  - first:
+      213: 2724088253053455198
+    second: Armored Knight Jump Animation Sprite Sheet_116
+  - first:
+      213: -8137948648601389501
+    second: Armored Knight Jump Animation Sprite Sheet_117
+  - first:
+      213: -6976242311750809721
+    second: Armored Knight Jump Animation Sprite Sheet_118
+  - first:
+      213: 2709167310814056354
+    second: Armored Knight Jump Animation Sprite Sheet_119
+  - first:
+      213: 8306792269774459377
+    second: Armored Knight Jump Animation Sprite Sheet_120
+  - first:
+      213: 5766349259586280160
+    second: Armored Knight Jump Animation Sprite Sheet_121
+  - first:
+      213: 6612717214143382145
+    second: Armored Knight Jump Animation Sprite Sheet_122
+  - first:
+      213: 2786983169884125924
+    second: Armored Knight Jump Animation Sprite Sheet_123
+  - first:
+      213: 5073320446341537446
+    second: Armored Knight Jump Animation Sprite Sheet_124
+  - first:
+      213: 8331904212396899329
+    second: Armored Knight Jump Animation Sprite Sheet_125
+  - first:
+      213: -4066682812504630682
+    second: Armored Knight Jump Animation Sprite Sheet_126
+  - first:
+      213: 58757324613379191
+    second: Armored Knight Jump Animation Sprite Sheet_127
+  - first:
+      213: -1132198301658807542
+    second: Armored Knight Jump Animation Sprite Sheet_128
+  - first:
+      213: -8157818722510906008
+    second: Armored Knight Jump Animation Sprite Sheet_129
+  - first:
+      213: -5733674369414186379
+    second: Armored Knight Jump Animation Sprite Sheet_130
+  - first:
+      213: 604915574599691776
+    second: Armored Knight Jump Animation Sprite Sheet_131
+  - first:
+      213: 3220383285365643618
+    second: Armored Knight Jump Animation Sprite Sheet_132
+  - first:
+      213: 6207829574934920231
+    second: Armored Knight Jump Animation Sprite Sheet_133
+  - first:
+      213: -6362420724401855788
+    second: Armored Knight Jump Animation Sprite Sheet_134
+  - first:
+      213: 5128603728611284070
+    second: Armored Knight Jump Animation Sprite Sheet_135
+  - first:
+      213: 5229913550021725313
+    second: Armored Knight Jump Animation Sprite Sheet_136
+  - first:
+      213: -7242033815712270688
+    second: Armored Knight Jump Animation Sprite Sheet_137
+  - first:
+      213: -6350181317257031375
+    second: Armored Knight Jump Animation Sprite Sheet_138
+  - first:
+      213: 1748910884246614249
+    second: Armored Knight Jump Animation Sprite Sheet_139
+  - first:
+      213: -1789638004268216476
+    second: Armored Knight Jump Animation Sprite Sheet_140
+  - first:
+      213: -1105560397991059770
+    second: Armored Knight Jump Animation Sprite Sheet_141
+  - first:
+      213: 4624695030315539415
+    second: Armored Knight Jump Animation Sprite Sheet_142
+  - first:
+      213: -4588510755761936585
+    second: Armored Knight Jump Animation Sprite Sheet_143
+  - first:
+      213: 5249363314140130730
+    second: Armored Knight Jump Animation Sprite Sheet_144
+  - first:
+      213: -5266338204540631705
+    second: Armored Knight Jump Animation Sprite Sheet_145
+  - first:
+      213: 7364209580367123155
+    second: Armored Knight Jump Animation Sprite Sheet_146
+  - first:
+      213: 626073575471207167
+    second: Armored Knight Jump Animation Sprite Sheet_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de358a6ecff5347b57b1321b4a06f0
+      internalID: -1554780657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb1df5a5e65e3e4f8dd7ca3bfcc8522
+      internalID: -787613031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4535f4b2e14fa8844b6408c069e1abce
+      internalID: -183772552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a778cb182ef9f242b9bd35afa4ea857
+      internalID: -1688324279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f907609f2dc3843b9028e5ee9028c8
+      internalID: -660282358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0399092f5666f0249a6cfe776acc8efb
+      internalID: -1503059586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6653184eec3c9854d8610bc9a1a62dbe
+      internalID: 1777940115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Jump Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e8640c9ba33c0469d78f5c95e0d000
+      internalID: 1284469503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 178ee972eec776245a5dc9eca3df3cb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Jump Animation Sprite Sheet_0: -1554780657
+      Knight Jump Animation Sprite Sheet_1: -787613031
+      Knight Jump Animation Sprite Sheet_2: -183772552
+      Knight Jump Animation Sprite Sheet_3: -1688324279
+      Knight Jump Animation Sprite Sheet_4: -660282358
+      Knight Jump Animation Sprite Sheet_5: -1503059586
+      Knight Jump Animation Sprite Sheet_6: 1777940115
+      Knight Jump Animation Sprite Sheet_7: 1284469503
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

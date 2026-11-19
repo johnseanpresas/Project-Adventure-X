@@ -1,0 +1,861 @@
+fileFormatVersion: 2
+guid: f78517b26af8433479cf50f26611cbfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2756050123530862806
+    second: Armored Knight Walking Sprite Sheet_0
+  - first:
+      213: -91047334152760972
+    second: Armored Knight Walking Sprite Sheet_1
+  - first:
+      213: -6097676946807992562
+    second: Armored Knight Walking Sprite Sheet_2
+  - first:
+      213: -3031152328541312561
+    second: Armored Knight Walking Sprite Sheet_3
+  - first:
+      213: 3466971999035337840
+    second: Armored Knight Walking Sprite Sheet_4
+  - first:
+      213: -2021602034127586188
+    second: Armored Knight Walking Sprite Sheet_5
+  - first:
+      213: 4265944247545704221
+    second: Armored Knight Walking Sprite Sheet_6
+  - first:
+      213: -7741110225861216287
+    second: Armored Knight Walking Sprite Sheet_7
+  - first:
+      213: 8955685065896538744
+    second: Armored Knight Walking Sprite Sheet_8
+  - first:
+      213: -6416502330578473459
+    second: Armored Knight Walking Sprite Sheet_9
+  - first:
+      213: 45106000822709014
+    second: Armored Knight Walking Sprite Sheet_10
+  - first:
+      213: -1121660645115639322
+    second: Armored Knight Walking Sprite Sheet_11
+  - first:
+      213: -8273984304453198861
+    second: Armored Knight Walking Sprite Sheet_12
+  - first:
+      213: 4155911925227318699
+    second: Armored Knight Walking Sprite Sheet_13
+  - first:
+      213: -5929390499393814878
+    second: Armored Knight Walking Sprite Sheet_14
+  - first:
+      213: 1550327292049573817
+    second: Armored Knight Walking Sprite Sheet_15
+  - first:
+      213: 8237236327575740753
+    second: Armored Knight Walking Sprite Sheet_16
+  - first:
+      213: 2958940964608171900
+    second: Armored Knight Walking Sprite Sheet_17
+  - first:
+      213: -4454494986233882487
+    second: Armored Knight Walking Sprite Sheet_18
+  - first:
+      213: 3007650730567903998
+    second: Armored Knight Walking Sprite Sheet_19
+  - first:
+      213: -710778226658592265
+    second: Armored Knight Walking Sprite Sheet_20
+  - first:
+      213: 5656231135290835298
+    second: Armored Knight Walking Sprite Sheet_21
+  - first:
+      213: 8946350047210304812
+    second: Armored Knight Walking Sprite Sheet_22
+  - first:
+      213: -3121292215481771925
+    second: Armored Knight Walking Sprite Sheet_23
+  - first:
+      213: -1064682068004331550
+    second: Armored Knight Walking Sprite Sheet_24
+  - first:
+      213: -7320974068242911597
+    second: Armored Knight Walking Sprite Sheet_25
+  - first:
+      213: -566993375367695378
+    second: Armored Knight Walking Sprite Sheet_26
+  - first:
+      213: 574388703168297822
+    second: Armored Knight Walking Sprite Sheet_27
+  - first:
+      213: -2681413275348089304
+    second: Armored Knight Walking Sprite Sheet_28
+  - first:
+      213: -5841535851605399232
+    second: Armored Knight Walking Sprite Sheet_29
+  - first:
+      213: 4816125476116003578
+    second: Armored Knight Walking Sprite Sheet_30
+  - first:
+      213: -7019173279664515791
+    second: Armored Knight Walking Sprite Sheet_31
+  - first:
+      213: 3156865506641732449
+    second: Armored Knight Walking Sprite Sheet_32
+  - first:
+      213: 2229526118758261650
+    second: Armored Knight Walking Sprite Sheet_33
+  - first:
+      213: 3748683310024811197
+    second: Armored Knight Walking Sprite Sheet_34
+  - first:
+      213: -6024936063778864840
+    second: Armored Knight Walking Sprite Sheet_35
+  - first:
+      213: 7845930802702370433
+    second: Armored Knight Walking Sprite Sheet_36
+  - first:
+      213: -5640927298243400528
+    second: Armored Knight Walking Sprite Sheet_37
+  - first:
+      213: 8175314343420736448
+    second: Armored Knight Walking Sprite Sheet_38
+  - first:
+      213: -4979665205802486869
+    second: Armored Knight Walking Sprite Sheet_39
+  - first:
+      213: 1358469224371126513
+    second: Armored Knight Walking Sprite Sheet_40
+  - first:
+      213: 4456814160487861478
+    second: Armored Knight Walking Sprite Sheet_41
+  - first:
+      213: 5937011047985147590
+    second: Armored Knight Walking Sprite Sheet_42
+  - first:
+      213: 8301758914518280542
+    second: Armored Knight Walking Sprite Sheet_43
+  - first:
+      213: 1502213486869693712
+    second: Armored Knight Walking Sprite Sheet_44
+  - first:
+      213: -4805831722748364196
+    second: Armored Knight Walking Sprite Sheet_45
+  - first:
+      213: -215241512265974226
+    second: Armored Knight Walking Sprite Sheet_46
+  - first:
+      213: 4955717990984194284
+    second: Armored Knight Walking Sprite Sheet_47
+  - first:
+      213: -7744574151628652307
+    second: Armored Knight Walking Sprite Sheet_48
+  - first:
+      213: -7596655565556161905
+    second: Armored Knight Walking Sprite Sheet_49
+  - first:
+      213: -6144933630522537337
+    second: Armored Knight Walking Sprite Sheet_50
+  - first:
+      213: 7360318107206615483
+    second: Armored Knight Walking Sprite Sheet_51
+  - first:
+      213: -2083195361205509036
+    second: Armored Knight Walking Sprite Sheet_52
+  - first:
+      213: 1679780742881274988
+    second: Armored Knight Walking Sprite Sheet_53
+  - first:
+      213: -7347994003019726544
+    second: Armored Knight Walking Sprite Sheet_54
+  - first:
+      213: -4524297670591522967
+    second: Armored Knight Walking Sprite Sheet_55
+  - first:
+      213: -5358993738055519969
+    second: Armored Knight Walking Sprite Sheet_56
+  - first:
+      213: -4802118054290896794
+    second: Armored Knight Walking Sprite Sheet_57
+  - first:
+      213: -993760451412426438
+    second: Armored Knight Walking Sprite Sheet_58
+  - first:
+      213: 3738830850991446350
+    second: Armored Knight Walking Sprite Sheet_59
+  - first:
+      213: -8101747523473402110
+    second: Armored Knight Walking Sprite Sheet_60
+  - first:
+      213: 7323734904530150860
+    second: Armored Knight Walking Sprite Sheet_61
+  - first:
+      213: -2585937979036720574
+    second: Armored Knight Walking Sprite Sheet_62
+  - first:
+      213: 7926781941062413582
+    second: Armored Knight Walking Sprite Sheet_63
+  - first:
+      213: 336626212909575961
+    second: Armored Knight Walking Sprite Sheet_64
+  - first:
+      213: 3134783652362393617
+    second: Armored Knight Walking Sprite Sheet_65
+  - first:
+      213: 8664666707075197019
+    second: Armored Knight Walking Sprite Sheet_66
+  - first:
+      213: -5094116751981656261
+    second: Armored Knight Walking Sprite Sheet_67
+  - first:
+      213: 8119302348237739231
+    second: Armored Knight Walking Sprite Sheet_68
+  - first:
+      213: -6618054221155554265
+    second: Armored Knight Walking Sprite Sheet_69
+  - first:
+      213: -2733668452997139331
+    second: Armored Knight Walking Sprite Sheet_70
+  - first:
+      213: -300333988921851036
+    second: Armored Knight Walking Sprite Sheet_71
+  - first:
+      213: 3853785295171157999
+    second: Armored Knight Walking Sprite Sheet_72
+  - first:
+      213: -6753807364665939102
+    second: Armored Knight Walking Sprite Sheet_73
+  - first:
+      213: -4039990799552016115
+    second: Armored Knight Walking Sprite Sheet_74
+  - first:
+      213: -5521192763028374882
+    second: Armored Knight Walking Sprite Sheet_75
+  - first:
+      213: -5686029223076073289
+    second: Armored Knight Walking Sprite Sheet_76
+  - first:
+      213: 6427796783764510842
+    second: Armored Knight Walking Sprite Sheet_77
+  - first:
+      213: -6151284330389157184
+    second: Armored Knight Walking Sprite Sheet_78
+  - first:
+      213: -29603650871605800
+    second: Armored Knight Walking Sprite Sheet_79
+  - first:
+      213: 811701025671607204
+    second: Armored Knight Walking Sprite Sheet_80
+  - first:
+      213: -4323959418687684433
+    second: Armored Knight Walking Sprite Sheet_81
+  - first:
+      213: 3466495710860757869
+    second: Armored Knight Walking Sprite Sheet_82
+  - first:
+      213: 3150347335894570818
+    second: Armored Knight Walking Sprite Sheet_83
+  - first:
+      213: -8407055211909317870
+    second: Armored Knight Walking Sprite Sheet_84
+  - first:
+      213: 3911364523672206329
+    second: Armored Knight Walking Sprite Sheet_85
+  - first:
+      213: -5777029765809129230
+    second: Armored Knight Walking Sprite Sheet_86
+  - first:
+      213: 2992642565797847181
+    second: Armored Knight Walking Sprite Sheet_87
+  - first:
+      213: 5735556294304242413
+    second: Armored Knight Walking Sprite Sheet_88
+  - first:
+      213: -6251208744722709194
+    second: Armored Knight Walking Sprite Sheet_89
+  - first:
+      213: -1011548485744546077
+    second: Armored Knight Walking Sprite Sheet_90
+  - first:
+      213: 46658405312027159
+    second: Armored Knight Walking Sprite Sheet_91
+  - first:
+      213: 5664896869257632278
+    second: Armored Knight Walking Sprite Sheet_92
+  - first:
+      213: 5676288885352284679
+    second: Armored Knight Walking Sprite Sheet_93
+  - first:
+      213: 5514347840372739291
+    second: Armored Knight Walking Sprite Sheet_94
+  - first:
+      213: 2493831238715826620
+    second: Armored Knight Walking Sprite Sheet_95
+  - first:
+      213: 3094187157428560184
+    second: Armored Knight Walking Sprite Sheet_96
+  - first:
+      213: -762371399984900862
+    second: Armored Knight Walking Sprite Sheet_97
+  - first:
+      213: -7740849125456870898
+    second: Armored Knight Walking Sprite Sheet_98
+  - first:
+      213: 5785975196458240922
+    second: Armored Knight Walking Sprite Sheet_99
+  - first:
+      213: -6823264459608606220
+    second: Armored Knight Walking Sprite Sheet_100
+  - first:
+      213: -2429469711178239125
+    second: Armored Knight Walking Sprite Sheet_101
+  - first:
+      213: 7617591522269368574
+    second: Armored Knight Walking Sprite Sheet_102
+  - first:
+      213: 8727727600537184553
+    second: Armored Knight Walking Sprite Sheet_103
+  - first:
+      213: 7958796971578057338
+    second: Armored Knight Walking Sprite Sheet_104
+  - first:
+      213: -5125238108351471659
+    second: Armored Knight Walking Sprite Sheet_105
+  - first:
+      213: -2324647229531513409
+    second: Armored Knight Walking Sprite Sheet_106
+  - first:
+      213: 728809915455652638
+    second: Armored Knight Walking Sprite Sheet_107
+  - first:
+      213: -2766825842184240767
+    second: Armored Knight Walking Sprite Sheet_108
+  - first:
+      213: 8084036551655835493
+    second: Armored Knight Walking Sprite Sheet_109
+  - first:
+      213: 8290921019690649887
+    second: Armored Knight Walking Sprite Sheet_110
+  - first:
+      213: 6692062868650461833
+    second: Armored Knight Walking Sprite Sheet_111
+  - first:
+      213: -7285246525964758205
+    second: Armored Knight Walking Sprite Sheet_112
+  - first:
+      213: 7891010829385645518
+    second: Armored Knight Walking Sprite Sheet_113
+  - first:
+      213: -629127043276886690
+    second: Armored Knight Walking Sprite Sheet_114
+  - first:
+      213: -6177615495147804061
+    second: Armored Knight Walking Sprite Sheet_115
+  - first:
+      213: 3395188888043580381
+    second: Armored Knight Walking Sprite Sheet_116
+  - first:
+      213: 6108811064414135762
+    second: Armored Knight Walking Sprite Sheet_117
+  - first:
+      213: 1146736131251941709
+    second: Armored Knight Walking Sprite Sheet_118
+  - first:
+      213: 2724371909421565369
+    second: Armored Knight Walking Sprite Sheet_119
+  - first:
+      213: -6715337525771022186
+    second: Armored Knight Walking Sprite Sheet_120
+  - first:
+      213: -5485221549218965499
+    second: Armored Knight Walking Sprite Sheet_121
+  - first:
+      213: 4008597297712583208
+    second: Armored Knight Walking Sprite Sheet_122
+  - first:
+      213: 4872230061311100344
+    second: Armored Knight Walking Sprite Sheet_123
+  - first:
+      213: -3530184292374991180
+    second: Armored Knight Walking Sprite Sheet_124
+  - first:
+      213: 4391460885406012548
+    second: Armored Knight Walking Sprite Sheet_125
+  - first:
+      213: -7829987355874588660
+    second: Armored Knight Walking Sprite Sheet_126
+  - first:
+      213: -5683692142050087968
+    second: Armored Knight Walking Sprite Sheet_127
+  - first:
+      213: -3976204790397413514
+    second: Armored Knight Walking Sprite Sheet_128
+  - first:
+      213: -8894890414517668877
+    second: Armored Knight Walking Sprite Sheet_129
+  - first:
+      213: 6230587044217596148
+    second: Armored Knight Walking Sprite Sheet_130
+  - first:
+      213: 6036075865138453542
+    second: Armored Knight Walking Sprite Sheet_131
+  - first:
+      213: 1120886123541945663
+    second: Armored Knight Walking Sprite Sheet_132
+  - first:
+      213: 7193851469847082386
+    second: Armored Knight Walking Sprite Sheet_133
+  - first:
+      213: -4566530221875391768
+    second: Armored Knight Walking Sprite Sheet_134
+  - first:
+      213: -4950661803712847790
+    second: Armored Knight Walking Sprite Sheet_135
+  - first:
+      213: 8273815052274774077
+    second: Armored Knight Walking Sprite Sheet_136
+  - first:
+      213: -5264925306154555428
+    second: Armored Knight Walking Sprite Sheet_137
+  - first:
+      213: -7012845796905175088
+    second: Armored Knight Walking Sprite Sheet_138
+  - first:
+      213: 2461681708614214989
+    second: Armored Knight Walking Sprite Sheet_139
+  - first:
+      213: 4226901876385442179
+    second: Armored Knight Walking Sprite Sheet_140
+  - first:
+      213: -3631747967675368558
+    second: Armored Knight Walking Sprite Sheet_141
+  - first:
+      213: 2072527683604444131
+    second: Armored Knight Walking Sprite Sheet_142
+  - first:
+      213: -1253180516863002200
+    second: Armored Knight Walking Sprite Sheet_143
+  - first:
+      213: -8249450324526489715
+    second: Armored Knight Walking Sprite Sheet_144
+  - first:
+      213: -9018091376755045894
+    second: Armored Knight Walking Sprite Sheet_145
+  - first:
+      213: 7945886451642258116
+    second: Armored Knight Walking Sprite Sheet_146
+  - first:
+      213: 496772566096084856
+    second: Armored Knight Walking Sprite Sheet_147
+  - first:
+      213: -3117917953413298218
+    second: Armored Knight Walking Sprite Sheet_148
+  - first:
+      213: -6940935950362102625
+    second: Armored Knight Walking Sprite Sheet_149
+  - first:
+      213: -5293182002540610885
+    second: Armored Knight Walking Sprite Sheet_150
+  - first:
+      213: 6015172455185597724
+    second: Armored Knight Walking Sprite Sheet_151
+  - first:
+      213: -1393570958865102101
+    second: Armored Knight Walking Sprite Sheet_152
+  - first:
+      213: -1574167386980750724
+    second: Armored Knight Walking Sprite Sheet_153
+  - first:
+      213: -2753564263219093789
+    second: Armored Knight Walking Sprite Sheet_154
+  - first:
+      213: -793120438956069384
+    second: Armored Knight Walking Sprite Sheet_155
+  - first:
+      213: 5333881520802028669
+    second: Armored Knight Walking Sprite Sheet_156
+  - first:
+      213: -2991600302268236883
+    second: Armored Knight Walking Sprite Sheet_157
+  - first:
+      213: -5567564769035059368
+    second: Armored Knight Walking Sprite Sheet_158
+  - first:
+      213: -9192783474809961152
+    second: Armored Knight Walking Sprite Sheet_159
+  - first:
+      213: 5890034433277326299
+    second: Armored Knight Walking Sprite Sheet_160
+  - first:
+      213: -2347031713587360931
+    second: Armored Knight Walking Sprite Sheet_161
+  - first:
+      213: -8486618837005085618
+    second: Armored Knight Walking Sprite Sheet_162
+  - first:
+      213: 4244760398023517690
+    second: Armored Knight Walking Sprite Sheet_163
+  - first:
+      213: 5534616611907859243
+    second: Armored Knight Walking Sprite Sheet_164
+  - first:
+      213: 113619201585560899
+    second: Armored Knight Walking Sprite Sheet_165
+  - first:
+      213: 65180777330722976
+    second: Armored Knight Walking Sprite Sheet_166
+  - first:
+      213: 4319117874491594237
+    second: Armored Knight Walking Sprite Sheet_167
+  - first:
+      213: -8988169110426323543
+    second: Armored Knight Walking Sprite Sheet_168
+  - first:
+      213: -6363553273194235929
+    second: Armored Knight Walking Sprite Sheet_169
+  - first:
+      213: 686290780370437649
+    second: Armored Knight Walking Sprite Sheet_170
+  - first:
+      213: 938583627503231545
+    second: Armored Knight Walking Sprite Sheet_171
+  - first:
+      213: -5243583769056834537
+    second: Armored Knight Walking Sprite Sheet_172
+  - first:
+      213: -7739078838290067090
+    second: Armored Knight Walking Sprite Sheet_173
+  - first:
+      213: -3791147819221785931
+    second: Armored Knight Walking Sprite Sheet_174
+  - first:
+      213: 7688682386739209896
+    second: Armored Knight Walking Sprite Sheet_175
+  - first:
+      213: 2228460308681918067
+    second: Armored Knight Walking Sprite Sheet_176
+  - first:
+      213: -5232535881260090936
+    second: Armored Knight Walking Sprite Sheet_177
+  - first:
+      213: -5941566619492593451
+    second: Armored Knight Walking Sprite Sheet_178
+  - first:
+      213: 5202753621811630001
+    second: Armored Knight Walking Sprite Sheet_179
+  - first:
+      213: -7919555890849192360
+    second: Armored Knight Walking Sprite Sheet_180
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5c66781caeb64496e46d2fc5e0cfa
+      internalID: -1834610191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b251116dbbbbd647b849efdacf89482
+      internalID: 487570175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bc256c65bbdeb4f901b44ffde4a6c0
+      internalID: -1412167327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7a062bf262734ca466dc92442cd36
+      internalID: -212354485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcba4b15b9f5714f82dcba9292338c1
+      internalID: 1657983233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b082922f882649b520ceddb40ad44
+      internalID: -995216286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91611a4f4cf52b14dbc1908b226db6c3
+      internalID: -1929527214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Walking Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d361491d91242ae4f8befc27a1c24a1b
+      internalID: 1821236825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0b3411dd37f77ed4ba275c82edaeb920
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Walking Animation Sprite Sheet_0: -1834610191
+      Knight Walking Animation Sprite Sheet_1: 487570175
+      Knight Walking Animation Sprite Sheet_2: -1412167327
+      Knight Walking Animation Sprite Sheet_3: -212354485
+      Knight Walking Animation Sprite Sheet_4: 1657983233
+      Knight Walking Animation Sprite Sheet_5: -995216286
+      Knight Walking Animation Sprite Sheet_6: -1929527214
+      Knight Walking Animation Sprite Sheet_7: 1821236825
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

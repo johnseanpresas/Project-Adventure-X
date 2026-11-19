@@ -1,0 +1,21 @@
+sprite_file,width_px,height_px,status
+01_ground_outer_left.png,161,138,prototype cutout; not pixel-perfect tile-seam tested
+02_ground_center_cracked_a.png,136,131,prototype cutout; not pixel-perfect tile-seam tested
+03_ground_center_cracked_b.png,136,130,prototype cutout; not pixel-perfect tile-seam tested
+04_ground_center_moss.png,139,132,prototype cutout; not pixel-perfect tile-seam tested
+05_ground_center_bones.png,136,132,prototype cutout; not pixel-perfect tile-seam tested
+06_ground_center_long_crack.png,133,132,prototype cutout; not pixel-perfect tile-seam tested
+07_ground_center_fractured.png,137,132,prototype cutout; not pixel-perfect tile-seam tested
+08_ground_center_smooth.png,136,132,prototype cutout; not pixel-perfect tile-seam tested
+09_ground_outer_right.png,213,167,prototype cutout; not pixel-perfect tile-seam tested
+10_platform_small_single.png,156,99,prototype cutout; not pixel-perfect tile-seam tested
+11_platform_short_double.png,181,110,prototype cutout; not pixel-perfect tile-seam tested
+12_platform_long_arches.png,396,105,prototype cutout; not pixel-perfect tile-seam tested
+13_platform_long_bone_alcove.png,370,106,prototype cutout; not pixel-perfect tile-seam tested
+14_platform_broken.png,239,110,prototype cutout; not pixel-perfect tile-seam tested
+15_ground_slope.png,295,120,prototype cutout; not pixel-perfect tile-seam tested
+16_ground_stairs.png,251,120,prototype cutout; not pixel-perfect tile-seam tested
+17_ground_collapsed_stairs.png,228,117,prototype cutout; not pixel-perfect tile-seam tested
+18_floor_bone_cracks.png,137,113,prototype cutout; not pixel-perfect tile-seam tested
+19_floor_bone_pile.png,140,113,prototype cutout; not pixel-perfect tile-seam tested
+20_floor_moss.png,142,113,prototype cutout; not pixel-perfect tile-seam tested

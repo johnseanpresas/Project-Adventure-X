@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: b0ee763c65a4b08478e1386b67bbe8b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 173072276741320556
+    second: Knight Idle Animation Sprite Sheet_0
+  - first:
+      213: 8870569293852581129
+    second: Knight Idle Animation Sprite Sheet_1
+  - first:
+      213: -8747059633500028456
+    second: Knight Idle Animation Sprite Sheet_2
+  - first:
+      213: 4284104999847320043
+    second: Knight Idle Animation Sprite Sheet_3
+  - first:
+      213: 1541000051330428691
+    second: Knight Idle Animation Sprite Sheet_4
+  - first:
+      213: -5371549249152010981
+    second: Knight Idle Animation Sprite Sheet_5
+  - first:
+      213: -2058175148491184028
+    second: Knight Idle Animation Sprite Sheet_6
+  - first:
+      213: 6850449958498734678
+    second: Knight Idle Animation Sprite Sheet_7
+  - first:
+      213: 2260133250686514143
+    second: Knight Idle Animation Sprite Sheet_8
+  - first:
+      213: -7135886498190576602
+    second: Knight Idle Animation Sprite Sheet_9
+  - first:
+      213: -5344396419011169186
+    second: Knight Idle Animation Sprite Sheet_10
+  - first:
+      213: 9074764957488322313
+    second: Knight Idle Animation Sprite Sheet_11
+  - first:
+      213: 5842396290155556314
+    second: Knight Idle Animation Sprite Sheet_12
+  - first:
+      213: -96177996719427461
+    second: Knight Idle Animation Sprite Sheet_13
+  - first:
+      213: 4638155418070020386
+    second: Knight Idle Animation Sprite Sheet_14
+  - first:
+      213: -1359274150234097346
+    second: Knight Idle Animation Sprite Sheet_15
+  - first:
+      213: -3240835702244586080
+    second: Knight Idle Animation Sprite Sheet_16
+  - first:
+      213: -3227138240171750367
+    second: Knight Idle Animation Sprite Sheet_17
+  - first:
+      213: 372067326822087784
+    second: Knight Idle Animation Sprite Sheet_18
+  - first:
+      213: -7622106556192804034
+    second: Knight Idle Animation Sprite Sheet_19
+  - first:
+      213: 3096670705113926974
+    second: Knight Idle Animation Sprite Sheet_20
+  - first:
+      213: 6316045850172288720
+    second: Knight Idle Animation Sprite Sheet_21
+  - first:
+      213: -5649712179435959419
+    second: Knight Idle Animation Sprite Sheet_22
+  - first:
+      213: -1641294435744638477
+    second: Knight Idle Animation Sprite Sheet_23
+  - first:
+      213: 6605513644532545168
+    second: Knight Idle Animation Sprite Sheet_24
+  - first:
+      213: -2676663350503844604
+    second: Knight Idle Animation Sprite Sheet_25
+  - first:
+      213: -7741045564249209411
+    second: Knight Idle Animation Sprite Sheet_26
+  - first:
+      213: -6859090856739844617
+    second: Knight Idle Animation Sprite Sheet_27
+  - first:
+      213: 653802935298832283
+    second: Knight Idle Animation Sprite Sheet_28
+  - first:
+      213: -4734775250637221264
+    second: Knight Idle Animation Sprite Sheet_29
+  - first:
+      213: -8926720387114234043
+    second: Knight Idle Animation Sprite Sheet_30
+  - first:
+      213: -8427252182945803816
+    second: Knight Idle Animation Sprite Sheet_31
+  - first:
+      213: -3383325456639907865
+    second: Knight Idle Animation Sprite Sheet_32
+  - first:
+      213: 5243048326004851323
+    second: Knight Idle Animation Sprite Sheet_33
+  - first:
+      213: 9197104901907858621
+    second: Knight Idle Animation Sprite Sheet_34
+  - first:
+      213: -7052015074755633997
+    second: Knight Idle Animation Sprite Sheet_35
+  - first:
+      213: -979460367572959811
+    second: Knight Idle Animation Sprite Sheet_36
+  - first:
+      213: 2077793702533333076
+    second: Knight Idle Animation Sprite Sheet_37
+  - first:
+      213: 2981019340773966122
+    second: Knight Idle Animation Sprite Sheet_38
+  - first:
+      213: 5203067002242040084
+    second: Knight Idle Animation Sprite Sheet_39
+  - first:
+      213: -5532167075852006649
+    second: Knight Idle Animation Sprite Sheet_40
+  - first:
+      213: 2630306025070116000
+    second: Knight Idle Animation Sprite Sheet_41
+  - first:
+      213: 7513515139099991572
+    second: Knight Idle Animation Sprite Sheet_42
+  - first:
+      213: -7447040695959925151
+    second: Knight Idle Animation Sprite Sheet_43
+  - first:
+      213: -4978654127506256038
+    second: Knight Idle Animation Sprite Sheet_44
+  - first:
+      213: -4720436528659422327
+    second: Knight Idle Animation Sprite Sheet_45
+  - first:
+      213: -1515731817373990290
+    second: Knight Idle Animation Sprite Sheet_46
+  - first:
+      213: 7502171020823077851
+    second: Knight Idle Animation Sprite Sheet_47
+  - first:
+      213: -4004196415859396197
+    second: Knight Idle Animation Sprite Sheet_48
+  - first:
+      213: -6588074318103949606
+    second: Knight Idle Animation Sprite Sheet_49
+  - first:
+      213: 5548874657873548263
+    second: Knight Idle Animation Sprite Sheet_50
+  - first:
+      213: -8865859316557232875
+    second: Knight Idle Animation Sprite Sheet_51
+  - first:
+      213: 3048575967498080263
+    second: Knight Idle Animation Sprite Sheet_52
+  - first:
+      213: -4447725696811631165
+    second: Knight Idle Animation Sprite Sheet_53
+  - first:
+      213: 959852537452281006
+    second: Knight Idle Animation Sprite Sheet_54
+  - first:
+      213: 3755400394082316705
+    second: Knight Idle Animation Sprite Sheet_55
+  - first:
+      213: 3208986370691543184
+    second: Knight Idle Animation Sprite Sheet_56
+  - first:
+      213: 5455115289059002251
+    second: Knight Idle Animation Sprite Sheet_57
+  - first:
+      213: -534909834121011551
+    second: Knight Idle Animation Sprite Sheet_58
+  - first:
+      213: -4538798991108974156
+    second: Knight Idle Animation Sprite Sheet_59
+  - first:
+      213: 2211924304172462678
+    second: Knight Idle Animation Sprite Sheet_60
+  - first:
+      213: 6358649449801596905
+    second: Knight Idle Animation Sprite Sheet_61
+  - first:
+      213: -4565075182233531846
+    second: Knight Idle Animation Sprite Sheet_62
+  - first:
+      213: -8712945781467700641
+    second: Knight Idle Animation Sprite Sheet_63
+  - first:
+      213: -3999524266635356366
+    second: Knight Idle Animation Sprite Sheet_64
+  - first:
+      213: 8109931649874488221
+    second: Knight Idle Animation Sprite Sheet_65
+  - first:
+      213: -7130468057066864279
+    second: Knight Idle Animation Sprite Sheet_66
+  - first:
+      213: 8393813470783554538
+    second: Knight Idle Animation Sprite Sheet_67
+  - first:
+      213: 7257745639685151524
+    second: Knight Idle Animation Sprite Sheet_68
+  - first:
+      213: 2920103913933232412
+    second: Knight Idle Animation Sprite Sheet_69
+  - first:
+      213: -830327509071271418
+    second: Knight Idle Animation Sprite Sheet_70
+  - first:
+      213: -7943765670080395703
+    second: Knight Idle Animation Sprite Sheet_71
+  - first:
+      213: -3399163116140062756
+    second: Knight Idle Animation Sprite Sheet_72
+  - first:
+      213: 6645180128383636309
+    second: Knight Idle Animation Sprite Sheet_73
+  - first:
+      213: 3080777260189274821
+    second: Knight Idle Animation Sprite Sheet_74
+  - first:
+      213: -7738165174936238927
+    second: Knight Idle Animation Sprite Sheet_75
+  - first:
+      213: -6886690137862030365
+    second: Knight Idle Animation Sprite Sheet_76
+  - first:
+      213: -7652959926938570424
+    second: Knight Idle Animation Sprite Sheet_77
+  - first:
+      213: 5098548429720754197
+    second: Knight Idle Animation Sprite Sheet_78
+  - first:
+      213: 4150520400838900417
+    second: Knight Idle Animation Sprite Sheet_79
+  - first:
+      213: -4287117936332996008
+    second: Knight Idle Animation Sprite Sheet_80
+  - first:
+      213: -884330418565089010
+    second: Knight Idle Animation Sprite Sheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f62a79150e66200800000000000000
+      internalID: 173072276741320556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d129346c79a1b70800000000000000
+      internalID: 8870569293852581129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d182147b933c9680800000000000000
+      internalID: -8747059633500028456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9df589cc2347b30800000000000000
+      internalID: 4284104999847320043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa862d16bb26510800000000000000
+      internalID: 1541000051330428691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1537c6ea6c6475b0800000000000000
+      internalID: -5371549249152010981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46865ac6b94ef63e0800000000000000
+      internalID: -2058175148491184028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Idle Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65218e721ffa11f50800000000000000
+      internalID: 6850449958498734678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 602850b93340ad24f959b5abf5094afc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Idle Animation Sprite Sheet_0: 173072276741320556
+      Knight Idle Animation Sprite Sheet_1: 8870569293852581129
+      Knight Idle Animation Sprite Sheet_2: -8747059633500028456
+      Knight Idle Animation Sprite Sheet_3: 4284104999847320043
+      Knight Idle Animation Sprite Sheet_4: 1541000051330428691
+      Knight Idle Animation Sprite Sheet_5: -5371549249152010981
+      Knight Idle Animation Sprite Sheet_6: -2058175148491184028
+      Knight Idle Animation Sprite Sheet_7: 6850449958498734678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

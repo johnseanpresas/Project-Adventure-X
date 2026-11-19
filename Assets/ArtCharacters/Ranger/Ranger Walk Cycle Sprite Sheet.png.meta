@@ -1,0 +1,582 @@
+fileFormatVersion: 2
+guid: 367c871685671124bb3ed21639d657da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -53609523724285047
+    second: Ranger Walk Cycle Sprite Sheet_0
+  - first:
+      213: 4988716178520871044
+    second: Ranger Walk Cycle Sprite Sheet_1
+  - first:
+      213: -2325609310918593662
+    second: Ranger Walk Cycle Sprite Sheet_2
+  - first:
+      213: 5592331823797204438
+    second: Ranger Walk Cycle Sprite Sheet_3
+  - first:
+      213: 1897640534496455061
+    second: Ranger Walk Cycle Sprite Sheet_4
+  - first:
+      213: -1162366146411286427
+    second: Ranger Walk Cycle Sprite Sheet_5
+  - first:
+      213: -416534105713478108
+    second: Ranger Walk Cycle Sprite Sheet_6
+  - first:
+      213: -7422860219331634734
+    second: Ranger Walk Cycle Sprite Sheet_7
+  - first:
+      213: -226843840385340983
+    second: Ranger Walk Cycle Sprite Sheet_8
+  - first:
+      213: 3865023727229504074
+    second: Ranger Walk Cycle Sprite Sheet_9
+  - first:
+      213: 1793225448800014507
+    second: Ranger Walk Cycle Sprite Sheet_10
+  - first:
+      213: -4693692696773505752
+    second: Ranger Walk Cycle Sprite Sheet_11
+  - first:
+      213: -7802497314126465716
+    second: Ranger Walk Cycle Sprite Sheet_12
+  - first:
+      213: 9030008943680075070
+    second: Ranger Walk Cycle Sprite Sheet_13
+  - first:
+      213: 947636255686262562
+    second: Ranger Walk Cycle Sprite Sheet_14
+  - first:
+      213: 5801210031744220084
+    second: Ranger Walk Cycle Sprite Sheet_15
+  - first:
+      213: -2086883899507362168
+    second: Ranger Walk Cycle Sprite Sheet_16
+  - first:
+      213: -504527443136354934
+    second: Ranger Walk Cycle Sprite Sheet_17
+  - first:
+      213: 7103789498831894348
+    second: Ranger Walk Cycle Sprite Sheet_18
+  - first:
+      213: -4876597454501203464
+    second: Ranger Walk Cycle Sprite Sheet_19
+  - first:
+      213: -8978691443640743572
+    second: Ranger Walk Cycle Sprite Sheet_20
+  - first:
+      213: 6671632393766347639
+    second: Ranger Walk Cycle Sprite Sheet_21
+  - first:
+      213: 6948274856568022457
+    second: Ranger Walk Cycle Sprite Sheet_22
+  - first:
+      213: 148240373209082898
+    second: Ranger Walk Cycle Sprite Sheet_23
+  - first:
+      213: -3609831770653433223
+    second: Ranger Walk Cycle Sprite Sheet_24
+  - first:
+      213: 4257018637547417953
+    second: Ranger Walk Cycle Sprite Sheet_25
+  - first:
+      213: -4190783212161828710
+    second: Ranger Walk Cycle Sprite Sheet_26
+  - first:
+      213: 8951625279184332859
+    second: Ranger Walk Cycle Sprite Sheet_27
+  - first:
+      213: -4156671430110621245
+    second: Ranger Walk Cycle Sprite Sheet_28
+  - first:
+      213: 855355663357952935
+    second: Ranger Walk Cycle Sprite Sheet_29
+  - first:
+      213: -520664133524978717
+    second: Ranger Walk Cycle Sprite Sheet_30
+  - first:
+      213: 3904298302821319094
+    second: Ranger Walk Cycle Sprite Sheet_31
+  - first:
+      213: 1201336696029320028
+    second: Ranger Walk Cycle Sprite Sheet_32
+  - first:
+      213: 4573466526893460778
+    second: Ranger Walk Cycle Sprite Sheet_33
+  - first:
+      213: 4371332199402022129
+    second: Ranger Walk Cycle Sprite Sheet_34
+  - first:
+      213: 5775237227804662388
+    second: Ranger Walk Cycle Sprite Sheet_35
+  - first:
+      213: -3677853170050561065
+    second: Ranger Walk Cycle Sprite Sheet_36
+  - first:
+      213: 616510691744769450
+    second: Ranger Walk Cycle Sprite Sheet_37
+  - first:
+      213: -2008426972897198353
+    second: Ranger Walk Cycle Sprite Sheet_38
+  - first:
+      213: -4760345273429461690
+    second: Ranger Walk Cycle Sprite Sheet_39
+  - first:
+      213: -3420611982611888746
+    second: Ranger Walk Cycle Sprite Sheet_40
+  - first:
+      213: -2186557094626335103
+    second: Ranger Walk Cycle Sprite Sheet_41
+  - first:
+      213: 1770798380244020411
+    second: Ranger Walk Cycle Sprite Sheet_42
+  - first:
+      213: 2925519241709830065
+    second: Ranger Walk Cycle Sprite Sheet_43
+  - first:
+      213: -562173994963680683
+    second: Ranger Walk Cycle Sprite Sheet_44
+  - first:
+      213: 4821625620232662376
+    second: Ranger Walk Cycle Sprite Sheet_45
+  - first:
+      213: -5773194857170543615
+    second: Ranger Walk Cycle Sprite Sheet_46
+  - first:
+      213: -8565524270613629061
+    second: Ranger Walk Cycle Sprite Sheet_47
+  - first:
+      213: 3558284649366646052
+    second: Ranger Walk Cycle Sprite Sheet_48
+  - first:
+      213: 2043869782259494769
+    second: Ranger Walk Cycle Sprite Sheet_49
+  - first:
+      213: -2769088256548015967
+    second: Ranger Walk Cycle Sprite Sheet_50
+  - first:
+      213: 5627956693541079260
+    second: Ranger Walk Cycle Sprite Sheet_51
+  - first:
+      213: -109943514493072178
+    second: Ranger Walk Cycle Sprite Sheet_52
+  - first:
+      213: 4300007724152511625
+    second: Ranger Walk Cycle Sprite Sheet_53
+  - first:
+      213: -7316772308613378565
+    second: Ranger Walk Cycle Sprite Sheet_54
+  - first:
+      213: -6160608067085624691
+    second: Ranger Walk Cycle Sprite Sheet_55
+  - first:
+      213: -3848070561286762377
+    second: Ranger Walk Cycle Sprite Sheet_56
+  - first:
+      213: -4186661000901516249
+    second: Ranger Walk Cycle Sprite Sheet_57
+  - first:
+      213: 479747411894137603
+    second: Ranger Walk Cycle Sprite Sheet_58
+  - first:
+      213: 2115019578032504482
+    second: Ranger Walk Cycle Sprite Sheet_59
+  - first:
+      213: -8258348840599045648
+    second: Ranger Walk Cycle Sprite Sheet_60
+  - first:
+      213: 7886120255780400772
+    second: Ranger Walk Cycle Sprite Sheet_61
+  - first:
+      213: 505311443175326515
+    second: Ranger Walk Cycle Sprite Sheet_62
+  - first:
+      213: 3929236649158139394
+    second: Ranger Walk Cycle Sprite Sheet_63
+  - first:
+      213: -4747771597719677425
+    second: Ranger Walk Cycle Sprite Sheet_64
+  - first:
+      213: 1715504993559026233
+    second: Ranger Walk Cycle Sprite Sheet_65
+  - first:
+      213: -236346502547885497
+    second: Ranger Walk Cycle Sprite Sheet_66
+  - first:
+      213: -1224409537042093553
+    second: Ranger Walk Cycle Sprite Sheet_67
+  - first:
+      213: -5453756716633218447
+    second: Ranger Walk Cycle Sprite Sheet_68
+  - first:
+      213: -180252063677511113
+    second: Ranger Walk Cycle Sprite Sheet_69
+  - first:
+      213: -3243245622038498917
+    second: Ranger Walk Cycle Sprite Sheet_70
+  - first:
+      213: 2175523266874309964
+    second: Ranger Walk Cycle Sprite Sheet_71
+  - first:
+      213: 1335289402658010947
+    second: Ranger Walk Cycle Sprite Sheet_72
+  - first:
+      213: -3965916407538412917
+    second: Ranger Walk Cycle Sprite Sheet_73
+  - first:
+      213: 6278843127329576640
+    second: Ranger Walk Cycle Sprite Sheet_74
+  - first:
+      213: 5347514159016705378
+    second: Ranger Walk Cycle Sprite Sheet_75
+  - first:
+      213: -3683356777584747005
+    second: Ranger Walk Cycle Sprite Sheet_76
+  - first:
+      213: -4307464569629793727
+    second: Ranger Walk Cycle Sprite Sheet_77
+  - first:
+      213: 8739919718327453
+    second: Ranger Walk Cycle Sprite Sheet_78
+  - first:
+      213: 5819834268881779378
+    second: Ranger Walk Cycle Sprite Sheet_79
+  - first:
+      213: 9121483258928625725
+    second: Ranger Walk Cycle Sprite Sheet_80
+  - first:
+      213: 9196498138100769107
+    second: Ranger Walk Cycle Sprite Sheet_81
+  - first:
+      213: 5221947856527627309
+    second: Ranger Walk Cycle Sprite Sheet_82
+  - first:
+      213: 1623505224574547762
+    second: Ranger Walk Cycle Sprite Sheet_83
+  - first:
+      213: -2267775761401730181
+    second: Ranger Walk Cycle Sprite Sheet_84
+  - first:
+      213: -2201865180457958383
+    second: Ranger Walk Cycle Sprite Sheet_85
+  - first:
+      213: -7155942791502663914
+    second: Ranger Walk Cycle Sprite Sheet_86
+  - first:
+      213: -5738657866232154454
+    second: Ranger Walk Cycle Sprite Sheet_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b06d51c6a814ff0800000000000000
+      internalID: -53609523724285047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4801bf9deea7b3540800000000000000
+      internalID: 4988716178520871044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2833b5047a6c9bfd0800000000000000
+      internalID: -2325609310918593662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57b8f0a24fb9d40800000000000000
+      internalID: 5592331823797204438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992b021306c55a10800000000000000
+      internalID: 1897640534496455061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5603738f5227edfe0800000000000000
+      internalID: -1162366146411286427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426fc10107c283af0800000000000000
+      internalID: -416534105713478108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Walk Cycle Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d91c5165f3bcf890800000000000000
+      internalID: -7422860219331634734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 381b3d581c3fe7747a7d662531a66060
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ranger Walk Cycle Sprite Sheet_0: -53609523724285047
+      Ranger Walk Cycle Sprite Sheet_1: 4988716178520871044
+      Ranger Walk Cycle Sprite Sheet_2: -2325609310918593662
+      Ranger Walk Cycle Sprite Sheet_3: 5592331823797204438
+      Ranger Walk Cycle Sprite Sheet_4: 1897640534496455061
+      Ranger Walk Cycle Sprite Sheet_5: -1162366146411286427
+      Ranger Walk Cycle Sprite Sheet_6: -416534105713478108
+      Ranger Walk Cycle Sprite Sheet_7: -7422860219331634734
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

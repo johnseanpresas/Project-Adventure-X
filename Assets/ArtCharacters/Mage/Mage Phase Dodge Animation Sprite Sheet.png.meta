@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 40440a4b442e6a24888d4612f188feef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1620986249029149500
+    second: Mage Phase Dodge Animation Sprite Sheet_0
+  - first:
+      213: 7710319461839749337
+    second: Mage Phase Dodge Animation Sprite Sheet_1
+  - first:
+      213: -4011092247614548688
+    second: Mage Phase Dodge Animation Sprite Sheet_2
+  - first:
+      213: 7360998967611798627
+    second: Mage Phase Dodge Animation Sprite Sheet_3
+  - first:
+      213: 4324126083154958914
+    second: Mage Phase Dodge Animation Sprite Sheet_4
+  - first:
+      213: -3162423987845886137
+    second: Mage Phase Dodge Animation Sprite Sheet_5
+  - first:
+      213: -1715464878132939776
+    second: Mage Phase Dodge Animation Sprite Sheet_6
+  - first:
+      213: -9006287341757194049
+    second: Mage Phase Dodge Animation Sprite Sheet_7
+  - first:
+      213: 4605362582312330235
+    second: Mage Phase Dodge Animation Sprite Sheet_8
+  - first:
+      213: 3697767128302487006
+    second: Mage Phase Dodge Animation Sprite Sheet_9
+  - first:
+      213: 6372402898439669567
+    second: Mage Phase Dodge Animation Sprite Sheet_10
+  - first:
+      213: -7190703499917285809
+    second: Mage Phase Dodge Animation Sprite Sheet_11
+  - first:
+      213: 3762089975779640377
+    second: Mage Phase Dodge Animation Sprite Sheet_12
+  - first:
+      213: -8862879134388648963
+    second: Mage Phase Dodge Animation Sprite Sheet_13
+  - first:
+      213: 1819283103157949560
+    second: Mage Phase Dodge Animation Sprite Sheet_14
+  - first:
+      213: 506220032952353663
+    second: Mage Phase Dodge Animation Sprite Sheet_15
+  - first:
+      213: -4071301600477468389
+    second: Mage Phase Dodge Animation Sprite Sheet_16
+  - first:
+      213: -6545440959270150368
+    second: Mage Phase Dodge Animation Sprite Sheet_17
+  - first:
+      213: 8875814338692611684
+    second: Mage Phase Dodge Animation Sprite Sheet_18
+  - first:
+      213: 2708527138756853058
+    second: Mage Phase Dodge Animation Sprite Sheet_19
+  - first:
+      213: -6740799796620495641
+    second: Mage Phase Dodge Animation Sprite Sheet_20
+  - first:
+      213: 2095122182571214032
+    second: Mage Phase Dodge Animation Sprite Sheet_21
+  - first:
+      213: 2930280863583634089
+    second: Mage Phase Dodge Animation Sprite Sheet_22
+  - first:
+      213: 4780070456544754169
+    second: Mage Phase Dodge Animation Sprite Sheet_23
+  - first:
+      213: -8362780778947204191
+    second: Mage Phase Dodge Animation Sprite Sheet_24
+  - first:
+      213: 3433694532419811796
+    second: Mage Phase Dodge Animation Sprite Sheet_25
+  - first:
+      213: 3191009997896746755
+    second: Mage Phase Dodge Animation Sprite Sheet_26
+  - first:
+      213: 1829244422993604000
+    second: Mage Phase Dodge Animation Sprite Sheet_27
+  - first:
+      213: 4704831823018397445
+    second: Mage Phase Dodge Animation Sprite Sheet_28
+  - first:
+      213: -164079600851776332
+    second: Mage Phase Dodge Animation Sprite Sheet_29
+  - first:
+      213: -795705748629400480
+    second: Mage Phase Dodge Animation Sprite Sheet_30
+  - first:
+      213: -4597764702793411714
+    second: Mage Phase Dodge Animation Sprite Sheet_31
+  - first:
+      213: -8135134611044702444
+    second: Mage Phase Dodge Animation Sprite Sheet_32
+  - first:
+      213: -3844725415047039069
+    second: Mage Phase Dodge Animation Sprite Sheet_33
+  - first:
+      213: 3344648418813830523
+    second: Mage Phase Dodge Animation Sprite Sheet_34
+  - first:
+      213: 3711658240528180365
+    second: Mage Phase Dodge Animation Sprite Sheet_35
+  - first:
+      213: -8932088470729927631
+    second: Mage Phase Dodge Animation Sprite Sheet_36
+  - first:
+      213: 7214614917258043893
+    second: Mage Phase Dodge Animation Sprite Sheet_37
+  - first:
+      213: 9174779401929402558
+    second: Mage Phase Dodge Animation Sprite Sheet_38
+  - first:
+      213: -1988694392369222821
+    second: Mage Phase Dodge Animation Sprite Sheet_39
+  - first:
+      213: -11109441673933800
+    second: Mage Phase Dodge Animation Sprite Sheet_40
+  - first:
+      213: 3225065170448539816
+    second: Mage Phase Dodge Animation Sprite Sheet_41
+  - first:
+      213: -7994344380596937401
+    second: Mage Phase Dodge Animation Sprite Sheet_42
+  - first:
+      213: -8258136481654705578
+    second: Mage Phase Dodge Animation Sprite Sheet_43
+  - first:
+      213: 7499851492330791119
+    second: Mage Phase Dodge Animation Sprite Sheet_44
+  - first:
+      213: -937067090802654213
+    second: Mage Phase Dodge Animation Sprite Sheet_45
+  - first:
+      213: 6602597188886926306
+    second: Mage Phase Dodge Animation Sprite Sheet_46
+  - first:
+      213: -5459887275037856394
+    second: Mage Phase Dodge Animation Sprite Sheet_47
+  - first:
+      213: -2682285225222590361
+    second: Mage Phase Dodge Animation Sprite Sheet_48
+  - first:
+      213: 4212441107818495949
+    second: Mage Phase Dodge Animation Sprite Sheet_49
+  - first:
+      213: -1601868146089374221
+    second: Mage Phase Dodge Animation Sprite Sheet_50
+  - first:
+      213: 6437657016808890556
+    second: Mage Phase Dodge Animation Sprite Sheet_51
+  - first:
+      213: 2474645009247748090
+    second: Mage Phase Dodge Animation Sprite Sheet_52
+  - first:
+      213: 5100747588142669091
+    second: Mage Phase Dodge Animation Sprite Sheet_53
+  - first:
+      213: -632027752909305929
+    second: Mage Phase Dodge Animation Sprite Sheet_54
+  - first:
+      213: 8067922050769337152
+    second: Mage Phase Dodge Animation Sprite Sheet_55
+  - first:
+      213: -960311792770666175
+    second: Mage Phase Dodge Animation Sprite Sheet_56
+  - first:
+      213: 7417979028127076734
+    second: Mage Phase Dodge Animation Sprite Sheet_57
+  - first:
+      213: -5259951381895548072
+    second: Mage Phase Dodge Animation Sprite Sheet_58
+  - first:
+      213: -7367201876170708056
+    second: Mage Phase Dodge Animation Sprite Sheet_59
+  - first:
+      213: -1243094626296188846
+    second: Mage Phase Dodge Animation Sprite Sheet_60
+  - first:
+      213: 7248376295186473877
+    second: Mage Phase Dodge Animation Sprite Sheet_61
+  - first:
+      213: 6240939503623102483
+    second: Mage Phase Dodge Animation Sprite Sheet_62
+  - first:
+      213: 470023419992159166
+    second: Mage Phase Dodge Animation Sprite Sheet_63
+  - first:
+      213: -7361378647648779131
+    second: Mage Phase Dodge Animation Sprite Sheet_64
+  - first:
+      213: -6728224420725583553
+    second: Mage Phase Dodge Animation Sprite Sheet_65
+  - first:
+      213: -2918829075069713967
+    second: Mage Phase Dodge Animation Sprite Sheet_66
+  - first:
+      213: -2866146527983276355
+    second: Mage Phase Dodge Animation Sprite Sheet_67
+  - first:
+      213: -1330836516286895314
+    second: Mage Phase Dodge Animation Sprite Sheet_68
+  - first:
+      213: 2828692011302308575
+    second: Mage Phase Dodge Animation Sprite Sheet_69
+  - first:
+      213: -5372047401182414828
+    second: Mage Phase Dodge Animation Sprite Sheet_70
+  - first:
+      213: -6924376051446948694
+    second: Mage Phase Dodge Animation Sprite Sheet_71
+  - first:
+      213: -5840300881743417904
+    second: Mage Phase Dodge Animation Sprite Sheet_72
+  - first:
+      213: -7420555316428920286
+    second: Mage Phase Dodge Animation Sprite Sheet_73
+  - first:
+      213: -7725382679289116058
+    second: Mage Phase Dodge Animation Sprite Sheet_74
+  - first:
+      213: -5982918696359463337
+    second: Mage Phase Dodge Animation Sprite Sheet_75
+  - first:
+      213: -3167926802416675633
+    second: Mage Phase Dodge Animation Sprite Sheet_76
+  - first:
+      213: -2364668056003747264
+    second: Mage Phase Dodge Animation Sprite Sheet_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc13d848991189e0800000000000000
+      internalID: -1620986249029149500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d04db313be800b60800000000000000
+      internalID: 7710319461839749337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359c9b3adcb558c0800000000000000
+      internalID: -4011092247614548688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364b4809f85872660800000000000000
+      internalID: 7360998967611798627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ad37e23c1620c30800000000000000
+      internalID: 4324126083154958914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f85476320dc14d0800000000000000
+      internalID: -3162423987845886137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0043a3248c17138e0800000000000000
+      internalID: -1715464878132939776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Phase Dodge Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb02779416d330380800000000000000
+      internalID: -9006287341757194049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cceac9958a6a06e4395462f643dacbe6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage Phase Dodge Animation Sprite Sheet_0: -1620986249029149500
+      Mage Phase Dodge Animation Sprite Sheet_1: 7710319461839749337
+      Mage Phase Dodge Animation Sprite Sheet_2: -4011092247614548688
+      Mage Phase Dodge Animation Sprite Sheet_3: 7360998967611798627
+      Mage Phase Dodge Animation Sprite Sheet_4: 4324126083154958914
+      Mage Phase Dodge Animation Sprite Sheet_5: -3162423987845886137
+      Mage Phase Dodge Animation Sprite Sheet_6: -1715464878132939776
+      Mage Phase Dodge Animation Sprite Sheet_7: -9006287341757194049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 15f896bcaba2f474aa3e359dbbac4b6e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2421043408603829811
+    second: Ranger Dodge Dash Sprite Sheet_0
+  - first:
+      213: -5100359037436259575
+    second: Ranger Dodge Dash Sprite Sheet_1
+  - first:
+      213: 6455099673067353312
+    second: Ranger Dodge Dash Sprite Sheet_2
+  - first:
+      213: -8149658997953802086
+    second: Ranger Dodge Dash Sprite Sheet_3
+  - first:
+      213: 1201614778605384377
+    second: Ranger Dodge Dash Sprite Sheet_4
+  - first:
+      213: 5525252643850854579
+    second: Ranger Dodge Dash Sprite Sheet_5
+  - first:
+      213: 1475181948394932172
+    second: Ranger Dodge Dash Sprite Sheet_6
+  - first:
+      213: 7292730292373620164
+    second: Ranger Dodge Dash Sprite Sheet_7
+  - first:
+      213: 3713329946114368517
+    second: Ranger Dodge Dash Sprite Sheet_8
+  - first:
+      213: -2206598367052672979
+    second: Ranger Dodge Dash Sprite Sheet_9
+  - first:
+      213: 6683040959608087320
+    second: Ranger Dodge Dash Sprite Sheet_10
+  - first:
+      213: 3665850455262866442
+    second: Ranger Dodge Dash Sprite Sheet_11
+  - first:
+      213: 1216373702049678879
+    second: Ranger Dodge Dash Sprite Sheet_12
+  - first:
+      213: 3706807877293936681
+    second: Ranger Dodge Dash Sprite Sheet_13
+  - first:
+      213: -7754477415501025496
+    second: Ranger Dodge Dash Sprite Sheet_14
+  - first:
+      213: -3793593401968340372
+    second: Ranger Dodge Dash Sprite Sheet_15
+  - first:
+      213: 2476898424273191697
+    second: Ranger Dodge Dash Sprite Sheet_16
+  - first:
+      213: 6020649106434054131
+    second: Ranger Dodge Dash Sprite Sheet_17
+  - first:
+      213: 5040614592450795538
+    second: Ranger Dodge Dash Sprite Sheet_18
+  - first:
+      213: -5713109728319530361
+    second: Ranger Dodge Dash Sprite Sheet_19
+  - first:
+      213: 6513423675624674495
+    second: Ranger Dodge Dash Sprite Sheet_20
+  - first:
+      213: 6159127948749091738
+    second: Ranger Dodge Dash Sprite Sheet_21
+  - first:
+      213: 8227452686844491207
+    second: Ranger Dodge Dash Sprite Sheet_22
+  - first:
+      213: 8564050492438329588
+    second: Ranger Dodge Dash Sprite Sheet_23
+  - first:
+      213: -3801485868236546546
+    second: Ranger Dodge Dash Sprite Sheet_24
+  - first:
+      213: 7959866233294789353
+    second: Ranger Dodge Dash Sprite Sheet_25
+  - first:
+      213: -7864558730803790175
+    second: Ranger Dodge Dash Sprite Sheet_26
+  - first:
+      213: -6711649073570975555
+    second: Ranger Dodge Dash Sprite Sheet_27
+  - first:
+      213: 2101498562142990189
+    second: Ranger Dodge Dash Sprite Sheet_28
+  - first:
+      213: -3404039564331722376
+    second: Ranger Dodge Dash Sprite Sheet_29
+  - first:
+      213: 6553742683282132265
+    second: Ranger Dodge Dash Sprite Sheet_30
+  - first:
+      213: 210939144932025648
+    second: Ranger Dodge Dash Sprite Sheet_31
+  - first:
+      213: 9219588943787259290
+    second: Ranger Dodge Dash Sprite Sheet_32
+  - first:
+      213: 2976061560906415030
+    second: Ranger Dodge Dash Sprite Sheet_33
+  - first:
+      213: 557855669672522122
+    second: Ranger Dodge Dash Sprite Sheet_34
+  - first:
+      213: -4818225910568374099
+    second: Ranger Dodge Dash Sprite Sheet_35
+  - first:
+      213: -4995042033638248649
+    second: Ranger Dodge Dash Sprite Sheet_36
+  - first:
+      213: 780340359903328268
+    second: Ranger Dodge Dash Sprite Sheet_37
+  - first:
+      213: 5706437724401366593
+    second: Ranger Dodge Dash Sprite Sheet_38
+  - first:
+      213: 8517214157272222853
+    second: Ranger Dodge Dash Sprite Sheet_39
+  - first:
+      213: -4447484166439206642
+    second: Ranger Dodge Dash Sprite Sheet_40
+  - first:
+      213: 1839985678588570852
+    second: Ranger Dodge Dash Sprite Sheet_41
+  - first:
+      213: -5029173864747338079
+    second: Ranger Dodge Dash Sprite Sheet_42
+  - first:
+      213: -1104974658500703512
+    second: Ranger Dodge Dash Sprite Sheet_43
+  - first:
+      213: -802808362798545176
+    second: Ranger Dodge Dash Sprite Sheet_44
+  - first:
+      213: 8246663385550580444
+    second: Ranger Dodge Dash Sprite Sheet_45
+  - first:
+      213: -3768692685363461443
+    second: Ranger Dodge Dash Sprite Sheet_46
+  - first:
+      213: 1094823651597810209
+    second: Ranger Dodge Dash Sprite Sheet_47
+  - first:
+      213: -1192362274161342345
+    second: Ranger Dodge Dash Sprite Sheet_48
+  - first:
+      213: -2428334488566389464
+    second: Ranger Dodge Dash Sprite Sheet_49
+  - first:
+      213: 9133430809656962236
+    second: Ranger Dodge Dash Sprite Sheet_50
+  - first:
+      213: 5872020895441025089
+    second: Ranger Dodge Dash Sprite Sheet_51
+  - first:
+      213: 8790983098351191733
+    second: Ranger Dodge Dash Sprite Sheet_52
+  - first:
+      213: -28720873079896654
+    second: Ranger Dodge Dash Sprite Sheet_53
+  - first:
+      213: 7104554198548871240
+    second: Ranger Dodge Dash Sprite Sheet_54
+  - first:
+      213: -977617342145952367
+    second: Ranger Dodge Dash Sprite Sheet_55
+  - first:
+      213: 8136085058462705352
+    second: Ranger Dodge Dash Sprite Sheet_56
+  - first:
+      213: -2080042654377071734
+    second: Ranger Dodge Dash Sprite Sheet_57
+  - first:
+      213: -5217305330292659496
+    second: Ranger Dodge Dash Sprite Sheet_58
+  - first:
+      213: -4083476484776886283
+    second: Ranger Dodge Dash Sprite Sheet_59
+  - first:
+      213: 6911364672629125668
+    second: Ranger Dodge Dash Sprite Sheet_60
+  - first:
+      213: -2260952907802798634
+    second: Ranger Dodge Dash Sprite Sheet_61
+  - first:
+      213: -6085911647031227438
+    second: Ranger Dodge Dash Sprite Sheet_62
+  - first:
+      213: 4697509011336343479
+    second: Ranger Dodge Dash Sprite Sheet_63
+  - first:
+      213: 3093419474163552030
+    second: Ranger Dodge Dash Sprite Sheet_64
+  - first:
+      213: 2466596119874048540
+    second: Ranger Dodge Dash Sprite Sheet_65
+  - first:
+      213: -5670757368091468312
+    second: Ranger Dodge Dash Sprite Sheet_66
+  - first:
+      213: -5650018296000893383
+    second: Ranger Dodge Dash Sprite Sheet_67
+  - first:
+      213: -6500471985991187628
+    second: Ranger Dodge Dash Sprite Sheet_68
+  - first:
+      213: 2636216435653552944
+    second: Ranger Dodge Dash Sprite Sheet_69
+  - first:
+      213: 4952446319368524535
+    second: Ranger Dodge Dash Sprite Sheet_70
+  - first:
+      213: -302557660384186428
+    second: Ranger Dodge Dash Sprite Sheet_71
+  - first:
+      213: 5679927833576845488
+    second: Ranger Dodge Dash Sprite Sheet_72
+  - first:
+      213: -7897646482392207606
+    second: Ranger Dodge Dash Sprite Sheet_73
+  - first:
+      213: -3331642659834193340
+    second: Ranger Dodge Dash Sprite Sheet_74
+  - first:
+      213: -2409759552763834444
+    second: Ranger Dodge Dash Sprite Sheet_75
+  - first:
+      213: -1712071230793124709
+    second: Ranger Dodge Dash Sprite Sheet_76
+  - first:
+      213: 3601542438492384401
+    second: Ranger Dodge Dash Sprite Sheet_77
+  - first:
+      213: 5435716626040820140
+    second: Ranger Dodge Dash Sprite Sheet_78
+  - first:
+      213: -6775544421783337248
+    second: Ranger Dodge Dash Sprite Sheet_79
+  - first:
+      213: -2162610163068318978
+    second: Ranger Dodge Dash Sprite Sheet_80
+  - first:
+      213: -1970237200934890378
+    second: Ranger Dodge Dash Sprite Sheet_81
+  - first:
+      213: 1645787243004947916
+    second: Ranger Dodge Dash Sprite Sheet_82
+  - first:
+      213: -8617386104337923206
+    second: Ranger Dodge Dash Sprite Sheet_83
+  - first:
+      213: 3386228298943487865
+    second: Ranger Dodge Dash Sprite Sheet_84
+  - first:
+      213: -8176024445572124397
+    second: Ranger Dodge Dash Sprite Sheet_85
+  - first:
+      213: -3322415912377490740
+    second: Ranger Dodge Dash Sprite Sheet_86
+  - first:
+      213: -1845912031295751832
+    second: Ranger Dodge Dash Sprite Sheet_87
+  - first:
+      213: -8768345428355308613
+    second: Ranger Dodge Dash Sprite Sheet_88
+  - first:
+      213: 2959249301240493897
+    second: Ranger Dodge Dash Sprite Sheet_89
+  - first:
+      213: 1654143900551718840
+    second: Ranger Dodge Dash Sprite Sheet_90
+  - first:
+      213: -7666232409352758920
+    second: Ranger Dodge Dash Sprite Sheet_91
+  - first:
+      213: -2841291318603606955
+    second: Ranger Dodge Dash Sprite Sheet_92
+  - first:
+      213: -6205560925794673923
+    second: Ranger Dodge Dash Sprite Sheet_93
+  - first:
+      213: -8973991642154802026
+    second: Ranger Dodge Dash Sprite Sheet_94
+  - first:
+      213: 905828732024913140
+    second: Ranger Dodge Dash Sprite Sheet_95
+  - first:
+      213: 5938834639906547096
+    second: Ranger Dodge Dash Sprite Sheet_96
+  - first:
+      213: 4356094384735035066
+    second: Ranger Dodge Dash Sprite Sheet_97
+  - first:
+      213: 463787950669007623
+    second: Ranger Dodge Dash Sprite Sheet_98
+  - first:
+      213: 7546538561162901060
+    second: Ranger Dodge Dash Sprite Sheet_99
+  - first:
+      213: 9217398608102828272
+    second: Ranger Dodge Dash Sprite Sheet_100
+  - first:
+      213: 3284050532800547477
+    second: Ranger Dodge Dash Sprite Sheet_101
+  - first:
+      213: -3323659939976081030
+    second: Ranger Dodge Dash Sprite Sheet_102
+  - first:
+      213: -1305223511277661995
+    second: Ranger Dodge Dash Sprite Sheet_103
+  - first:
+      213: 7096774540934912357
+    second: Ranger Dodge Dash Sprite Sheet_104
+  - first:
+      213: -8982742241736739684
+    second: Ranger Dodge Dash Sprite Sheet_105
+  - first:
+      213: -3717909826704336750
+    second: Ranger Dodge Dash Sprite Sheet_106
+  - first:
+      213: -5315247046622339914
+    second: Ranger Dodge Dash Sprite Sheet_107
+  - first:
+      213: 8198619414082808919
+    second: Ranger Dodge Dash Sprite Sheet_108
+  - first:
+      213: -1972408098469042433
+    second: Ranger Dodge Dash Sprite Sheet_109
+  - first:
+      213: 1636688132092285029
+    second: Ranger Dodge Dash Sprite Sheet_110
+  - first:
+      213: -8370024701685833260
+    second: Ranger Dodge Dash Sprite Sheet_111
+  - first:
+      213: 6184979245308906584
+    second: Ranger Dodge Dash Sprite Sheet_112
+  - first:
+      213: 3234274230297704402
+    second: Ranger Dodge Dash Sprite Sheet_113
+  - first:
+      213: 5779380537973224099
+    second: Ranger Dodge Dash Sprite Sheet_114
+  - first:
+      213: 1107368836878592256
+    second: Ranger Dodge Dash Sprite Sheet_115
+  - first:
+      213: -4535541233940748555
+    second: Ranger Dodge Dash Sprite Sheet_116
+  - first:
+      213: 8626573001989451223
+    second: Ranger Dodge Dash Sprite Sheet_117
+  - first:
+      213: -1602744286974511095
+    second: Ranger Dodge Dash Sprite Sheet_118
+  - first:
+      213: 4170454772349239197
+    second: Ranger Dodge Dash Sprite Sheet_119
+  - first:
+      213: 9088745109474507648
+    second: Ranger Dodge Dash Sprite Sheet_120
+  - first:
+      213: 484916757763728794
+    second: Ranger Dodge Dash Sprite Sheet_121
+  - first:
+      213: -5998777710995515872
+    second: Ranger Dodge Dash Sprite Sheet_122
+  - first:
+      213: -5097402879541068639
+    second: Ranger Dodge Dash Sprite Sheet_123
+  - first:
+      213: -9116574529876025045
+    second: Ranger Dodge Dash Sprite Sheet_124
+  - first:
+      213: 7280559364576846900
+    second: Ranger Dodge Dash Sprite Sheet_125
+  - first:
+      213: -371045786316886756
+    second: Ranger Dodge Dash Sprite Sheet_126
+  - first:
+      213: -5051965009059791084
+    second: Ranger Dodge Dash Sprite Sheet_127
+  - first:
+      213: 204182675812401616
+    second: Ranger Dodge Dash Sprite Sheet_128
+  - first:
+      213: 4655911417020134565
+    second: Ranger Dodge Dash Sprite Sheet_129
+  - first:
+      213: 2137116022370610471
+    second: Ranger Dodge Dash Sprite Sheet_130
+  - first:
+      213: -6283813178887774453
+    second: Ranger Dodge Dash Sprite Sheet_131
+  - first:
+      213: -234911917402303139
+    second: Ranger Dodge Dash Sprite Sheet_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336d1a32726499120800000000000000
+      internalID: 2421043408603829811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90398a27a72e739b0800000000000000
+      internalID: -5100359037436259575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47beab3fe159950800000000000000
+      internalID: 6455099673067353312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90d562f15896ee80800000000000000
+      internalID: -8149658997953802086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b232a3564efca010800000000000000
+      internalID: 1201614778605384377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0a40b6104adac40800000000000000
+      internalID: 5525252643850854579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7062d8a26e87410800000000000000
+      internalID: 1475181948394932172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Dodge Dash Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c509a7ff8bf43560800000000000000
+      internalID: 7292730292373620164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39829a6af5555a3428ff030612faa957
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ranger Dodge Dash Sprite Sheet_0: 2421043408603829811
+      Ranger Dodge Dash Sprite Sheet_1: -5100359037436259575
+      Ranger Dodge Dash Sprite Sheet_2: 6455099673067353312
+      Ranger Dodge Dash Sprite Sheet_3: -8149658997953802086
+      Ranger Dodge Dash Sprite Sheet_4: 1201614778605384377
+      Ranger Dodge Dash Sprite Sheet_5: 5525252643850854579
+      Ranger Dodge Dash Sprite Sheet_6: 1475181948394932172
+      Ranger Dodge Dash Sprite Sheet_7: 7292730292373620164
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

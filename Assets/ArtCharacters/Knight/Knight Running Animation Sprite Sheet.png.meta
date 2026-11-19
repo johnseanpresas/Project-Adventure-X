@@ -1,0 +1,564 @@
+fileFormatVersion: 2
+guid: defedb96452a8934aa0c138b095ce4c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -22467773203071855
+    second: Armored Knight Running Sprite Sheet_0
+  - first:
+      213: 1721806048890844051
+    second: Armored Knight Running Sprite Sheet_1
+  - first:
+      213: 7603976071433089939
+    second: Armored Knight Running Sprite Sheet_2
+  - first:
+      213: -7060462461010969039
+    second: Armored Knight Running Sprite Sheet_3
+  - first:
+      213: 5006906624085671618
+    second: Armored Knight Running Sprite Sheet_4
+  - first:
+      213: 5133704289504222590
+    second: Armored Knight Running Sprite Sheet_5
+  - first:
+      213: 1863779793342694982
+    second: Armored Knight Running Sprite Sheet_6
+  - first:
+      213: 5309411593229267316
+    second: Armored Knight Running Sprite Sheet_7
+  - first:
+      213: 6082799501432814492
+    second: Armored Knight Running Sprite Sheet_8
+  - first:
+      213: -2724540176287244407
+    second: Armored Knight Running Sprite Sheet_9
+  - first:
+      213: -3700607203026676544
+    second: Armored Knight Running Sprite Sheet_10
+  - first:
+      213: 4901263915024029838
+    second: Armored Knight Running Sprite Sheet_11
+  - first:
+      213: 123404546923807657
+    second: Armored Knight Running Sprite Sheet_12
+  - first:
+      213: -7446254386424534204
+    second: Armored Knight Running Sprite Sheet_13
+  - first:
+      213: 8069954831500031645
+    second: Armored Knight Running Sprite Sheet_14
+  - first:
+      213: -583819125109594434
+    second: Armored Knight Running Sprite Sheet_15
+  - first:
+      213: -3876507958712372515
+    second: Armored Knight Running Sprite Sheet_16
+  - first:
+      213: 1212708848239006988
+    second: Armored Knight Running Sprite Sheet_17
+  - first:
+      213: -2358365457351468863
+    second: Armored Knight Running Sprite Sheet_18
+  - first:
+      213: -1517553604194739833
+    second: Armored Knight Running Sprite Sheet_19
+  - first:
+      213: 199877567155753649
+    second: Armored Knight Running Sprite Sheet_20
+  - first:
+      213: 5291094022898506114
+    second: Armored Knight Running Sprite Sheet_21
+  - first:
+      213: -5652241371062295802
+    second: Armored Knight Running Sprite Sheet_22
+  - first:
+      213: -1000374211775864081
+    second: Armored Knight Running Sprite Sheet_23
+  - first:
+      213: -6003421185958630610
+    second: Armored Knight Running Sprite Sheet_24
+  - first:
+      213: -2780463225540829314
+    second: Armored Knight Running Sprite Sheet_25
+  - first:
+      213: 4858442318407931291
+    second: Armored Knight Running Sprite Sheet_26
+  - first:
+      213: -4980127823548986474
+    second: Armored Knight Running Sprite Sheet_27
+  - first:
+      213: 906142930709058980
+    second: Armored Knight Running Sprite Sheet_28
+  - first:
+      213: -1510707204984373466
+    second: Armored Knight Running Sprite Sheet_29
+  - first:
+      213: 2402160730311611711
+    second: Armored Knight Running Sprite Sheet_30
+  - first:
+      213: -2220200728918450916
+    second: Armored Knight Running Sprite Sheet_31
+  - first:
+      213: 8097065568304868330
+    second: Armored Knight Running Sprite Sheet_32
+  - first:
+      213: 3993296859303023674
+    second: Armored Knight Running Sprite Sheet_33
+  - first:
+      213: 1981038723682534895
+    second: Armored Knight Running Sprite Sheet_34
+  - first:
+      213: 1024599862537548821
+    second: Armored Knight Running Sprite Sheet_35
+  - first:
+      213: 4469697919919024529
+    second: Armored Knight Running Sprite Sheet_36
+  - first:
+      213: 1389291511255997993
+    second: Armored Knight Running Sprite Sheet_37
+  - first:
+      213: 1967938615129537380
+    second: Armored Knight Running Sprite Sheet_38
+  - first:
+      213: -6866997314483178056
+    second: Armored Knight Running Sprite Sheet_39
+  - first:
+      213: -8499776464413492425
+    second: Armored Knight Running Sprite Sheet_40
+  - first:
+      213: -6321653961803953118
+    second: Armored Knight Running Sprite Sheet_41
+  - first:
+      213: -1146647913637118226
+    second: Armored Knight Running Sprite Sheet_42
+  - first:
+      213: -4204329650139576577
+    second: Armored Knight Running Sprite Sheet_43
+  - first:
+      213: 3378171881566731449
+    second: Armored Knight Running Sprite Sheet_44
+  - first:
+      213: -2148498323691124112
+    second: Armored Knight Running Sprite Sheet_45
+  - first:
+      213: 6496208335071800357
+    second: Armored Knight Running Sprite Sheet_46
+  - first:
+      213: -7592021503918650342
+    second: Armored Knight Running Sprite Sheet_47
+  - first:
+      213: -6972583488957344670
+    second: Armored Knight Running Sprite Sheet_48
+  - first:
+      213: 5718605515015303407
+    second: Armored Knight Running Sprite Sheet_49
+  - first:
+      213: 8434838175688992591
+    second: Armored Knight Running Sprite Sheet_50
+  - first:
+      213: -3704008281037037215
+    second: Armored Knight Running Sprite Sheet_51
+  - first:
+      213: 2956503137744285945
+    second: Armored Knight Running Sprite Sheet_52
+  - first:
+      213: -421223166222057890
+    second: Armored Knight Running Sprite Sheet_53
+  - first:
+      213: -2951496023622570592
+    second: Armored Knight Running Sprite Sheet_54
+  - first:
+      213: 7260088576208687898
+    second: Armored Knight Running Sprite Sheet_55
+  - first:
+      213: 5584110669331214340
+    second: Armored Knight Running Sprite Sheet_56
+  - first:
+      213: -3741313608249264717
+    second: Armored Knight Running Sprite Sheet_57
+  - first:
+      213: 3753472758867714714
+    second: Armored Knight Running Sprite Sheet_58
+  - first:
+      213: 4328857076837184526
+    second: Armored Knight Running Sprite Sheet_59
+  - first:
+      213: 6681191902882041561
+    second: Armored Knight Running Sprite Sheet_60
+  - first:
+      213: -8222517508693043696
+    second: Armored Knight Running Sprite Sheet_61
+  - first:
+      213: -1721998457560343944
+    second: Armored Knight Running Sprite Sheet_62
+  - first:
+      213: -4965454403598764000
+    second: Armored Knight Running Sprite Sheet_63
+  - first:
+      213: 2823319872039848240
+    second: Armored Knight Running Sprite Sheet_64
+  - first:
+      213: 2474842069439024443
+    second: Armored Knight Running Sprite Sheet_65
+  - first:
+      213: 7730971722132313498
+    second: Armored Knight Running Sprite Sheet_66
+  - first:
+      213: -8663095634409420047
+    second: Armored Knight Running Sprite Sheet_67
+  - first:
+      213: -3965540328225932614
+    second: Armored Knight Running Sprite Sheet_68
+  - first:
+      213: -7849727229941985815
+    second: Armored Knight Running Sprite Sheet_69
+  - first:
+      213: 3778146674756505520
+    second: Armored Knight Running Sprite Sheet_70
+  - first:
+      213: -5351515513156662807
+    second: Armored Knight Running Sprite Sheet_71
+  - first:
+      213: -4105714167082740135
+    second: Armored Knight Running Sprite Sheet_72
+  - first:
+      213: -3595932070563715523
+    second: Armored Knight Running Sprite Sheet_73
+  - first:
+      213: 8833765477517914943
+    second: Armored Knight Running Sprite Sheet_74
+  - first:
+      213: -4607423193351956847
+    second: Armored Knight Running Sprite Sheet_75
+  - first:
+      213: -925987885254436064
+    second: Armored Knight Running Sprite Sheet_76
+  - first:
+      213: 6393097740950438114
+    second: Armored Knight Running Sprite Sheet_77
+  - first:
+      213: -4072529040605278829
+    second: Armored Knight Running Sprite Sheet_78
+  - first:
+      213: -5656267860180072286
+    second: Armored Knight Running Sprite Sheet_79
+  - first:
+      213: -8919674940120918983
+    second: Armored Knight Running Sprite Sheet_80
+  - first:
+      213: 7813826060646350115
+    second: Armored Knight Running Sprite Sheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd780fe10ce66734fa53cc363aa2afdb
+      internalID: 2122554991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e621e015734aea940adbff0ce1d50cd1
+      internalID: 1213236535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9962a60a51b7dd348b4a595b025986c7
+      internalID: -221754968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce940063dc4d9a44db283f659c0d268a
+      internalID: -1182866807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ef6ba854ede84aba0f816f3b432d9
+      internalID: -72634354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5777a7b6930ac2488b942242393d8a4
+      internalID: -621893269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828c3c34a64a6744c9ac4b50ad79a934
+      internalID: -357561612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Running Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd491b66de847a44b88576ca9fcad996
+      internalID: 621332986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 470df29955f14784ca32a92b18028ee3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Running Animation Sprite Sheet_0: 2122554991
+      Knight Running Animation Sprite Sheet_1: 1213236535
+      Knight Running Animation Sprite Sheet_2: -221754968
+      Knight Running Animation Sprite Sheet_3: -1182866807
+      Knight Running Animation Sprite Sheet_4: -72634354
+      Knight Running Animation Sprite Sheet_5: -621893269
+      Knight Running Animation Sprite Sheet_6: -357561612
+      Knight Running Animation Sprite Sheet_7: 621332986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

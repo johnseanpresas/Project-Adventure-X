@@ -1,0 +1,963 @@
+fileFormatVersion: 2
+guid: f9046b8d7b85d2747bf0ac680467f8fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8282712524155782391
+    second: Hurt Idle Ranger Animation Sprite Sheet_0
+  - first:
+      213: -6327853331139179490
+    second: Hurt Idle Ranger Animation Sprite Sheet_1
+  - first:
+      213: -8254186580838941897
+    second: Hurt Idle Ranger Animation Sprite Sheet_2
+  - first:
+      213: 9215226791530619508
+    second: Hurt Idle Ranger Animation Sprite Sheet_3
+  - first:
+      213: -3090324027806354347
+    second: Hurt Idle Ranger Animation Sprite Sheet_4
+  - first:
+      213: 201695150112292498
+    second: Hurt Idle Ranger Animation Sprite Sheet_5
+  - first:
+      213: 4794184002046175807
+    second: Hurt Idle Ranger Animation Sprite Sheet_6
+  - first:
+      213: -9127629634302199218
+    second: Hurt Idle Ranger Animation Sprite Sheet_7
+  - first:
+      213: -2074300336804923822
+    second: Hurt Idle Ranger Animation Sprite Sheet_8
+  - first:
+      213: -7125759068142745729
+    second: Hurt Idle Ranger Animation Sprite Sheet_9
+  - first:
+      213: -6624374604712189694
+    second: Hurt Idle Ranger Animation Sprite Sheet_10
+  - first:
+      213: -480472137094613925
+    second: Hurt Idle Ranger Animation Sprite Sheet_11
+  - first:
+      213: -6179517626343401799
+    second: Hurt Idle Ranger Animation Sprite Sheet_12
+  - first:
+      213: -7813220032143232654
+    second: Hurt Idle Ranger Animation Sprite Sheet_13
+  - first:
+      213: -8359658142936151851
+    second: Hurt Idle Ranger Animation Sprite Sheet_14
+  - first:
+      213: 3835988545996462945
+    second: Hurt Idle Ranger Animation Sprite Sheet_15
+  - first:
+      213: -8269597423951575257
+    second: Hurt Idle Ranger Animation Sprite Sheet_16
+  - first:
+      213: -5210664437615286660
+    second: Hurt Idle Ranger Animation Sprite Sheet_17
+  - first:
+      213: -5761311136195573758
+    second: Hurt Idle Ranger Animation Sprite Sheet_18
+  - first:
+      213: 509110859082726441
+    second: Hurt Idle Ranger Animation Sprite Sheet_19
+  - first:
+      213: -7763581021304189472
+    second: Hurt Idle Ranger Animation Sprite Sheet_20
+  - first:
+      213: -1856587639805956765
+    second: Hurt Idle Ranger Animation Sprite Sheet_21
+  - first:
+      213: 5029640968792495917
+    second: Hurt Idle Ranger Animation Sprite Sheet_22
+  - first:
+      213: 5985660525605273236
+    second: Hurt Idle Ranger Animation Sprite Sheet_23
+  - first:
+      213: -5248962714738418572
+    second: Hurt Idle Ranger Animation Sprite Sheet_24
+  - first:
+      213: -909748731102835735
+    second: Hurt Idle Ranger Animation Sprite Sheet_25
+  - first:
+      213: -8227004070384692113
+    second: Hurt Idle Ranger Animation Sprite Sheet_26
+  - first:
+      213: 6176673413216527596
+    second: Hurt Idle Ranger Animation Sprite Sheet_27
+  - first:
+      213: -4385512884575294329
+    second: Hurt Idle Ranger Animation Sprite Sheet_28
+  - first:
+      213: 8235275193743014682
+    second: Hurt Idle Ranger Animation Sprite Sheet_29
+  - first:
+      213: 6271196869336302830
+    second: Hurt Idle Ranger Animation Sprite Sheet_30
+  - first:
+      213: -4266775041523519605
+    second: Hurt Idle Ranger Animation Sprite Sheet_31
+  - first:
+      213: -7432407153337486570
+    second: Hurt Idle Ranger Animation Sprite Sheet_32
+  - first:
+      213: -15472530217362177
+    second: Hurt Idle Ranger Animation Sprite Sheet_33
+  - first:
+      213: 7939638004522488011
+    second: Hurt Idle Ranger Animation Sprite Sheet_34
+  - first:
+      213: -1787509155549902385
+    second: Hurt Idle Ranger Animation Sprite Sheet_35
+  - first:
+      213: 3529016822196824982
+    second: Hurt Idle Ranger Animation Sprite Sheet_36
+  - first:
+      213: -7850541130882527720
+    second: Hurt Idle Ranger Animation Sprite Sheet_37
+  - first:
+      213: -7037146497645335999
+    second: Hurt Idle Ranger Animation Sprite Sheet_38
+  - first:
+      213: -1258039767749860941
+    second: Hurt Idle Ranger Animation Sprite Sheet_39
+  - first:
+      213: -4305048351799136153
+    second: Hurt Idle Ranger Animation Sprite Sheet_40
+  - first:
+      213: 5716245675570189876
+    second: Hurt Idle Ranger Animation Sprite Sheet_41
+  - first:
+      213: 3006549013712447294
+    second: Hurt Idle Ranger Animation Sprite Sheet_42
+  - first:
+      213: -6114215159980297621
+    second: Hurt Idle Ranger Animation Sprite Sheet_43
+  - first:
+      213: -8923154355233936745
+    second: Hurt Idle Ranger Animation Sprite Sheet_44
+  - first:
+      213: 1375417884080545835
+    second: Hurt Idle Ranger Animation Sprite Sheet_45
+  - first:
+      213: -2990397562696522136
+    second: Hurt Idle Ranger Animation Sprite Sheet_46
+  - first:
+      213: -7596936228196125796
+    second: Hurt Idle Ranger Animation Sprite Sheet_47
+  - first:
+      213: -2468788982107790682
+    second: Hurt Idle Ranger Animation Sprite Sheet_48
+  - first:
+      213: 9148846233404355175
+    second: Hurt Idle Ranger Animation Sprite Sheet_49
+  - first:
+      213: 1282840680281153773
+    second: Hurt Idle Ranger Animation Sprite Sheet_50
+  - first:
+      213: -5380617463968092926
+    second: Hurt Idle Ranger Animation Sprite Sheet_51
+  - first:
+      213: -5997799544295612051
+    second: Hurt Idle Ranger Animation Sprite Sheet_52
+  - first:
+      213: -1102246031200107084
+    second: Hurt Idle Ranger Animation Sprite Sheet_53
+  - first:
+      213: -1952567269216249556
+    second: Hurt Idle Ranger Animation Sprite Sheet_54
+  - first:
+      213: -720370527064902648
+    second: Hurt Idle Ranger Animation Sprite Sheet_55
+  - first:
+      213: 8110159519310613897
+    second: Hurt Idle Ranger Animation Sprite Sheet_56
+  - first:
+      213: 3795513490744085708
+    second: Hurt Idle Ranger Animation Sprite Sheet_57
+  - first:
+      213: -274564029196295207
+    second: Hurt Idle Ranger Animation Sprite Sheet_58
+  - first:
+      213: 5436861039795602688
+    second: Hurt Idle Ranger Animation Sprite Sheet_59
+  - first:
+      213: -9186542921524246589
+    second: Hurt Idle Ranger Animation Sprite Sheet_60
+  - first:
+      213: -6088112808570568754
+    second: Hurt Idle Ranger Animation Sprite Sheet_61
+  - first:
+      213: 7983779307723149861
+    second: Hurt Idle Ranger Animation Sprite Sheet_62
+  - first:
+      213: -6966306198073090104
+    second: Hurt Idle Ranger Animation Sprite Sheet_63
+  - first:
+      213: -6049012509258753264
+    second: Hurt Idle Ranger Animation Sprite Sheet_64
+  - first:
+      213: -3268426479677044666
+    second: Hurt Idle Ranger Animation Sprite Sheet_65
+  - first:
+      213: 6083203115771078105
+    second: Hurt Idle Ranger Animation Sprite Sheet_66
+  - first:
+      213: -3680638601370086012
+    second: Hurt Idle Ranger Animation Sprite Sheet_67
+  - first:
+      213: -1774731660566684302
+    second: Hurt Idle Ranger Animation Sprite Sheet_68
+  - first:
+      213: -4318661932342187764
+    second: Hurt Idle Ranger Animation Sprite Sheet_69
+  - first:
+      213: -6563471860690535504
+    second: Hurt Idle Ranger Animation Sprite Sheet_70
+  - first:
+      213: -6723651780002382754
+    second: Hurt Idle Ranger Animation Sprite Sheet_71
+  - first:
+      213: -8113643564828236801
+    second: Hurt Idle Ranger Animation Sprite Sheet_72
+  - first:
+      213: 3977806008177370296
+    second: Hurt Idle Ranger Animation Sprite Sheet_73
+  - first:
+      213: 1601776323035051096
+    second: Hurt Idle Ranger Animation Sprite Sheet_74
+  - first:
+      213: 584705368931075776
+    second: Hurt Idle Ranger Animation Sprite Sheet_75
+  - first:
+      213: 2993063746591888739
+    second: Hurt Idle Ranger Animation Sprite Sheet_76
+  - first:
+      213: 1818442991390187469
+    second: Hurt Idle Ranger Animation Sprite Sheet_77
+  - first:
+      213: -2331071378669540395
+    second: Hurt Idle Ranger Animation Sprite Sheet_78
+  - first:
+      213: 753896270750033168
+    second: Hurt Idle Ranger Animation Sprite Sheet_79
+  - first:
+      213: -1761808345258473509
+    second: Hurt Idle Ranger Animation Sprite Sheet_80
+  - first:
+      213: 5081045449418185505
+    second: Hurt Idle Ranger Animation Sprite Sheet_81
+  - first:
+      213: -816361192239754135
+    second: Hurt Idle Ranger Animation Sprite Sheet_82
+  - first:
+      213: -6537295241600870747
+    second: Hurt Idle Ranger Animation Sprite Sheet_83
+  - first:
+      213: -3779541941435985372
+    second: Hurt Idle Ranger Animation Sprite Sheet_84
+  - first:
+      213: 9197393544512998701
+    second: Hurt Idle Ranger Animation Sprite Sheet_85
+  - first:
+      213: -5754817134117492588
+    second: Hurt Idle Ranger Animation Sprite Sheet_86
+  - first:
+      213: -6739321813197357818
+    second: Hurt Idle Ranger Animation Sprite Sheet_87
+  - first:
+      213: 6164909291483971834
+    second: Hurt Idle Ranger Animation Sprite Sheet_88
+  - first:
+      213: -4729840291206960937
+    second: Hurt Idle Ranger Animation Sprite Sheet_89
+  - first:
+      213: 1136819359222399240
+    second: Hurt Idle Ranger Animation Sprite Sheet_90
+  - first:
+      213: -128697658391934863
+    second: Hurt Idle Ranger Animation Sprite Sheet_91
+  - first:
+      213: -4012821485325964640
+    second: Hurt Idle Ranger Animation Sprite Sheet_92
+  - first:
+      213: -6305721010451675476
+    second: Hurt Idle Ranger Animation Sprite Sheet_93
+  - first:
+      213: -1913913795160211582
+    second: Hurt Idle Ranger Animation Sprite Sheet_94
+  - first:
+      213: 1263606308215835192
+    second: Hurt Idle Ranger Animation Sprite Sheet_95
+  - first:
+      213: -4139191869817158073
+    second: Hurt Idle Ranger Animation Sprite Sheet_96
+  - first:
+      213: 1031266851502723680
+    second: Hurt Idle Ranger Animation Sprite Sheet_97
+  - first:
+      213: -1199686348834765622
+    second: Hurt Idle Ranger Animation Sprite Sheet_98
+  - first:
+      213: -8032571483316423923
+    second: Hurt Idle Ranger Animation Sprite Sheet_99
+  - first:
+      213: 2421362913740787420
+    second: Hurt Idle Ranger Animation Sprite Sheet_100
+  - first:
+      213: -1808859688571248524
+    second: Hurt Idle Ranger Animation Sprite Sheet_101
+  - first:
+      213: -3951370439675134459
+    second: Hurt Idle Ranger Animation Sprite Sheet_102
+  - first:
+      213: 2686985490773726930
+    second: Hurt Idle Ranger Animation Sprite Sheet_103
+  - first:
+      213: -7095549782287481973
+    second: Hurt Idle Ranger Animation Sprite Sheet_104
+  - first:
+      213: 6488352513055147228
+    second: Hurt Idle Ranger Animation Sprite Sheet_105
+  - first:
+      213: -8663159945726291322
+    second: Hurt Idle Ranger Animation Sprite Sheet_106
+  - first:
+      213: 6052789252183155776
+    second: Hurt Idle Ranger Animation Sprite Sheet_107
+  - first:
+      213: -7643741233717618910
+    second: Hurt Idle Ranger Animation Sprite Sheet_108
+  - first:
+      213: 784708338522538853
+    second: Hurt Idle Ranger Animation Sprite Sheet_109
+  - first:
+      213: 2887698265131292078
+    second: Hurt Idle Ranger Animation Sprite Sheet_110
+  - first:
+      213: 8032342432947276639
+    second: Hurt Idle Ranger Animation Sprite Sheet_111
+  - first:
+      213: 3543716274958923546
+    second: Hurt Idle Ranger Animation Sprite Sheet_112
+  - first:
+      213: 9035005081347429468
+    second: Hurt Idle Ranger Animation Sprite Sheet_113
+  - first:
+      213: -5186512139072688633
+    second: Hurt Idle Ranger Animation Sprite Sheet_114
+  - first:
+      213: -5797494726906772013
+    second: Hurt Idle Ranger Animation Sprite Sheet_115
+  - first:
+      213: -1732853825974311961
+    second: Hurt Idle Ranger Animation Sprite Sheet_116
+  - first:
+      213: 6715742606772958783
+    second: Hurt Idle Ranger Animation Sprite Sheet_117
+  - first:
+      213: -3343157472015864378
+    second: Hurt Idle Ranger Animation Sprite Sheet_118
+  - first:
+      213: 6402006995482081755
+    second: Hurt Idle Ranger Animation Sprite Sheet_119
+  - first:
+      213: -1118684019113190317
+    second: Hurt Idle Ranger Animation Sprite Sheet_120
+  - first:
+      213: -4392562725403572551
+    second: Hurt Idle Ranger Animation Sprite Sheet_121
+  - first:
+      213: 1037602645862683694
+    second: Hurt Idle Ranger Animation Sprite Sheet_122
+  - first:
+      213: -4228470044273025883
+    second: Hurt Idle Ranger Animation Sprite Sheet_123
+  - first:
+      213: -8820557706262156597
+    second: Hurt Idle Ranger Animation Sprite Sheet_124
+  - first:
+      213: -3042671507661178650
+    second: Hurt Idle Ranger Animation Sprite Sheet_125
+  - first:
+      213: 9166957584805427669
+    second: Hurt Idle Ranger Animation Sprite Sheet_126
+  - first:
+      213: 624374399847864669
+    second: Hurt Idle Ranger Animation Sprite Sheet_127
+  - first:
+      213: 3042869199953008466
+    second: Hurt Idle Ranger Animation Sprite Sheet_128
+  - first:
+      213: 7789843669228916068
+    second: Hurt Idle Ranger Animation Sprite Sheet_129
+  - first:
+      213: -3730447354428026093
+    second: Hurt Idle Ranger Animation Sprite Sheet_130
+  - first:
+      213: 6180158731820839999
+    second: Hurt Idle Ranger Animation Sprite Sheet_131
+  - first:
+      213: 4935908506649611822
+    second: Hurt Idle Ranger Animation Sprite Sheet_132
+  - first:
+      213: -7395175801538743249
+    second: Hurt Idle Ranger Animation Sprite Sheet_133
+  - first:
+      213: -1337015513998096688
+    second: Hurt Idle Ranger Animation Sprite Sheet_134
+  - first:
+      213: -4206331576541693494
+    second: Hurt Idle Ranger Animation Sprite Sheet_135
+  - first:
+      213: -4051379787688941792
+    second: Hurt Idle Ranger Animation Sprite Sheet_136
+  - first:
+      213: 8998026394846620784
+    second: Hurt Idle Ranger Animation Sprite Sheet_137
+  - first:
+      213: -4727709582239446864
+    second: Hurt Idle Ranger Animation Sprite Sheet_138
+  - first:
+      213: 8670756522951193825
+    second: Hurt Idle Ranger Animation Sprite Sheet_139
+  - first:
+      213: -2376683869569687668
+    second: Hurt Idle Ranger Animation Sprite Sheet_140
+  - first:
+      213: -6748314203128014106
+    second: Hurt Idle Ranger Animation Sprite Sheet_141
+  - first:
+      213: 8963838926544615059
+    second: Hurt Idle Ranger Animation Sprite Sheet_142
+  - first:
+      213: -104411939265864616
+    second: Hurt Idle Ranger Animation Sprite Sheet_143
+  - first:
+      213: 5485447449911482359
+    second: Hurt Idle Ranger Animation Sprite Sheet_144
+  - first:
+      213: 3972077795693788582
+    second: Hurt Idle Ranger Animation Sprite Sheet_145
+  - first:
+      213: 264471203565880877
+    second: Hurt Idle Ranger Animation Sprite Sheet_146
+  - first:
+      213: -7032712329135096161
+    second: Hurt Idle Ranger Animation Sprite Sheet_147
+  - first:
+      213: 6329791948235366961
+    second: Hurt Idle Ranger Animation Sprite Sheet_148
+  - first:
+      213: -2937797806866841379
+    second: Hurt Idle Ranger Animation Sprite Sheet_149
+  - first:
+      213: -7398453752622964414
+    second: Hurt Idle Ranger Animation Sprite Sheet_150
+  - first:
+      213: 3758688304440709753
+    second: Hurt Idle Ranger Animation Sprite Sheet_151
+  - first:
+      213: -1113291861459634912
+    second: Hurt Idle Ranger Animation Sprite Sheet_152
+  - first:
+      213: -6033612087102243708
+    second: Hurt Idle Ranger Animation Sprite Sheet_153
+  - first:
+      213: -7648805797651526951
+    second: Hurt Idle Ranger Animation Sprite Sheet_154
+  - first:
+      213: 7676027305722850794
+    second: Hurt Idle Ranger Animation Sprite Sheet_155
+  - first:
+      213: 7457363695780845791
+    second: Hurt Idle Ranger Animation Sprite Sheet_156
+  - first:
+      213: -5559873126647929523
+    second: Hurt Idle Ranger Animation Sprite Sheet_157
+  - first:
+      213: 8215253633494489042
+    second: Hurt Idle Ranger Animation Sprite Sheet_158
+  - first:
+      213: -4381158806818049700
+    second: Hurt Idle Ranger Animation Sprite Sheet_159
+  - first:
+      213: 2971792093149728584
+    second: Hurt Idle Ranger Animation Sprite Sheet_160
+  - first:
+      213: 7699068646374386470
+    second: Hurt Idle Ranger Animation Sprite Sheet_161
+  - first:
+      213: -1137246369469395435
+    second: Hurt Idle Ranger Animation Sprite Sheet_162
+  - first:
+      213: 4102653873528943894
+    second: Hurt Idle Ranger Animation Sprite Sheet_163
+  - first:
+      213: -5623770118272942926
+    second: Hurt Idle Ranger Animation Sprite Sheet_164
+  - first:
+      213: 702114876400390218
+    second: Hurt Idle Ranger Animation Sprite Sheet_165
+  - first:
+      213: 5112535949281971042
+    second: Hurt Idle Ranger Animation Sprite Sheet_166
+  - first:
+      213: -1924186750602368723
+    second: Hurt Idle Ranger Animation Sprite Sheet_167
+  - first:
+      213: 4264705872880215310
+    second: Hurt Idle Ranger Animation Sprite Sheet_168
+  - first:
+      213: 1617173458138839060
+    second: Hurt Idle Ranger Animation Sprite Sheet_169
+  - first:
+      213: 6613752367424909397
+    second: Hurt Idle Ranger Animation Sprite Sheet_170
+  - first:
+      213: 2579224818615413832
+    second: Hurt Idle Ranger Animation Sprite Sheet_171
+  - first:
+      213: 4404061604498504060
+    second: Hurt Idle Ranger Animation Sprite Sheet_172
+  - first:
+      213: 3696274835262702227
+    second: Hurt Idle Ranger Animation Sprite Sheet_173
+  - first:
+      213: -6332731762915450839
+    second: Hurt Idle Ranger Animation Sprite Sheet_174
+  - first:
+      213: 4930262530154638360
+    second: Hurt Idle Ranger Animation Sprite Sheet_175
+  - first:
+      213: -2137075321265035798
+    second: Hurt Idle Ranger Animation Sprite Sheet_176
+  - first:
+      213: -7283077361964426704
+    second: Hurt Idle Ranger Animation Sprite Sheet_177
+  - first:
+      213: 6941239462883962620
+    second: Hurt Idle Ranger Animation Sprite Sheet_178
+  - first:
+      213: 4865716208899937395
+    second: Hurt Idle Ranger Animation Sprite Sheet_179
+  - first:
+      213: -6429902941358079531
+    second: Hurt Idle Ranger Animation Sprite Sheet_180
+  - first:
+      213: 5068476784252195061
+    second: Hurt Idle Ranger Animation Sprite Sheet_181
+  - first:
+      213: 199164600779803012
+    second: Hurt Idle Ranger Animation Sprite Sheet_182
+  - first:
+      213: 227013437057831328
+    second: Hurt Idle Ranger Animation Sprite Sheet_183
+  - first:
+      213: -1213433332071926833
+    second: Hurt Idle Ranger Animation Sprite Sheet_184
+  - first:
+      213: -1942542276126168646
+    second: Hurt Idle Ranger Animation Sprite Sheet_185
+  - first:
+      213: 8880709147417673898
+    second: Hurt Idle Ranger Animation Sprite Sheet_186
+  - first:
+      213: 7482088956144245098
+    second: Hurt Idle Ranger Animation Sprite Sheet_187
+  - first:
+      213: 5620821277113575914
+    second: Hurt Idle Ranger Animation Sprite Sheet_188
+  - first:
+      213: -6290685258392569715
+    second: Hurt Idle Ranger Animation Sprite Sheet_189
+  - first:
+      213: 1636439480508378847
+    second: Hurt Idle Ranger Animation Sprite Sheet_190
+  - first:
+      213: 5449003605954263420
+    second: Hurt Idle Ranger Animation Sprite Sheet_191
+  - first:
+      213: -5821054366373051956
+    second: Hurt Idle Ranger Animation Sprite Sheet_192
+  - first:
+      213: 7066639889414961004
+    second: Hurt Idle Ranger Animation Sprite Sheet_193
+  - first:
+      213: 7764198361509393420
+    second: Hurt Idle Ranger Animation Sprite Sheet_194
+  - first:
+      213: -7625658468637454451
+    second: Hurt Idle Ranger Animation Sprite Sheet_195
+  - first:
+      213: 7614573855682825741
+    second: Hurt Idle Ranger Animation Sprite Sheet_196
+  - first:
+      213: -4469494048983999520
+    second: Hurt Idle Ranger Animation Sprite Sheet_197
+  - first:
+      213: -2334089868337401599
+    second: Hurt Idle Ranger Animation Sprite Sheet_198
+  - first:
+      213: 1062671320979307091
+    second: Hurt Idle Ranger Animation Sprite Sheet_199
+  - first:
+      213: 7014245492414395913
+    second: Hurt Idle Ranger Animation Sprite Sheet_200
+  - first:
+      213: 2224438736268507293
+    second: Hurt Idle Ranger Animation Sprite Sheet_201
+  - first:
+      213: 2068322390054752613
+    second: Hurt Idle Ranger Animation Sprite Sheet_202
+  - first:
+      213: -6650248420220374840
+    second: Hurt Idle Ranger Animation Sprite Sheet_203
+  - first:
+      213: -5022016233775575954
+    second: Hurt Idle Ranger Animation Sprite Sheet_204
+  - first:
+      213: 1331908873393527257
+    second: Hurt Idle Ranger Animation Sprite Sheet_205
+  - first:
+      213: 6971287917003084511
+    second: Hurt Idle Ranger Animation Sprite Sheet_206
+  - first:
+      213: 3587280979255706407
+    second: Hurt Idle Ranger Animation Sprite Sheet_207
+  - first:
+      213: 1021882342055429322
+    second: Hurt Idle Ranger Animation Sprite Sheet_208
+  - first:
+      213: 9029628239588584297
+    second: Hurt Idle Ranger Animation Sprite Sheet_209
+  - first:
+      213: 405906772080975493
+    second: Hurt Idle Ranger Animation Sprite Sheet_210
+  - first:
+      213: 8314447729672425731
+    second: Hurt Idle Ranger Animation Sprite Sheet_211
+  - first:
+      213: 6045100572751889944
+    second: Hurt Idle Ranger Animation Sprite Sheet_212
+  - first:
+      213: -7500066430448621989
+    second: Hurt Idle Ranger Animation Sprite Sheet_213
+  - first:
+      213: -3996290280920019973
+    second: Hurt Idle Ranger Animation Sprite Sheet_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46a01d3e974baf418707fc7baf5ae68
+      internalID: -973393122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b6495d19b59d144a9d230ec2722d1c
+      internalID: 291937551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d8f44410257fe439f78f71c128b411
+      internalID: -11418643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d2e4199643db7459f90f9edb614896
+      internalID: -703524899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be106586941291042b9976e2a955dc86
+      internalID: 1556998198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e096ab3aa402448fe78b2e89a01be
+      internalID: -1883421875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0da710e82aadeb4498e3cf6a39e2a10
+      internalID: -1305758128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Hurt Idle Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2fb4556cd04ea4498a81d38bb9e143
+      internalID: 1500104671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bdddfbd7c4541894ea42bd8a54da4a04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ranger Hurt Idle Animation Sprite Sheet_0: -973393122
+      Ranger Hurt Idle Animation Sprite Sheet_1: 291937551
+      Ranger Hurt Idle Animation Sprite Sheet_2: -11418643
+      Ranger Hurt Idle Animation Sprite Sheet_3: -703524899
+      Ranger Hurt Idle Animation Sprite Sheet_4: 1556998198
+      Ranger Hurt Idle Animation Sprite Sheet_5: -1883421875
+      Ranger Hurt Idle Animation Sprite Sheet_6: -1305758128
+      Ranger Hurt Idle Animation Sprite Sheet_7: 1500104671
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

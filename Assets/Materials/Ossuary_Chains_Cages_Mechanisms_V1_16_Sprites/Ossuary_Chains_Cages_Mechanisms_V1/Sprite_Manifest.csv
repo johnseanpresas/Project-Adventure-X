@@ -1,0 +1,17 @@
+filename,width_px,height_px,source_x,source_y,source_width,source_height
+01_chain_heavy_straight.png,65,319,30,11,49,303
+02_chain_medium_straight.png,61,270,99,11,45,254
+03_chain_with_hook.png,84,280,165,11,68,264
+04_chain_draped_between_anchors.png,234,297,237,11,218,281
+05_chain_double_draped.png,194,273,480,11,178,257
+06_cage_iron_round_empty.png,163,326,686,10,147,310
+07_cage_iron_spiked_closed.png,194,326,861,10,178,310
+08_cage_iron_skull_relic.png,190,347,1080,10,174,331
+09_gallows_noose_wooden_beam.png,249,298,1286,15,233,282
+10_floor_lever.png,197,198,10,319,181,182
+11_rope_winch_mechanism.png,244,203,210,315,228,187
+12_crank_gear_wheel.png,190,200,447,313,174,184
+13_iron_portcullis_grate.png,266,189,642,327,250,173
+14_floor_iron_grate.png,229,148,910,367,213,132
+15_stone_pressure_plate.png,210,137,1139,375,194,121
+16_floor_spike_trap.png,199,149,1345,364,187,133

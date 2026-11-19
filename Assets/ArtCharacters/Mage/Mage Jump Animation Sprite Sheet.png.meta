@@ -1,0 +1,783 @@
+fileFormatVersion: 2
+guid: a16cc4edc0d25ed48bdb10fa1c80bb60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4636469451524536554
+    second: Mage Jump Animation Sprite Sheet_0
+  - first:
+      213: 4660994214670929925
+    second: Mage Jump Animation Sprite Sheet_1
+  - first:
+      213: 5606433741919463301
+    second: Mage Jump Animation Sprite Sheet_2
+  - first:
+      213: 2075341275004486459
+    second: Mage Jump Animation Sprite Sheet_3
+  - first:
+      213: 4186929765657916522
+    second: Mage Jump Animation Sprite Sheet_4
+  - first:
+      213: -1737304421264734735
+    second: Mage Jump Animation Sprite Sheet_5
+  - first:
+      213: 1621952145343471176
+    second: Mage Jump Animation Sprite Sheet_6
+  - first:
+      213: 6063565859916199355
+    second: Mage Jump Animation Sprite Sheet_7
+  - first:
+      213: 3021342039427649898
+    second: Mage Jump Animation Sprite Sheet_8
+  - first:
+      213: 9120917362497983383
+    second: Mage Jump Animation Sprite Sheet_9
+  - first:
+      213: -3029086002764141333
+    second: Mage Jump Animation Sprite Sheet_10
+  - first:
+      213: -1846690627511232085
+    second: Mage Jump Animation Sprite Sheet_11
+  - first:
+      213: -4727157660007613970
+    second: Mage Jump Animation Sprite Sheet_12
+  - first:
+      213: 3325465232568248583
+    second: Mage Jump Animation Sprite Sheet_13
+  - first:
+      213: 6797051975409422446
+    second: Mage Jump Animation Sprite Sheet_14
+  - first:
+      213: -6396744202811216167
+    second: Mage Jump Animation Sprite Sheet_15
+  - first:
+      213: 1933622694537291959
+    second: Mage Jump Animation Sprite Sheet_16
+  - first:
+      213: -7399320386672706019
+    second: Mage Jump Animation Sprite Sheet_17
+  - first:
+      213: 6463679454775850327
+    second: Mage Jump Animation Sprite Sheet_18
+  - first:
+      213: -4913837172355859142
+    second: Mage Jump Animation Sprite Sheet_19
+  - first:
+      213: 3208640482399980601
+    second: Mage Jump Animation Sprite Sheet_20
+  - first:
+      213: 7444483966319115192
+    second: Mage Jump Animation Sprite Sheet_21
+  - first:
+      213: 2539536871012178899
+    second: Mage Jump Animation Sprite Sheet_22
+  - first:
+      213: -8790054809663342338
+    second: Mage Jump Animation Sprite Sheet_23
+  - first:
+      213: -7125083600793782265
+    second: Mage Jump Animation Sprite Sheet_24
+  - first:
+      213: 2955960959904915005
+    second: Mage Jump Animation Sprite Sheet_25
+  - first:
+      213: 7113044145442122926
+    second: Mage Jump Animation Sprite Sheet_26
+  - first:
+      213: -1017158742270939478
+    second: Mage Jump Animation Sprite Sheet_27
+  - first:
+      213: 3521335403348862878
+    second: Mage Jump Animation Sprite Sheet_28
+  - first:
+      213: 2849173897891606907
+    second: Mage Jump Animation Sprite Sheet_29
+  - first:
+      213: 3620575069820568507
+    second: Mage Jump Animation Sprite Sheet_30
+  - first:
+      213: -851565767234913467
+    second: Mage Jump Animation Sprite Sheet_31
+  - first:
+      213: -8393823232214227138
+    second: Mage Jump Animation Sprite Sheet_32
+  - first:
+      213: -1587348576500885980
+    second: Mage Jump Animation Sprite Sheet_33
+  - first:
+      213: -4912286095100629533
+    second: Mage Jump Animation Sprite Sheet_34
+  - first:
+      213: -8500507338830473671
+    second: Mage Jump Animation Sprite Sheet_35
+  - first:
+      213: 2600268450530126015
+    second: Mage Jump Animation Sprite Sheet_36
+  - first:
+      213: -3651744796927879249
+    second: Mage Jump Animation Sprite Sheet_37
+  - first:
+      213: -7748813304725219414
+    second: Mage Jump Animation Sprite Sheet_38
+  - first:
+      213: 5967593279863422227
+    second: Mage Jump Animation Sprite Sheet_39
+  - first:
+      213: -5676005177794415044
+    second: Mage Jump Animation Sprite Sheet_40
+  - first:
+      213: -2582143144431938675
+    second: Mage Jump Animation Sprite Sheet_41
+  - first:
+      213: -7020760827140896211
+    second: Mage Jump Animation Sprite Sheet_42
+  - first:
+      213: -5160874911678928663
+    second: Mage Jump Animation Sprite Sheet_43
+  - first:
+      213: -791912129202296012
+    second: Mage Jump Animation Sprite Sheet_44
+  - first:
+      213: 7886493045862799398
+    second: Mage Jump Animation Sprite Sheet_45
+  - first:
+      213: -8495665394866544651
+    second: Mage Jump Animation Sprite Sheet_46
+  - first:
+      213: -6003154537734226030
+    second: Mage Jump Animation Sprite Sheet_47
+  - first:
+      213: 585161177221525790
+    second: Mage Jump Animation Sprite Sheet_48
+  - first:
+      213: -2692585162441743966
+    second: Mage Jump Animation Sprite Sheet_49
+  - first:
+      213: -7313403898388697536
+    second: Mage Jump Animation Sprite Sheet_50
+  - first:
+      213: -6800031916647650591
+    second: Mage Jump Animation Sprite Sheet_51
+  - first:
+      213: 7124960054694176188
+    second: Mage Jump Animation Sprite Sheet_52
+  - first:
+      213: 8446211661954410962
+    second: Mage Jump Animation Sprite Sheet_53
+  - first:
+      213: 8711334687780323266
+    second: Mage Jump Animation Sprite Sheet_54
+  - first:
+      213: -971759966421500423
+    second: Mage Jump Animation Sprite Sheet_55
+  - first:
+      213: 6110594329866127606
+    second: Mage Jump Animation Sprite Sheet_56
+  - first:
+      213: 8965459206102630987
+    second: Mage Jump Animation Sprite Sheet_57
+  - first:
+      213: -2496625089733965864
+    second: Mage Jump Animation Sprite Sheet_58
+  - first:
+      213: 5178715417957950827
+    second: Mage Jump Animation Sprite Sheet_59
+  - first:
+      213: -6622325345928042845
+    second: Mage Jump Animation Sprite Sheet_60
+  - first:
+      213: 5331624387078580327
+    second: Mage Jump Animation Sprite Sheet_61
+  - first:
+      213: -8200584409779975063
+    second: Mage Jump Animation Sprite Sheet_62
+  - first:
+      213: -2230654582958831767
+    second: Mage Jump Animation Sprite Sheet_63
+  - first:
+      213: 4424188601067486182
+    second: Mage Jump Animation Sprite Sheet_64
+  - first:
+      213: 660195955816520039
+    second: Mage Jump Animation Sprite Sheet_65
+  - first:
+      213: -1288343887232564283
+    second: Mage Jump Animation Sprite Sheet_66
+  - first:
+      213: 8500727121536466783
+    second: Mage Jump Animation Sprite Sheet_67
+  - first:
+      213: -4783440993960111119
+    second: Mage Jump Animation Sprite Sheet_68
+  - first:
+      213: -4619887352244485857
+    second: Mage Jump Animation Sprite Sheet_69
+  - first:
+      213: -7955363373766089080
+    second: Mage Jump Animation Sprite Sheet_70
+  - first:
+      213: -2795392238426014818
+    second: Mage Jump Animation Sprite Sheet_71
+  - first:
+      213: 5918851903363209800
+    second: Mage Jump Animation Sprite Sheet_72
+  - first:
+      213: -7246707532677862212
+    second: Mage Jump Animation Sprite Sheet_73
+  - first:
+      213: -5851591923197275486
+    second: Mage Jump Animation Sprite Sheet_74
+  - first:
+      213: 3729789622468853065
+    second: Mage Jump Animation Sprite Sheet_75
+  - first:
+      213: 6143310348595649026
+    second: Mage Jump Animation Sprite Sheet_76
+  - first:
+      213: 4960868213774943509
+    second: Mage Jump Animation Sprite Sheet_77
+  - first:
+      213: 4138635115629273900
+    second: Mage Jump Animation Sprite Sheet_78
+  - first:
+      213: -216954693503947570
+    second: Mage Jump Animation Sprite Sheet_79
+  - first:
+      213: 2193974868222666402
+    second: Mage Jump Animation Sprite Sheet_80
+  - first:
+      213: 1481386860976125541
+    second: Mage Jump Animation Sprite Sheet_81
+  - first:
+      213: -6763179924761870557
+    second: Mage Jump Animation Sprite Sheet_82
+  - first:
+      213: 1529756744241170930
+    second: Mage Jump Animation Sprite Sheet_83
+  - first:
+      213: 4847783578566903024
+    second: Mage Jump Animation Sprite Sheet_84
+  - first:
+      213: 1282519333806740518
+    second: Mage Jump Animation Sprite Sheet_85
+  - first:
+      213: 2330660062117077420
+    second: Mage Jump Animation Sprite Sheet_86
+  - first:
+      213: 748134731911416
+    second: Mage Jump Animation Sprite Sheet_87
+  - first:
+      213: -7018624454861946588
+    second: Mage Jump Animation Sprite Sheet_88
+  - first:
+      213: 6226790572775697469
+    second: Mage Jump Animation Sprite Sheet_89
+  - first:
+      213: 8233408768607962952
+    second: Mage Jump Animation Sprite Sheet_90
+  - first:
+      213: -4992627716070544412
+    second: Mage Jump Animation Sprite Sheet_91
+  - first:
+      213: -5215659776534103983
+    second: Mage Jump Animation Sprite Sheet_92
+  - first:
+      213: -3285555530715481663
+    second: Mage Jump Animation Sprite Sheet_93
+  - first:
+      213: 7435541401186286700
+    second: Mage Jump Animation Sprite Sheet_94
+  - first:
+      213: -8250261027272903897
+    second: Mage Jump Animation Sprite Sheet_95
+  - first:
+      213: 8827775160324581304
+    second: Mage Jump Animation Sprite Sheet_96
+  - first:
+      213: 3400472558943950062
+    second: Mage Jump Animation Sprite Sheet_97
+  - first:
+      213: 1280859678627419634
+    second: Mage Jump Animation Sprite Sheet_98
+  - first:
+      213: -4338151109762904981
+    second: Mage Jump Animation Sprite Sheet_99
+  - first:
+      213: 8724149160885759767
+    second: Mage Jump Animation Sprite Sheet_100
+  - first:
+      213: 7053911922595763287
+    second: Mage Jump Animation Sprite Sheet_101
+  - first:
+      213: -6340628108444978355
+    second: Mage Jump Animation Sprite Sheet_102
+  - first:
+      213: -7672536804729841850
+    second: Mage Jump Animation Sprite Sheet_103
+  - first:
+      213: 5802394327169022326
+    second: Mage Jump Animation Sprite Sheet_104
+  - first:
+      213: -8799555024384385538
+    second: Mage Jump Animation Sprite Sheet_105
+  - first:
+      213: -4167484786819623366
+    second: Mage Jump Animation Sprite Sheet_106
+  - first:
+      213: -1518409960219900922
+    second: Mage Jump Animation Sprite Sheet_107
+  - first:
+      213: -8455102491802792435
+    second: Mage Jump Animation Sprite Sheet_108
+  - first:
+      213: -3304493498793982034
+    second: Mage Jump Animation Sprite Sheet_109
+  - first:
+      213: 5591484742293828282
+    second: Mage Jump Animation Sprite Sheet_110
+  - first:
+      213: 8410593264186993413
+    second: Mage Jump Animation Sprite Sheet_111
+  - first:
+      213: 1830447081863414801
+    second: Mage Jump Animation Sprite Sheet_112
+  - first:
+      213: -3447045880910755770
+    second: Mage Jump Animation Sprite Sheet_113
+  - first:
+      213: 6603076471367183043
+    second: Mage Jump Animation Sprite Sheet_114
+  - first:
+      213: -8014129412890716433
+    second: Mage Jump Animation Sprite Sheet_115
+  - first:
+      213: 8857356450063704766
+    second: Mage Jump Animation Sprite Sheet_116
+  - first:
+      213: 5241883246832164557
+    second: Mage Jump Animation Sprite Sheet_117
+  - first:
+      213: -7129695240315988402
+    second: Mage Jump Animation Sprite Sheet_118
+  - first:
+      213: 453700662407413476
+    second: Mage Jump Animation Sprite Sheet_119
+  - first:
+      213: -5378416836036515939
+    second: Mage Jump Animation Sprite Sheet_120
+  - first:
+      213: 1939238278945769875
+    second: Mage Jump Animation Sprite Sheet_121
+  - first:
+      213: 5490677377625903243
+    second: Mage Jump Animation Sprite Sheet_122
+  - first:
+      213: -5175766168771883994
+    second: Mage Jump Animation Sprite Sheet_123
+  - first:
+      213: 3013741257275729879
+    second: Mage Jump Animation Sprite Sheet_124
+  - first:
+      213: 646047135864784795
+    second: Mage Jump Animation Sprite Sheet_125
+  - first:
+      213: 4019462547391877299
+    second: Mage Jump Animation Sprite Sheet_126
+  - first:
+      213: 2020669953738011126
+    second: Mage Jump Animation Sprite Sheet_127
+  - first:
+      213: 5151513149930706562
+    second: Mage Jump Animation Sprite Sheet_128
+  - first:
+      213: -1642632573428130974
+    second: Mage Jump Animation Sprite Sheet_129
+  - first:
+      213: 2296489103053810236
+    second: Mage Jump Animation Sprite Sheet_130
+  - first:
+      213: -3837887412690745649
+    second: Mage Jump Animation Sprite Sheet_131
+  - first:
+      213: 1124735719806250002
+    second: Mage Jump Animation Sprite Sheet_132
+  - first:
+      213: 7957855868591251334
+    second: Mage Jump Animation Sprite Sheet_133
+  - first:
+      213: -7547129400671309972
+    second: Mage Jump Animation Sprite Sheet_134
+  - first:
+      213: 3842149522769769656
+    second: Mage Jump Animation Sprite Sheet_135
+  - first:
+      213: 3182499216609069075
+    second: Mage Jump Animation Sprite Sheet_136
+  - first:
+      213: 3053439842213166020
+    second: Mage Jump Animation Sprite Sheet_137
+  - first:
+      213: -546414401175889567
+    second: Mage Jump Animation Sprite Sheet_138
+  - first:
+      213: 8520166887397725998
+    second: Mage Jump Animation Sprite Sheet_139
+  - first:
+      213: -5188161217537263109
+    second: Mage Jump Animation Sprite Sheet_140
+  - first:
+      213: 6524886046255861675
+    second: Mage Jump Animation Sprite Sheet_141
+  - first:
+      213: -2159840706204929799
+    second: Mage Jump Animation Sprite Sheet_142
+  - first:
+      213: 7754445855208592404
+    second: Mage Jump Animation Sprite Sheet_143
+  - first:
+      213: -6090882973815916761
+    second: Mage Jump Animation Sprite Sheet_144
+  - first:
+      213: 3818274337650757645
+    second: Mage Jump Animation Sprite Sheet_145
+  - first:
+      213: 1429197075525960253
+    second: Mage Jump Animation Sprite Sheet_146
+  - first:
+      213: -5908344148640986612
+    second: Mage Jump Animation Sprite Sheet_147
+  - first:
+      213: 447850352863841455
+    second: Mage Jump Animation Sprite Sheet_148
+  - first:
+      213: -7562997062729502215
+    second: Mage Jump Animation Sprite Sheet_149
+  - first:
+      213: -2251576519468959210
+    second: Mage Jump Animation Sprite Sheet_150
+  - first:
+      213: 7726420061595396144
+    second: Mage Jump Animation Sprite Sheet_151
+  - first:
+      213: -276735122136081928
+    second: Mage Jump Animation Sprite Sheet_152
+  - first:
+      213: 2296238896479325220
+    second: Mage Jump Animation Sprite Sheet_153
+  - first:
+      213: -5368823719298964933
+    second: Mage Jump Animation Sprite Sheet_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6170ee15993f7afb0800000000000000
+      internalID: -4636469451524536554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5009c911b8d2fa040800000000000000
+      internalID: 4660994214670929925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587afdbb8cd0ecd40800000000000000
+      internalID: 5606433741919463301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33495cd4e71dcc10800000000000000
+      internalID: 2075341275004486459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64bc854076fa1a30800000000000000
+      internalID: 4186929765657916522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5cccf55dad3e7e0800000000000000
+      internalID: -1737304421264734735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e51e9f1e4528610800000000000000
+      internalID: 1621952145343471176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Jump Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5bd70060d162450800000000000000
+      internalID: 6063565859916199355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7b27a5979ac0128488ad97514b9510cd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage Jump Animation Sprite Sheet_0: -4636469451524536554
+      Mage Jump Animation Sprite Sheet_1: 4660994214670929925
+      Mage Jump Animation Sprite Sheet_2: 5606433741919463301
+      Mage Jump Animation Sprite Sheet_3: 2075341275004486459
+      Mage Jump Animation Sprite Sheet_4: 4186929765657916522
+      Mage Jump Animation Sprite Sheet_5: -1737304421264734735
+      Mage Jump Animation Sprite Sheet_6: 1621952145343471176
+      Mage Jump Animation Sprite Sheet_7: 6063565859916199355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

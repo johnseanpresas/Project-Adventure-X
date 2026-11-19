@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: 5a4269bbcaa091647bbf9aef34dad6b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7447676588369165039
+    second: Knight Dodge-Roll Animation Sprite Sheet_0
+  - first:
+      213: -6965956317214327692
+    second: Knight Dodge-Roll Animation Sprite Sheet_1
+  - first:
+      213: -868861733564871113
+    second: Knight Dodge-Roll Animation Sprite Sheet_2
+  - first:
+      213: -6142987758543508027
+    second: Knight Dodge-Roll Animation Sprite Sheet_3
+  - first:
+      213: 5524905583281972056
+    second: Knight Dodge-Roll Animation Sprite Sheet_4
+  - first:
+      213: 5412392002163272568
+    second: Knight Dodge-Roll Animation Sprite Sheet_5
+  - first:
+      213: 5718508359031117576
+    second: Knight Dodge-Roll Animation Sprite Sheet_6
+  - first:
+      213: -2916061013187661643
+    second: Knight Dodge-Roll Animation Sprite Sheet_7
+  - first:
+      213: -8261418022885909625
+    second: Knight Dodge-Roll Animation Sprite Sheet_8
+  - first:
+      213: -781451480602516877
+    second: Knight Dodge-Roll Animation Sprite Sheet_9
+  - first:
+      213: 375716679354444211
+    second: Knight Dodge-Roll Animation Sprite Sheet_10
+  - first:
+      213: 8738231503655373548
+    second: Knight Dodge-Roll Animation Sprite Sheet_11
+  - first:
+      213: -5105551697047628678
+    second: Knight Dodge-Roll Animation Sprite Sheet_12
+  - first:
+      213: 1165520196738355902
+    second: Knight Dodge-Roll Animation Sprite Sheet_13
+  - first:
+      213: 6214618611410246337
+    second: Knight Dodge-Roll Animation Sprite Sheet_14
+  - first:
+      213: 4573084453095507723
+    second: Knight Dodge-Roll Animation Sprite Sheet_15
+  - first:
+      213: -7502102941372231410
+    second: Knight Dodge-Roll Animation Sprite Sheet_16
+  - first:
+      213: 5862272732953338227
+    second: Knight Dodge-Roll Animation Sprite Sheet_17
+  - first:
+      213: 8696611701140676408
+    second: Knight Dodge-Roll Animation Sprite Sheet_18
+  - first:
+      213: -4050162751665307142
+    second: Knight Dodge-Roll Animation Sprite Sheet_19
+  - first:
+      213: 7537486881739231506
+    second: Knight Dodge-Roll Animation Sprite Sheet_20
+  - first:
+      213: 3588687445677613166
+    second: Knight Dodge-Roll Animation Sprite Sheet_21
+  - first:
+      213: 5601232180331044731
+    second: Knight Dodge-Roll Animation Sprite Sheet_22
+  - first:
+      213: 2854694725692687657
+    second: Knight Dodge-Roll Animation Sprite Sheet_23
+  - first:
+      213: 209657960151771403
+    second: Knight Dodge-Roll Animation Sprite Sheet_24
+  - first:
+      213: 430880291843460385
+    second: Knight Dodge-Roll Animation Sprite Sheet_25
+  - first:
+      213: 6987281107667797137
+    second: Knight Dodge-Roll Animation Sprite Sheet_26
+  - first:
+      213: -1458295796940320395
+    second: Knight Dodge-Roll Animation Sprite Sheet_27
+  - first:
+      213: -5825382031687032362
+    second: Knight Dodge-Roll Animation Sprite Sheet_28
+  - first:
+      213: -6689584679828087779
+    second: Knight Dodge-Roll Animation Sprite Sheet_29
+  - first:
+      213: 5852090726256609307
+    second: Knight Dodge-Roll Animation Sprite Sheet_30
+  - first:
+      213: -5975550960157391006
+    second: Knight Dodge-Roll Animation Sprite Sheet_31
+  - first:
+      213: 3697300954377539628
+    second: Knight Dodge-Roll Animation Sprite Sheet_32
+  - first:
+      213: -5284902473130276259
+    second: Knight Dodge-Roll Animation Sprite Sheet_33
+  - first:
+      213: 3405944338486145924
+    second: Knight Dodge-Roll Animation Sprite Sheet_34
+  - first:
+      213: -4931815881685801346
+    second: Knight Dodge-Roll Animation Sprite Sheet_35
+  - first:
+      213: -7053203677625870794
+    second: Knight Dodge-Roll Animation Sprite Sheet_36
+  - first:
+      213: 6818518054470942598
+    second: Knight Dodge-Roll Animation Sprite Sheet_37
+  - first:
+      213: 3069141999370517186
+    second: Knight Dodge-Roll Animation Sprite Sheet_38
+  - first:
+      213: -8631741979305981904
+    second: Knight Dodge-Roll Animation Sprite Sheet_39
+  - first:
+      213: 6334734782747864361
+    second: Knight Dodge-Roll Animation Sprite Sheet_40
+  - first:
+      213: 323120903221056124
+    second: Knight Dodge-Roll Animation Sprite Sheet_41
+  - first:
+      213: 9125145933311005225
+    second: Knight Dodge-Roll Animation Sprite Sheet_42
+  - first:
+      213: -2282917860069150848
+    second: Knight Dodge-Roll Animation Sprite Sheet_43
+  - first:
+      213: -6816711305954172059
+    second: Knight Dodge-Roll Animation Sprite Sheet_44
+  - first:
+      213: 1978906877801266956
+    second: Knight Dodge-Roll Animation Sprite Sheet_45
+  - first:
+      213: 9022907606899414014
+    second: Knight Dodge-Roll Animation Sprite Sheet_46
+  - first:
+      213: -1595455020143799190
+    second: Knight Dodge-Roll Animation Sprite Sheet_47
+  - first:
+      213: 7981329887027760845
+    second: Knight Dodge-Roll Animation Sprite Sheet_48
+  - first:
+      213: 4316708327246188763
+    second: Knight Dodge-Roll Animation Sprite Sheet_49
+  - first:
+      213: 2049711119015989953
+    second: Knight Dodge-Roll Animation Sprite Sheet_50
+  - first:
+      213: 7035941470804944078
+    second: Knight Dodge-Roll Animation Sprite Sheet_51
+  - first:
+      213: -8681978632722965030
+    second: Knight Dodge-Roll Animation Sprite Sheet_52
+  - first:
+      213: -3080197442999272453
+    second: Knight Dodge-Roll Animation Sprite Sheet_53
+  - first:
+      213: 5440974909613063136
+    second: Knight Dodge-Roll Animation Sprite Sheet_54
+  - first:
+      213: -3529223439180546906
+    second: Knight Dodge-Roll Animation Sprite Sheet_55
+  - first:
+      213: 1804006478632024245
+    second: Knight Dodge-Roll Animation Sprite Sheet_56
+  - first:
+      213: 3113194332742306842
+    second: Knight Dodge-Roll Animation Sprite Sheet_57
+  - first:
+      213: -6437905089149988235
+    second: Knight Dodge-Roll Animation Sprite Sheet_58
+  - first:
+      213: 5140043370365062646
+    second: Knight Dodge-Roll Animation Sprite Sheet_59
+  - first:
+      213: 2298718817911371485
+    second: Knight Dodge-Roll Animation Sprite Sheet_60
+  - first:
+      213: -3726798686538922951
+    second: Knight Dodge-Roll Animation Sprite Sheet_61
+  - first:
+      213: -8562799449377545267
+    second: Knight Dodge-Roll Animation Sprite Sheet_62
+  - first:
+      213: 8557249795744212327
+    second: Knight Dodge-Roll Animation Sprite Sheet_63
+  - first:
+      213: 3492059752218041926
+    second: Knight Dodge-Roll Animation Sprite Sheet_64
+  - first:
+      213: 2605234707992401020
+    second: Knight Dodge-Roll Animation Sprite Sheet_65
+  - first:
+      213: 869846494234307414
+    second: Knight Dodge-Roll Animation Sprite Sheet_66
+  - first:
+      213: 7200935579828870890
+    second: Knight Dodge-Roll Animation Sprite Sheet_67
+  - first:
+      213: 589153157044029722
+    second: Knight Dodge-Roll Animation Sprite Sheet_68
+  - first:
+      213: -67761815025574718
+    second: Knight Dodge-Roll Animation Sprite Sheet_69
+  - first:
+      213: -2440273996065982696
+    second: Knight Dodge-Roll Animation Sprite Sheet_70
+  - first:
+      213: -5843511298790314370
+    second: Knight Dodge-Roll Animation Sprite Sheet_71
+  - first:
+      213: 6410927002749799123
+    second: Knight Dodge-Roll Animation Sprite Sheet_72
+  - first:
+      213: -1252247424987761506
+    second: Knight Dodge-Roll Animation Sprite Sheet_73
+  - first:
+      213: -5045081409985134434
+    second: Knight Dodge-Roll Animation Sprite Sheet_74
+  - first:
+      213: 3319234973536793519
+    second: Knight Dodge-Roll Animation Sprite Sheet_75
+  - first:
+      213: 5817832663814231228
+    second: Knight Dodge-Roll Animation Sprite Sheet_76
+  - first:
+      213: 411818581425045899
+    second: Knight Dodge-Roll Animation Sprite Sheet_77
+  - first:
+      213: 8113045806816192596
+    second: Knight Dodge-Roll Animation Sprite Sheet_78
+  - first:
+      213: -5958398735694799490
+    second: Knight Dodge-Roll Animation Sprite Sheet_79
+  - first:
+      213: 4418563004564993158
+    second: Knight Dodge-Roll Animation Sprite Sheet_80
+  - first:
+      213: -42812977081715515
+    second: Knight Dodge-Roll Animation Sprite Sheet_81
+  - first:
+      213: 6836403686400495614
+    second: Knight Dodge-Roll Animation Sprite Sheet_82
+  - first:
+      213: -1192475579061953750
+    second: Knight Dodge-Roll Animation Sprite Sheet_83
+  - first:
+      213: -298283366082596546
+    second: Knight Dodge-Roll Animation Sprite Sheet_84
+  - first:
+      213: -2995531996785005412
+    second: Knight Dodge-Roll Animation Sprite Sheet_85
+  - first:
+      213: -6111207741531529615
+    second: Knight Dodge-Roll Animation Sprite Sheet_86
+  - first:
+      213: -7840699569082152116
+    second: Knight Dodge-Roll Animation Sprite Sheet_87
+  - first:
+      213: 1263172811644357982
+    second: Knight Dodge-Roll Animation Sprite Sheet_88
+  - first:
+      213: 3627396842985349675
+    second: Knight Dodge-Roll Animation Sprite Sheet_89
+  - first:
+      213: 8029283447532755923
+    second: Knight Dodge-Roll Animation Sprite Sheet_90
+  - first:
+      213: 1391769977235914693
+    second: Knight Dodge-Roll Animation Sprite Sheet_91
+  - first:
+      213: -453218006917833647
+    second: Knight Dodge-Roll Animation Sprite Sheet_92
+  - first:
+      213: -3261998731165328393
+    second: Knight Dodge-Roll Animation Sprite Sheet_93
+  - first:
+      213: -4926725287152724339
+    second: Knight Dodge-Roll Animation Sprite Sheet_94
+  - first:
+      213: -2402017020859621276
+    second: Knight Dodge-Roll Animation Sprite Sheet_95
+  - first:
+      213: -616633773652240715
+    second: Knight Dodge-Roll Animation Sprite Sheet_96
+  - first:
+      213: -3043488362169283160
+    second: Knight Dodge-Roll Animation Sprite Sheet_97
+  - first:
+      213: 1143612024897250669
+    second: Knight Dodge-Roll Animation Sprite Sheet_98
+  - first:
+      213: -3759719775179386559
+    second: Knight Dodge-Roll Animation Sprite Sheet_99
+  - first:
+      213: -2048028899181041515
+    second: Knight Dodge-Roll Animation Sprite Sheet_100
+  - first:
+      213: -4868216067818439196
+    second: Knight Dodge-Roll Animation Sprite Sheet_101
+  - first:
+      213: 1049294418615595993
+    second: Knight Dodge-Roll Animation Sprite Sheet_102
+  - first:
+      213: -4611453874906790364
+    second: Knight Dodge-Roll Animation Sprite Sheet_103
+  - first:
+      213: 705731373489252110
+    second: Knight Dodge-Roll Animation Sprite Sheet_104
+  - first:
+      213: -7626778609821182065
+    second: Knight Dodge-Roll Animation Sprite Sheet_105
+  - first:
+      213: 1176791991867827164
+    second: Knight Dodge-Roll Animation Sprite Sheet_106
+  - first:
+      213: -3836439038012064521
+    second: Knight Dodge-Roll Animation Sprite Sheet_107
+  - first:
+      213: -8486944805560500319
+    second: Knight Dodge-Roll Animation Sprite Sheet_108
+  - first:
+      213: -7535941147260556289
+    second: Knight Dodge-Roll Animation Sprite Sheet_109
+  - first:
+      213: 3654459192658604521
+    second: Knight Dodge-Roll Animation Sprite Sheet_110
+  - first:
+      213: -6879387896103160785
+    second: Knight Dodge-Roll Animation Sprite Sheet_111
+  - first:
+      213: -3014946044631666294
+    second: Knight Dodge-Roll Animation Sprite Sheet_112
+  - first:
+      213: 5267445360709712534
+    second: Knight Dodge-Roll Animation Sprite Sheet_113
+  - first:
+      213: -6360135900631093888
+    second: Knight Dodge-Roll Animation Sprite Sheet_114
+  - first:
+      213: 3711551114710441433
+    second: Knight Dodge-Roll Animation Sprite Sheet_115
+  - first:
+      213: -6165732416171842511
+    second: Knight Dodge-Roll Animation Sprite Sheet_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11543443a9984a890800000000000000
+      internalID: -7447676588369165039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c3d8ff2a3f35f90800000000000000
+      internalID: -6965956317214327692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8fe35bde21f3f0800000000000000
+      internalID: -868861733564871113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cde0783e29bfbaa0800000000000000
+      internalID: -6142987758543508027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85328151b586cac40800000000000000
+      internalID: 5524905583281972056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b6b1299ddac1b40800000000000000
+      internalID: 5412392002163272568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d629fd093c5f40800000000000000
+      internalID: 5718508359031117576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight Dodge-Roll Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0759d55f11887d0800000000000000
+      internalID: -2916061013187661643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c61b85f7cad05c448976b57fe048f5ec
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Knight Dodge-Roll Animation Sprite Sheet_0: -7447676588369165039
+      Knight Dodge-Roll Animation Sprite Sheet_1: -6965956317214327692
+      Knight Dodge-Roll Animation Sprite Sheet_2: -868861733564871113
+      Knight Dodge-Roll Animation Sprite Sheet_3: -6142987758543508027
+      Knight Dodge-Roll Animation Sprite Sheet_4: 5524905583281972056
+      Knight Dodge-Roll Animation Sprite Sheet_5: 5412392002163272568
+      Knight Dodge-Roll Animation Sprite Sheet_6: 5718508359031117576
+      Knight Dodge-Roll Animation Sprite Sheet_7: -2916061013187661643
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+filename,name,width_px,height_px,pixels_per_unit_recommended,pivot_recommended,alpha
+01_Chest_Common_Closed.png,Chest Common Closed,255,200,100,Bottom Center,RGBA transparent
+02_Chest_Common_Open.png,Chest Common Open,234,222,100,Bottom Center,RGBA transparent
+03_Chest_Stone_Reliquary.png,Chest Stone Reliquary,235,193,100,Bottom Center,RGBA transparent
+04_Chest_Ornate_Rare.png,Chest Ornate Rare,252,203,100,Bottom Center,RGBA transparent
+05_Chest_Cursed_Purple.png,Chest Cursed Purple,245,247,100,Bottom Center,RGBA transparent
+06_Stone_Sarcophagus_Sealed.png,Stone Sarcophagus Sealed,324,214,100,Bottom Center,RGBA transparent
+07_Barrel_Intact.png,Barrel Intact,175,213,100,Bottom Center,RGBA transparent
+08_Barrel_Broken.png,Barrel Broken,180,193,100,Bottom Center,RGBA transparent
+09_Wooden_Crates_Stack.png,Wooden Crates Stack,226,223,100,Bottom Center,RGBA transparent
+10_Cloth_Covered_Crate.png,Cloth Covered Crate,190,184,100,Bottom Center,RGBA transparent
+11_Supply_Sacks.png,Supply Sacks,186,205,100,Bottom Center,RGBA transparent
+12_Coin_Sack_Open.png,Coin Sack Open,175,170,100,Bottom Center,RGBA transparent
+13_Crystal_Sack.png,Crystal Sack,185,190,100,Bottom Center,RGBA transparent
+14_Weapon_Rack.png,Weapon Rack,250,248,100,Bottom Center,RGBA transparent
+15_Pottery_Urn_Intact.png,Pottery Urn Intact,146,183,100,Bottom Center,RGBA transparent
+16_Pottery_Urn_Cracked.png,Pottery Urn Cracked,148,174,100,Bottom Center,RGBA transparent
+17_Pottery_Urn_Shattered.png,Pottery Urn Shattered,200,148,100,Bottom Center,RGBA transparent
+18_Pottery_Amphora.png,Pottery Amphora,156,184,100,Bottom Center,RGBA transparent
+19_Potion_Red.png,Potion Red,111,143,100,Bottom Center,RGBA transparent
+20_Potion_Blue.png,Potion Blue,96,152,100,Bottom Center,RGBA transparent
+21_Potion_Green.png,Potion Green,96,131,100,Bottom Center,RGBA transparent
+22_Relic_Pouch.png,Relic Pouch,162,157,100,Bottom Center,RGBA transparent
+23_Scroll_Sealed.png,Scroll Sealed,175,133,100,Bottom Center,RGBA transparent
+24_Ancient_Spellbook.png,Ancient Spellbook,214,175,100,Bottom Center,RGBA transparent
+25_Key_Gold.png,Key Gold,112,175,100,Bottom Center,RGBA transparent
+26_Key_Silver.png,Key Silver,96,173,100,Bottom Center,RGBA transparent
+27_Keys_Iron_Set.png,Keys Iron Set,158,180,100,Bottom Center,RGBA transparent
+28_Crypt_Insignia.png,Crypt Insignia,123,190,100,Bottom Center,RGBA transparent
+29_Crystal_Blue_Cluster.png,Crystal Blue Cluster,146,184,100,Bottom Center,RGBA transparent
+30_Crystal_Violet_Cluster.png,Crystal Violet Cluster,129,184,100,Bottom Center,RGBA transparent
+31_Crystal_Green_Cluster.png,Crystal Green Cluster,126,178,100,Bottom Center,RGBA transparent
+32_Lantern_Amber.png,Lantern Amber,132,181,100,Bottom Center,RGBA transparent
+33_Lantern_Soulflame_Blue.png,Lantern Soulflame Blue,130,191,100,Bottom Center,RGBA transparent
+34_Hourglass.png,Hourglass,130,178,100,Bottom Center,RGBA transparent
+35_Runestone_Broken.png,Runestone Broken,184,191,100,Bottom Center,RGBA transparent
+36_Coins_Gold_Pile.png,Coins Gold Pile,186,124,100,Bottom Center,RGBA transparent
+37_Gold_Bars.png,Gold Bars,188,127,100,Bottom Center,RGBA transparent
+38_Gem_Red.png,Gem Red,126,123,100,Bottom Center,RGBA transparent
+39_Gems_Blue.png,Gems Blue,131,113,100,Bottom Center,RGBA transparent
+40_Gems_Green.png,Gems Green,138,113,100,Bottom Center,RGBA transparent
+41_Skull_And_Bones.png,Skull And Bones,179,131,100,Bottom Center,RGBA transparent
+42_Loose_Bones.png,Loose Bones,161,121,100,Bottom Center,RGBA transparent
+43_Ribcage_Remains.png,Ribcage Remains,229,121,100,Bottom Center,RGBA transparent
+44_Scrolls_Bundled.png,Scrolls Bundled,211,144,100,Bottom Center,RGBA transparent

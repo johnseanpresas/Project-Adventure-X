@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 02469997fc9a8a4498a21f73db303669
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8904194823295467509
+    second: Ranger Jump Animation Sheet_0
+  - first:
+      213: 5183699178262646323
+    second: Ranger Jump Animation Sheet_1
+  - first:
+      213: -5561995071839141569
+    second: Ranger Jump Animation Sheet_2
+  - first:
+      213: -1216030661978432642
+    second: Ranger Jump Animation Sheet_3
+  - first:
+      213: 6114186230640261168
+    second: Ranger Jump Animation Sheet_4
+  - first:
+      213: 1144715340183336821
+    second: Ranger Jump Animation Sheet_5
+  - first:
+      213: 1239611987014365590
+    second: Ranger Jump Animation Sheet_6
+  - first:
+      213: 625251578940954903
+    second: Ranger Jump Animation Sheet_7
+  - first:
+      213: 803630232102199572
+    second: Ranger Jump Animation Sheet_8
+  - first:
+      213: -1210378692238955595
+    second: Ranger Jump Animation Sheet_9
+  - first:
+      213: 2879123482575000701
+    second: Ranger Jump Animation Sheet_10
+  - first:
+      213: 43845532291388683
+    second: Ranger Jump Animation Sheet_11
+  - first:
+      213: -4915596052301988132
+    second: Ranger Jump Animation Sheet_12
+  - first:
+      213: -5117999476692069893
+    second: Ranger Jump Animation Sheet_13
+  - first:
+      213: 8966800599990965505
+    second: Ranger Jump Animation Sheet_14
+  - first:
+      213: 7743745674072270866
+    second: Ranger Jump Animation Sheet_15
+  - first:
+      213: 1380730620517894107
+    second: Ranger Jump Animation Sheet_16
+  - first:
+      213: -9051542933232581187
+    second: Ranger Jump Animation Sheet_17
+  - first:
+      213: 9155132901525006003
+    second: Ranger Jump Animation Sheet_18
+  - first:
+      213: -445292145975776085
+    second: Ranger Jump Animation Sheet_19
+  - first:
+      213: 4893693116494024574
+    second: Ranger Jump Animation Sheet_20
+  - first:
+      213: 4990574586091594634
+    second: Ranger Jump Animation Sheet_21
+  - first:
+      213: -7790356348622379420
+    second: Ranger Jump Animation Sheet_22
+  - first:
+      213: 3354330415384050767
+    second: Ranger Jump Animation Sheet_23
+  - first:
+      213: 6684317448278138063
+    second: Ranger Jump Animation Sheet_24
+  - first:
+      213: 7377937035424992078
+    second: Ranger Jump Animation Sheet_25
+  - first:
+      213: 1242246018159270462
+    second: Ranger Jump Animation Sheet_26
+  - first:
+      213: -3990238350319178282
+    second: Ranger Jump Animation Sheet_27
+  - first:
+      213: 1963612301936784740
+    second: Ranger Jump Animation Sheet_28
+  - first:
+      213: 1184769300513482672
+    second: Ranger Jump Animation Sheet_29
+  - first:
+      213: -3848505996561037756
+    second: Ranger Jump Animation Sheet_30
+  - first:
+      213: 6264566282267959946
+    second: Ranger Jump Animation Sheet_31
+  - first:
+      213: 1278235593297811267
+    second: Ranger Jump Animation Sheet_32
+  - first:
+      213: -6783081419781661188
+    second: Ranger Jump Animation Sheet_33
+  - first:
+      213: -3162666176079285393
+    second: Ranger Jump Animation Sheet_34
+  - first:
+      213: 1607519637188126240
+    second: Ranger Jump Animation Sheet_35
+  - first:
+      213: -1963482585265434707
+    second: Ranger Jump Animation Sheet_36
+  - first:
+      213: 4447811253084606128
+    second: Ranger Jump Animation Sheet_37
+  - first:
+      213: -439944408359942241
+    second: Ranger Jump Animation Sheet_38
+  - first:
+      213: -7478419467011932210
+    second: Ranger Jump Animation Sheet_39
+  - first:
+      213: 7762541223546726447
+    second: Ranger Jump Animation Sheet_40
+  - first:
+      213: 8001464030436788514
+    second: Ranger Jump Animation Sheet_41
+  - first:
+      213: 8494582194810922614
+    second: Ranger Jump Animation Sheet_42
+  - first:
+      213: -2041771638276764233
+    second: Ranger Jump Animation Sheet_43
+  - first:
+      213: 3789985694325063021
+    second: Ranger Jump Animation Sheet_44
+  - first:
+      213: -6554420189132719131
+    second: Ranger Jump Animation Sheet_45
+  - first:
+      213: 2711034694100677142
+    second: Ranger Jump Animation Sheet_46
+  - first:
+      213: -3931075429779137999
+    second: Ranger Jump Animation Sheet_47
+  - first:
+      213: -7772969055222436037
+    second: Ranger Jump Animation Sheet_48
+  - first:
+      213: -794541727213746356
+    second: Ranger Jump Animation Sheet_49
+  - first:
+      213: 906915262045646901
+    second: Ranger Jump Animation Sheet_50
+  - first:
+      213: 1290460417752466807
+    second: Ranger Jump Animation Sheet_51
+  - first:
+      213: 5580988964234558052
+    second: Ranger Jump Animation Sheet_52
+  - first:
+      213: 788533404788029892
+    second: Ranger Jump Animation Sheet_53
+  - first:
+      213: -1266034111491651106
+    second: Ranger Jump Animation Sheet_54
+  - first:
+      213: 2955645872857208613
+    second: Ranger Jump Animation Sheet_55
+  - first:
+      213: -4490087282130343887
+    second: Ranger Jump Animation Sheet_56
+  - first:
+      213: 1454592466594269139
+    second: Ranger Jump Animation Sheet_57
+  - first:
+      213: 875825410635060719
+    second: Ranger Jump Animation Sheet_58
+  - first:
+      213: 2130457139276016706
+    second: Ranger Jump Animation Sheet_59
+  - first:
+      213: -6021316251916671732
+    second: Ranger Jump Animation Sheet_60
+  - first:
+      213: 5614929415002840526
+    second: Ranger Jump Animation Sheet_61
+  - first:
+      213: 2105483758748159417
+    second: Ranger Jump Animation Sheet_62
+  - first:
+      213: 7218748728024515197
+    second: Ranger Jump Animation Sheet_63
+  - first:
+      213: -1876508575061304070
+    second: Ranger Jump Animation Sheet_64
+  - first:
+      213: -2901423471338588271
+    second: Ranger Jump Animation Sheet_65
+  - first:
+      213: 5172150755602874356
+    second: Ranger Jump Animation Sheet_66
+  - first:
+      213: 3091765579351800094
+    second: Ranger Jump Animation Sheet_67
+  - first:
+      213: -1332775387241839472
+    second: Ranger Jump Animation Sheet_68
+  - first:
+      213: 2972835816364961972
+    second: Ranger Jump Animation Sheet_69
+  - first:
+      213: -94937653321611957
+    second: Ranger Jump Animation Sheet_70
+  - first:
+      213: -7424526772247386175
+    second: Ranger Jump Animation Sheet_71
+  - first:
+      213: 6854905612650205878
+    second: Ranger Jump Animation Sheet_72
+  - first:
+      213: 3936039845543246731
+    second: Ranger Jump Animation Sheet_73
+  - first:
+      213: 4850286649311820560
+    second: Ranger Jump Animation Sheet_74
+  - first:
+      213: -2932905864788549881
+    second: Ranger Jump Animation Sheet_75
+  - first:
+      213: -7368030488523418325
+    second: Ranger Jump Animation Sheet_76
+  - first:
+      213: -493618078861173298
+    second: Ranger Jump Animation Sheet_77
+  - first:
+      213: -5418715771012014033
+    second: Ranger Jump Animation Sheet_78
+  - first:
+      213: -7430052239053379861
+    second: Ranger Jump Animation Sheet_79
+  - first:
+      213: 4647193053504134748
+    second: Ranger Jump Animation Sheet_80
+  - first:
+      213: -8615433322029021584
+    second: Ranger Jump Animation Sheet_81
+  - first:
+      213: 7624658854318860501
+    second: Ranger Jump Animation Sheet_82
+  - first:
+      213: 8704999667097383311
+    second: Ranger Jump Animation Sheet_83
+  - first:
+      213: 7318515189993615972
+    second: Ranger Jump Animation Sheet_84
+  - first:
+      213: -4998726314391965092
+    second: Ranger Jump Animation Sheet_85
+  - first:
+      213: 1507261578354458237
+    second: Ranger Jump Animation Sheet_86
+  - first:
+      213: 6866387878054914299
+    second: Ranger Jump Animation Sheet_87
+  - first:
+      213: -2085823147888844315
+    second: Ranger Jump Animation Sheet_88
+  - first:
+      213: -7365035899090415152
+    second: Ranger Jump Animation Sheet_89
+  - first:
+      213: -7071047734395503111
+    second: Ranger Jump Animation Sheet_90
+  - first:
+      213: 7571150531591679631
+    second: Ranger Jump Animation Sheet_91
+  - first:
+      213: 6681156020277900710
+    second: Ranger Jump Animation Sheet_92
+  - first:
+      213: 1553509531583152584
+    second: Ranger Jump Animation Sheet_93
+  - first:
+      213: 6135325849108596540
+    second: Ranger Jump Animation Sheet_94
+  - first:
+      213: -9136115571167216281
+    second: Ranger Jump Animation Sheet_95
+  - first:
+      213: -1909770328611409710
+    second: Ranger Jump Animation Sheet_96
+  - first:
+      213: -2000816229303857276
+    second: Ranger Jump Animation Sheet_97
+  - first:
+      213: -328672796340521486
+    second: Ranger Jump Animation Sheet_98
+  - first:
+      213: 2219935108425647923
+    second: Ranger Jump Animation Sheet_99
+  - first:
+      213: 8342044666206134026
+    second: Ranger Jump Animation Sheet_100
+  - first:
+      213: -3867926559657169731
+    second: Ranger Jump Animation Sheet_101
+  - first:
+      213: 4682489769117958662
+    second: Ranger Jump Animation Sheet_102
+  - first:
+      213: -6587079891109850819
+    second: Ranger Jump Animation Sheet_103
+  - first:
+      213: -3768867846729379319
+    second: Ranger Jump Animation Sheet_104
+  - first:
+      213: -6798978905770528127
+    second: Ranger Jump Animation Sheet_105
+  - first:
+      213: -4744922741489769166
+    second: Ranger Jump Animation Sheet_106
+  - first:
+      213: 3615245576611108493
+    second: Ranger Jump Animation Sheet_107
+  - first:
+      213: -5286708438882660073
+    second: Ranger Jump Animation Sheet_108
+  - first:
+      213: 5818272010696380889
+    second: Ranger Jump Animation Sheet_109
+  - first:
+      213: -1116997288262380154
+    second: Ranger Jump Animation Sheet_110
+  - first:
+      213: 6506449556386210763
+    second: Ranger Jump Animation Sheet_111
+  - first:
+      213: -3587213456657165833
+    second: Ranger Jump Animation Sheet_112
+  - first:
+      213: 2826623919622281504
+    second: Ranger Jump Animation Sheet_113
+  - first:
+      213: 8291973519311031528
+    second: Ranger Jump Animation Sheet_114
+  - first:
+      213: 2033644384495802410
+    second: Ranger Jump Animation Sheet_115
+  - first:
+      213: -6965647137423589980
+    second: Ranger Jump Animation Sheet_116
+  - first:
+      213: -7180553029645511090
+    second: Ranger Jump Animation Sheet_117
+  - first:
+      213: -5114813775900528994
+    second: Ranger Jump Animation Sheet_118
+  - first:
+      213: 3328259223273137705
+    second: Ranger Jump Animation Sheet_119
+  - first:
+      213: -5412638540273144484
+    second: Ranger Jump Animation Sheet_120
+  - first:
+      213: 6145062025788767187
+    second: Ranger Jump Animation Sheet_121
+  - first:
+      213: -3504434763539859221
+    second: Ranger Jump Animation Sheet_122
+  - first:
+      213: -8973417097265736755
+    second: Ranger Jump Animation Sheet_123
+  - first:
+      213: -731647538910947374
+    second: Ranger Jump Animation Sheet_124
+  - first:
+      213: -8274135172259112539
+    second: Ranger Jump Animation Sheet_125
+  - first:
+      213: 8728808717423437700
+    second: Ranger Jump Animation Sheet_126
+  - first:
+      213: 6431069002758002424
+    second: Ranger Jump Animation Sheet_127
+  - first:
+      213: 5808292615345279462
+    second: Ranger Jump Animation Sheet_128
+  - first:
+      213: -2174823692017351010
+    second: Ranger Jump Animation Sheet_129
+  - first:
+      213: 2115169677867995128
+    second: Ranger Jump Animation Sheet_130
+  - first:
+      213: -7751665173998430123
+    second: Ranger Jump Animation Sheet_131
+  - first:
+      213: -1399388520662016413
+    second: Ranger Jump Animation Sheet_132
+  - first:
+      213: -3457633022612493285
+    second: Ranger Jump Animation Sheet_133
+  - first:
+      213: -8849020960569410995
+    second: Ranger Jump Animation Sheet_134
+  - first:
+      213: -3456224760865401199
+    second: Ranger Jump Animation Sheet_135
+  - first:
+      213: -1340206836273486141
+    second: Ranger Jump Animation Sheet_136
+  - first:
+      213: -570508532443352872
+    second: Ranger Jump Animation Sheet_137
+  - first:
+      213: -4178913250295047183
+    second: Ranger Jump Animation Sheet_138
+  - first:
+      213: -2456955468714303405
+    second: Ranger Jump Animation Sheet_139
+  - first:
+      213: -2244086624379932489
+    second: Ranger Jump Animation Sheet_140
+  - first:
+      213: 2726294469774503647
+    second: Ranger Jump Animation Sheet_141
+  - first:
+      213: 4593836984493994986
+    second: Ranger Jump Animation Sheet_142
+  - first:
+      213: 8538362319429790355
+    second: Ranger Jump Animation Sheet_143
+  - first:
+      213: 8396031259736176437
+    second: Ranger Jump Animation Sheet_144
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fff56de30e029b70800000000000000
+      internalID: 8904194823295467509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e44de20f230f740800000000000000
+      internalID: 5183699178262646323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310e8c63f2dfc2b0800000000000000
+      internalID: -5561995071839141569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdac44e8acf1fe0800000000000000
+      internalID: -1216030661978432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b5ef7bf3f9d450800000000000000
+      internalID: 6114186230640261168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57771947988d2ef00800000000000000
+      internalID: 1144715340183336821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691be41d88cf33110800000000000000
+      internalID: 1239611987014365590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger Jump Animation Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71917029ff65da800800000000000000
+      internalID: 625251578940954903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 33b1f01e3deeebb4ca934cea092fa07c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ranger Jump Animation Sheet_0: 8904194823295467509
+      Ranger Jump Animation Sheet_1: 5183699178262646323
+      Ranger Jump Animation Sheet_2: -5561995071839141569
+      Ranger Jump Animation Sheet_3: -1216030661978432642
+      Ranger Jump Animation Sheet_4: 6114186230640261168
+      Ranger Jump Animation Sheet_5: 1144715340183336821
+      Ranger Jump Animation Sheet_6: 1239611987014365590
+      Ranger Jump Animation Sheet_7: 625251578940954903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

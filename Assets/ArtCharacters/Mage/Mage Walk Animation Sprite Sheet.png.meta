@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: fdb720806b9903d428202687304951b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9165314533359887538
+    second: Mage Walk Animation Sprite Sheet_0
+  - first:
+      213: -3306310781241898704
+    second: Mage Walk Animation Sprite Sheet_1
+  - first:
+      213: 3444520961477891115
+    second: Mage Walk Animation Sprite Sheet_2
+  - first:
+      213: 8236879250156671207
+    second: Mage Walk Animation Sprite Sheet_3
+  - first:
+      213: -7657533922832633659
+    second: Mage Walk Animation Sprite Sheet_4
+  - first:
+      213: -3267790045968904506
+    second: Mage Walk Animation Sprite Sheet_5
+  - first:
+      213: -8770160360295395052
+    second: Mage Walk Animation Sprite Sheet_6
+  - first:
+      213: -2495928296745763869
+    second: Mage Walk Animation Sprite Sheet_7
+  - first:
+      213: -1615514518277891257
+    second: Mage Walk Animation Sprite Sheet_8
+  - first:
+      213: -5479539065225148784
+    second: Mage Walk Animation Sprite Sheet_9
+  - first:
+      213: 9096478051489277176
+    second: Mage Walk Animation Sprite Sheet_10
+  - first:
+      213: 6022815680723633499
+    second: Mage Walk Animation Sprite Sheet_11
+  - first:
+      213: 3515484544597148315
+    second: Mage Walk Animation Sprite Sheet_12
+  - first:
+      213: -4694643536604314263
+    second: Mage Walk Animation Sprite Sheet_13
+  - first:
+      213: 4263698101637375706
+    second: Mage Walk Animation Sprite Sheet_14
+  - first:
+      213: 4382508949397009483
+    second: Mage Walk Animation Sprite Sheet_15
+  - first:
+      213: 1114148491525748988
+    second: Mage Walk Animation Sprite Sheet_16
+  - first:
+      213: 6826208062515206486
+    second: Mage Walk Animation Sprite Sheet_17
+  - first:
+      213: 3876134453364397673
+    second: Mage Walk Animation Sprite Sheet_18
+  - first:
+      213: 8290288454589743756
+    second: Mage Walk Animation Sprite Sheet_19
+  - first:
+      213: -1275478181780815402
+    second: Mage Walk Animation Sprite Sheet_20
+  - first:
+      213: 1681117530872121191
+    second: Mage Walk Animation Sprite Sheet_21
+  - first:
+      213: -2824918662848117175
+    second: Mage Walk Animation Sprite Sheet_22
+  - first:
+      213: -8310188871978450226
+    second: Mage Walk Animation Sprite Sheet_23
+  - first:
+      213: 8086533532277038384
+    second: Mage Walk Animation Sprite Sheet_24
+  - first:
+      213: -2174372630562244681
+    second: Mage Walk Animation Sprite Sheet_25
+  - first:
+      213: 6033542457793677933
+    second: Mage Walk Animation Sprite Sheet_26
+  - first:
+      213: 2488403685759337854
+    second: Mage Walk Animation Sprite Sheet_27
+  - first:
+      213: -3560978132040403585
+    second: Mage Walk Animation Sprite Sheet_28
+  - first:
+      213: 4313932463471882121
+    second: Mage Walk Animation Sprite Sheet_29
+  - first:
+      213: -2047056102471824221
+    second: Mage Walk Animation Sprite Sheet_30
+  - first:
+      213: -3136120998617292285
+    second: Mage Walk Animation Sprite Sheet_31
+  - first:
+      213: -5446599072261926340
+    second: Mage Walk Animation Sprite Sheet_32
+  - first:
+      213: -2755256738027391073
+    second: Mage Walk Animation Sprite Sheet_33
+  - first:
+      213: -101713671508578285
+    second: Mage Walk Animation Sprite Sheet_34
+  - first:
+      213: 8090039831448510462
+    second: Mage Walk Animation Sprite Sheet_35
+  - first:
+      213: 3920266004384679219
+    second: Mage Walk Animation Sprite Sheet_36
+  - first:
+      213: 7468518381112161818
+    second: Mage Walk Animation Sprite Sheet_37
+  - first:
+      213: 6912260576016831582
+    second: Mage Walk Animation Sprite Sheet_38
+  - first:
+      213: -8974051372255871799
+    second: Mage Walk Animation Sprite Sheet_39
+  - first:
+      213: -3615174123591610585
+    second: Mage Walk Animation Sprite Sheet_40
+  - first:
+      213: -8856138547661379599
+    second: Mage Walk Animation Sprite Sheet_41
+  - first:
+      213: -5409953496251329554
+    second: Mage Walk Animation Sprite Sheet_42
+  - first:
+      213: -4627399775012958365
+    second: Mage Walk Animation Sprite Sheet_43
+  - first:
+      213: -7978225781782902251
+    second: Mage Walk Animation Sprite Sheet_44
+  - first:
+      213: 5736994032521859768
+    second: Mage Walk Animation Sprite Sheet_45
+  - first:
+      213: -5722139878234323308
+    second: Mage Walk Animation Sprite Sheet_46
+  - first:
+      213: -3708389167309915199
+    second: Mage Walk Animation Sprite Sheet_47
+  - first:
+      213: 7410188705806992572
+    second: Mage Walk Animation Sprite Sheet_48
+  - first:
+      213: -2467414838834224086
+    second: Mage Walk Animation Sprite Sheet_49
+  - first:
+      213: -8336944418489747549
+    second: Mage Walk Animation Sprite Sheet_50
+  - first:
+      213: 7573318426056645832
+    second: Mage Walk Animation Sprite Sheet_51
+  - first:
+      213: 3615474943732176785
+    second: Mage Walk Animation Sprite Sheet_52
+  - first:
+      213: -8999253923954589529
+    second: Mage Walk Animation Sprite Sheet_53
+  - first:
+      213: -3628293011049130177
+    second: Mage Walk Animation Sprite Sheet_54
+  - first:
+      213: -3191268232832394964
+    second: Mage Walk Animation Sprite Sheet_55
+  - first:
+      213: 8117616162534108422
+    second: Mage Walk Animation Sprite Sheet_56
+  - first:
+      213: 7360693954208037591
+    second: Mage Walk Animation Sprite Sheet_57
+  - first:
+      213: -1180598793531277970
+    second: Mage Walk Animation Sprite Sheet_58
+  - first:
+      213: -2520811634546262505
+    second: Mage Walk Animation Sprite Sheet_59
+  - first:
+      213: -3659547008774777701
+    second: Mage Walk Animation Sprite Sheet_60
+  - first:
+      213: 7813462905317375691
+    second: Mage Walk Animation Sprite Sheet_61
+  - first:
+      213: -343238852616971525
+    second: Mage Walk Animation Sprite Sheet_62
+  - first:
+      213: -5745088558515478864
+    second: Mage Walk Animation Sprite Sheet_63
+  - first:
+      213: 6587035538384526198
+    second: Mage Walk Animation Sprite Sheet_64
+  - first:
+      213: 4089589131964266570
+    second: Mage Walk Animation Sprite Sheet_65
+  - first:
+      213: -7491857298460055967
+    second: Mage Walk Animation Sprite Sheet_66
+  - first:
+      213: -223405844330546882
+    second: Mage Walk Animation Sprite Sheet_67
+  - first:
+      213: -8730645199306017576
+    second: Mage Walk Animation Sprite Sheet_68
+  - first:
+      213: 2249231570771534135
+    second: Mage Walk Animation Sprite Sheet_69
+  - first:
+      213: -4087225462538566979
+    second: Mage Walk Animation Sprite Sheet_70
+  - first:
+      213: 8463473233260154579
+    second: Mage Walk Animation Sprite Sheet_71
+  - first:
+      213: 2637148460806451042
+    second: Mage Walk Animation Sprite Sheet_72
+  - first:
+      213: -3019452568622634723
+    second: Mage Walk Animation Sprite Sheet_73
+  - first:
+      213: -1420389864357083833
+    second: Mage Walk Animation Sprite Sheet_74
+  - first:
+      213: 2115425918337378231
+    second: Mage Walk Animation Sprite Sheet_75
+  - first:
+      213: -5873287362898823818
+    second: Mage Walk Animation Sprite Sheet_76
+  - first:
+      213: -3478500944752405723
+    second: Mage Walk Animation Sprite Sheet_77
+  - first:
+      213: 3005539926930459490
+    second: Mage Walk Animation Sprite Sheet_78
+  - first:
+      213: -6921028526109956443
+    second: Mage Walk Animation Sprite Sheet_79
+  - first:
+      213: -6724060023012000257
+    second: Mage Walk Animation Sprite Sheet_80
+  - first:
+      213: -7484791678359790857
+    second: Mage Walk Animation Sprite Sheet_81
+  - first:
+      213: -5644652070087933819
+    second: Mage Walk Animation Sprite Sheet_82
+  - first:
+      213: 4945061824353429087
+    second: Mage Walk Animation Sprite Sheet_83
+  - first:
+      213: 7874679581983107989
+    second: Mage Walk Animation Sprite Sheet_84
+  - first:
+      213: -5038684347723965368
+    second: Mage Walk Animation Sprite Sheet_85
+  - first:
+      213: 609150703117580995
+    second: Mage Walk Animation Sprite Sheet_86
+  - first:
+      213: -1911718547547869945
+    second: Mage Walk Animation Sprite Sheet_87
+  - first:
+      213: 8407323198599799704
+    second: Mage Walk Animation Sprite Sheet_88
+  - first:
+      213: 5494628271875866301
+    second: Mage Walk Animation Sprite Sheet_89
+  - first:
+      213: -645682285256230090
+    second: Mage Walk Animation Sprite Sheet_90
+  - first:
+      213: 9053226563359589219
+    second: Mage Walk Animation Sprite Sheet_91
+  - first:
+      213: 4534189438190750058
+    second: Mage Walk Animation Sprite Sheet_92
+  - first:
+      213: 4796498337851850546
+    second: Mage Walk Animation Sprite Sheet_93
+  - first:
+      213: -2953305966100701014
+    second: Mage Walk Animation Sprite Sheet_94
+  - first:
+      213: 5999899367201439122
+    second: Mage Walk Animation Sprite Sheet_95
+  - first:
+      213: -4992175896486895648
+    second: Mage Walk Animation Sprite Sheet_96
+  - first:
+      213: -1182458937515253376
+    second: Mage Walk Animation Sprite Sheet_97
+  - first:
+      213: 7650005845021701576
+    second: Mage Walk Animation Sprite Sheet_98
+  - first:
+      213: 1273466806591191121
+    second: Mage Walk Animation Sprite Sheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bdb58edf24ec080800000000000000
+      internalID: -9165314533359887538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039480facdf9d12d0800000000000000
+      internalID: -3306310781241898704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24d64a80956dcf20800000000000000
+      internalID: 3444520961477891115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 444
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0df5389064f4270800000000000000
+      internalID: 8236879250156671207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0be02f779fab590800000000000000
+      internalID: -7657533922832633659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce4775444a76a2d0800000000000000
+      internalID: -3267790045968904506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411916d5e912a4680800000000000000
+      internalID: -8770160360295395052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mage Walk Animation Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1
+        width: 443
+        height: 443
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb7f97207eac5dd0800000000000000
+      internalID: -2495928296745763869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8418b9b925101c34990cfd7ea0e0bab1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":443.0,"y":443.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Mage Walk Animation Sprite Sheet_0: -9165314533359887538
+      Mage Walk Animation Sprite Sheet_1: -3306310781241898704
+      Mage Walk Animation Sprite Sheet_2: 3444520961477891115
+      Mage Walk Animation Sprite Sheet_3: 8236879250156671207
+      Mage Walk Animation Sprite Sheet_4: -7657533922832633659
+      Mage Walk Animation Sprite Sheet_5: -3267790045968904506
+      Mage Walk Animation Sprite Sheet_6: -8770160360295395052
+      Mage Walk Animation Sprite Sheet_7: -2495928296745763869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

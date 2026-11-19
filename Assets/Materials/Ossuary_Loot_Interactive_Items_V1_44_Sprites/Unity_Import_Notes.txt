@@ -1,0 +1,6 @@
+Dungeon Training | The Forgotten Crypt | Stage 2: The Ossuary
+Loot and breakable props V1: 44 individual transparent RGBA PNG sprites.
+Unity: Texture Type=Sprite (2D and UI); Sprite Mode=Single; Mesh Type=Full Rect; suggested Pixels Per Unit=100; pivot=Bottom Center; Filter Mode=Bilinear; Compression=None for crisp details.
+Closed and open common chests have an alternate pair in Chest_Open_Close_Swap_288x256/ for sprite switching with consistent alignment.
+All files retain original generated pixel resolution. Prop scale and collision boxes still require in-engine validation, and gameplay logic is not included.
+The contact sheet is for reference only and contains labels; individual sprites have no text/UI.

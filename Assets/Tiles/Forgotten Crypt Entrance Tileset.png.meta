@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 4c3558520352045449ff4d158ba902f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7363710072709133842
+    second: Forgotten Crypt Entrance Tileset_0
+  - first:
+      213: 2422344822072742072
+    second: Forgotten Crypt Entrance Tileset_1
+  - first:
+      213: 9167227463183031425
+    second: Forgotten Crypt Entrance Tileset_2
+  - first:
+      213: -1288507623352380869
+    second: Forgotten Crypt Entrance Tileset_3
+  - first:
+      213: 8648139267492346197
+    second: Forgotten Crypt Entrance Tileset_4
+  - first:
+      213: -1892449884668656357
+    second: Forgotten Crypt Entrance Tileset_5
+  - first:
+      213: -2657573410659472786
+    second: Forgotten Crypt Entrance Tileset_6
+  - first:
+      213: -6041377558595046290
+    second: Forgotten Crypt Entrance Tileset_7
+  - first:
+      213: -6612176271492841086
+    second: Forgotten Crypt Entrance Tileset_8
+  - first:
+      213: 8056449028759187163
+    second: Forgotten Crypt Entrance Tileset_9
+  - first:
+      213: -4160256992300157468
+    second: Forgotten Crypt Entrance Tileset_10
+  - first:
+      213: 1887425902460576445
+    second: Forgotten Crypt Entrance Tileset_11
+  - first:
+      213: -251913554855876246
+    second: Forgotten Crypt Entrance Tileset_12
+  - first:
+      213: 6797991609738480770
+    second: Forgotten Crypt Entrance Tileset_13
+  - first:
+      213: 2468195699689349272
+    second: Forgotten Crypt Entrance Tileset_14
+  - first:
+      213: 2736973139573094650
+    second: Forgotten Crypt Entrance Tileset_15
+  - first:
+      213: 8690327937627262704
+    second: Forgotten Crypt Entrance Tileset_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 1506
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9c43714b8dec990800000000000000
+      internalID: -7363710072709133842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 1507
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0172318c5ed9120800000000000000
+      internalID: 2422344822072742072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 801
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cda36cec8883f70800000000000000
+      internalID: 9167227463183031425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 255
+        width: 253
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32d2b3b42d4e1ee0800000000000000
+      internalID: -1288507623352380869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 449
+        width: 173
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559fcfe08dc540870800000000000000
+      internalID: 8648139267492346197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 459
+        width: 253
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1588154bdaacb5e0800000000000000
+      internalID: -1892449884668656357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 439
+        width: 471
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6e1d30176e1bd0800000000000000
+      internalID: -2657573410659472786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 251
+        width: 325
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64fce97e17b82ca0800000000000000
+      internalID: -6041377558595046290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 271
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2810761c6b4dc34a0800000000000000
+      internalID: -6612176271492841086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 267
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6b3ee4b14ecf60800000000000000
+      internalID: 8056449028759187163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 271
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e53d97be4cc346c0800000000000000
+      internalID: -4160256992300157468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 271
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a808bbdb713a10800000000000000
+      internalID: 1887425902460576445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 257
+        width: 227
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a5b0e4f5018cf0800000000000000
+      internalID: -251913554855876246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 255
+        width: 359
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4c8c0a51575e50800000000000000
+      internalID: 6797991609738480770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 249
+        width: 350
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890612c69eac04220800000000000000
+      internalID: 2468195699689349272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1161
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af83a00c19eabf520800000000000000
+      internalID: 2736973139573094650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Forgotten Crypt Entrance Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 0
+        width: 361
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0de7473f3a9870800000000000000
+      internalID: 8690327937627262704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Forgotten Crypt Entrance Tileset_0: -7363710072709133842
+      Forgotten Crypt Entrance Tileset_1: 2422344822072742072
+      Forgotten Crypt Entrance Tileset_10: -4160256992300157468
+      Forgotten Crypt Entrance Tileset_11: 1887425902460576445
+      Forgotten Crypt Entrance Tileset_12: -251913554855876246
+      Forgotten Crypt Entrance Tileset_13: 6797991609738480770
+      Forgotten Crypt Entrance Tileset_14: 2468195699689349272
+      Forgotten Crypt Entrance Tileset_15: 2736973139573094650
+      Forgotten Crypt Entrance Tileset_16: 8690327937627262704
+      Forgotten Crypt Entrance Tileset_2: 9167227463183031425
+      Forgotten Crypt Entrance Tileset_3: -1288507623352380869
+      Forgotten Crypt Entrance Tileset_4: 8648139267492346197
+      Forgotten Crypt Entrance Tileset_5: -1892449884668656357
+      Forgotten Crypt Entrance Tileset_6: -2657573410659472786
+      Forgotten Crypt Entrance Tileset_7: -6041377558595046290
+      Forgotten Crypt Entrance Tileset_8: -6612176271492841086
+      Forgotten Crypt Entrance Tileset_9: 8056449028759187163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
